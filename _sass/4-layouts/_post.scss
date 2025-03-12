@@ -1,14 +1,17 @@
+@use "../0-settings/variables";
+@use "../1-tools/grid";
+
 /* Post + Page */
 .post__head,
 .page__head {
   max-width: 720px;
   margin: 0 auto 32px;
 
-  @media (max-width: $desktop) {
+  @media (max-width: grid.$desktop) {
     margin: 0 auto 32px;
   }
 
-  @media (max-width: $mobile) {
+  @media (max-width: grid.$mobile) {
     margin: 0 auto 32px;
   }
 }
@@ -40,7 +43,7 @@
     font-weight: 500;
     border-radius: 60px;
     color: var(--heading-font-color);
-    transition: $global-transition;
+    transition: variables.$global-transition;
     background-color: var(--background-alt-color);
 
     &:hover {
@@ -79,11 +82,11 @@
   font-size: 44px;
   line-height: 1.15;
 
-  @media (max-width: $tablet) {
+  @media (max-width: grid.$tablet) {
     font-size: 36px;
   }
 
-  @media (max-width: $mobile) {
+  @media (max-width: grid.$mobile) {
     font-size: 28px;
   }
 }
@@ -92,11 +95,11 @@
 .page__description {
   margin-top: 8px;
   margin-bottom: 0;
-  font-family: $heading-font-family;
+  font-family: variables.$heading-font-family;
   font-size: 24px;
   line-height: 1.38;
 
-  @media (max-width: $desktop) {
+  @media (max-width: grid.$desktop) {
     font-size: 20px;
   }
 }
@@ -180,14 +183,14 @@
     border-radius: 50%;
     color: var(--heading-font-color);
     background-color: var(--background-alt-color);
-    transition: $global-transition;
+    transition: variables.$global-transition;
 
     &:hover {
       background-color: var(--background-alt-color-2);
     }
   }
 
-  @media (max-width: $tablet) {
+  @media (max-width: grid.$tablet) {
     .share__list {
       gap: 8px;
     }
@@ -217,7 +220,7 @@
     padding-bottom: 75%;
   }
 
-  @media (max-width: $mobile) {
+  @media (max-width: grid.$mobile) {
     border-radius: 16px;
   }
 }
@@ -246,7 +249,7 @@
     }
   }
 
-  @media (max-width: $mobile) {
+  @media (max-width: grid.$mobile) {
     border-radius: 16px;
   }
 }
@@ -283,7 +286,7 @@
 .post,
 .page {
   max-width: 720px;
-  font-family: $heading-font-family;
+  font-family: variables.$heading-font-family;
   font-size: 20px;
   color: var(--text-color);
 
@@ -294,7 +297,7 @@
   h5,
   h6 {
     margin-bottom: 16px;
-    font-family: $base-font-family;
+    font-family: variables.$base-font-family;
   }
 
   a {
@@ -312,7 +315,7 @@
   .lightense-wrap,
   .gallery {
     &+em {
-        font-family: $base-font-family;
+        font-family: variables.$base-font-family;
         color: var(--text-alt-color);
 
       a {
@@ -353,7 +356,7 @@
   .note, .tip, .important, .warning, .caution {
     position: relative;
     padding: 32px 32px 32px 64px;
-    font-family: $base-font-family;
+    font-family: variables.$base-font-family;
     font-size: 18px;
     border-radius: 8px;
     color: var(--heading-font-color);
@@ -387,11 +390,11 @@
     background: var(--callout-caution);
   }
 
-  @media (max-width: $desktop) {
+  @media (max-width: grid.$desktop) {
     margin: 0 auto 64px;
   }
 
-  @media (max-width: $mobile) {
+  @media (max-width: grid.$mobile) {
     margin: 0 auto 48px;
 
     img, .js-reframe {
@@ -421,7 +424,7 @@
   .page__toc__list {
     margin-bottom: 0;
     padding-left: 4px;
-    font-family: $base-font-family;
+    font-family: variables.$base-font-family;
     color: var(--text-alt-color);
 
     li {
@@ -522,10 +525,10 @@
 
   .card-author__description {
     margin-bottom: 0;
-    font-family: $heading-font-family;
+    font-family: variables.$heading-font-family;
   }
 
-  @media (max-width: $mobile) {
+  @media (max-width: grid.$mobile) {
     flex-direction: column;
 
     .card-author__image {
@@ -550,14 +553,14 @@
 
   .show-comments__title {
     margin-bottom: 0;
-    font-family: $base-font-family;
+    font-family: variables.$base-font-family;
   }
 
   .disqus-button {
     margin-top: 20px;
   }
 
-  @media (max-width: $mobile) {
+  @media (max-width: grid.$mobile) {
     .disqus-button {
       margin-top: 16px;
     }
@@ -572,13 +575,13 @@
     margin: 32px auto 0;
   }
 
-  @media (max-width: $desktop) {
+  @media (max-width: grid.$desktop) {
     &.is-open {
       margin: 32px auto 0;
     }
   }
 
-  @media (max-width: $mobile) {
+  @media (max-width: grid.$mobile) {
     &.is-open {
       margin: 20px auto 0;
     }
@@ -594,11 +597,11 @@
     display: block;
   }
 
-  @media (max-width: $desktop) {
+  @media (max-width: grid.$desktop) {
     margin-top: 64px;
   }
 
-  @media (max-width: $mobile) {
+  @media (max-width: grid.$mobile) {
     margin-top: 48px;
   }
 }
@@ -618,11 +621,11 @@
     color: var(--text-alt-color);
   }
 
-  @media (max-width: $desktop) {
+  @media (max-width: grid.$desktop) {
     margin: 64px 0;
   }
 
-  @media (max-width: $mobile) {
+  @media (max-width: grid.$mobile) {
     margin: 48px 0;
 
     .error__title {

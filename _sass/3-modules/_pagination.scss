@@ -1,3 +1,5 @@
+@use "../1-tools/grid";
+
 /* Pagination */
 .pagination {
   display: flex;
@@ -5,7 +7,7 @@
   align-items: center;
   margin-top: 16px;
 
-  @media (max-width: $tablet) {
+  @media (max-width: grid.$tablet) {
     margin-top: 0;
   }
 }

@@ -1,3 +1,6 @@
+@use "../0-settings/variables";
+@use "../1-tools/grid";
+
 /* Tags */
 .tag__head {
   margin-bottom: 60px;
@@ -16,14 +19,14 @@
     border-radius: 22px;
     color: var(--heading-font-color);
     background: var(--background-alt-color);
-    transition: $global-transition;
+    transition: variables.$global-transition;
 
     &:hover {
       background: var(--background-alt-color-2);
     }
   }
 
-  @media (max-width: $desktop) {
+  @media (max-width: grid.$desktop) {
     margin-bottom: 44px;
 
     .col {
@@ -31,7 +34,7 @@
     }
   }
 
-  @media (max-width: $tablet) {
+  @media (max-width: grid.$tablet) {
     .row {
       row-gap: 12px;
     }
@@ -42,7 +45,7 @@
     }
   }
 
-  @media (max-width: $mobile) {
+  @media (max-width: grid.$mobile) {
     margin-bottom: 28px;
   }
 }
@@ -59,7 +62,7 @@
     margin-bottom: -32px;
   }
 
-  @media (max-width: $mobile) {
+  @media (max-width: grid.$mobile) {
     margin-bottom: 60px;
   }
 }
@@ -69,7 +72,7 @@
   font-size: 46px;
   font-weight: 900;
 
-  @media (max-width: $mobile) {
+  @media (max-width: grid.$mobile) {
     font-size: 32px;
   }
 }

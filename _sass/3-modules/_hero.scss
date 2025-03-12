@@ -1,3 +1,6 @@
+@use "../0-settings/variables";
+@use "../1-tools/grid";
+
 /* Hero */
 .hero {
   margin-bottom: 80px;
@@ -117,7 +120,7 @@
   .hero__description {
     margin: 0 auto;
     max-width: 780px;
-    font-family: $heading-font-family;
+    font-family: variables.$heading-font-family;
     font-size: 24px;
     line-height: 1.38;
   }
@@ -133,7 +136,7 @@
     border-radius: 60px;
     color: var(--text-alt-color);
     background: var(--background-alt-color);
-    transition: $global-transition;
+    transition: variables.$global-transition;
     cursor: pointer;
 
     &:hover {
@@ -148,7 +151,7 @@
     }
   }
 
-  @media (max-width: $desktop) {
+  @media (max-width: grid.$desktop) {
     margin-bottom: 64px;
 
     .hero__title {
@@ -160,7 +163,7 @@
     }
   }
 
-  @media (max-width: $tablet) {
+  @media (max-width: grid.$tablet) {
     .hero__title {
       font-size: 38px;
     }
@@ -170,7 +173,7 @@
     }
   }
 
-  @media (max-width: $mobile) {
+  @media (max-width: grid.$mobile) {
     margin-bottom: 48px;
 
     .hero__authors {

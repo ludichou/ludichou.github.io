@@ -1,3 +1,6 @@
+@use "../0-settings/variables";
+@use "../1-tools/grid";
+
 /* Authors */
 .authors {
   .authors__head {
@@ -78,7 +81,7 @@
   }
 
   .authors__description {
-    font-family: $heading-font-family;
+    font-family: variables.$heading-font-family;
     font-size: 18px;
     line-height: 1.35;
     text-align: center;
@@ -88,13 +91,13 @@
     }
   }
 
-  @media (max-width: $tablet) {
+  @media (max-width: grid.$tablet) {
     .authors__description {
       font-size: inherit;
     }
   }
 
-  @media (max-width: $mobile) {
+  @media (max-width: grid.$mobile) {
     .authors__info {
       border-radius: 16px;
     }
@@ -121,7 +124,7 @@
     background: var(--background-alt-color);
   }
 
-  @media (max-width: $wide) {
+  @media (max-width: grid.$wide) {
     .row {
       justify-content: center;
     }
@@ -182,7 +185,7 @@
   .author__description {
     max-width: 780px;
     margin: 0 auto;
-    font-family: $heading-font-family;
+    font-family: variables.$heading-font-family;
     font-size: 24px;
     line-height: 1.35;
 
@@ -212,7 +215,7 @@
     font-size: 18px;
   }
 
-  @media (max-width: $desktop) {
+  @media (max-width: grid.$desktop) {
     .author__content {
       margin-bottom: 64px;
     }
@@ -226,7 +229,7 @@
     }
   }
 
-  @media (max-width: $tablet) {
+  @media (max-width: grid.$tablet) {
     .author__name {
       font-size: 38px;
     }
@@ -244,7 +247,7 @@
     }
   }
 
-  @media (max-width: $mobile) {
+  @media (max-width: grid.$mobile) {
     .author__content {
       margin-bottom: 48px;
     }

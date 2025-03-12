@@ -1,3 +1,5 @@
+@use "../1-tools/grid";
+
 /* Section Tags */
 .section-recommended {
   .article {
@@ -16,7 +18,7 @@
     }
   }
 
-  @media (max-width: $desktop) {
+  @media (max-width: grid.$desktop) {
     .article {
       .video-icon {
         width: 68px;

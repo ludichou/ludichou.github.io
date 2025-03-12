@@ -1,3 +1,6 @@
+@use "../0-settings/variables";
+@use "../1-tools/grid";
+
 /* Contact */
 .contact-page {
   height: 100vh
@@ -98,12 +101,12 @@
 
     .contact__description {
       margin: 8px 0 0;
-      font-family: $heading-font-family;
+      font-family: variables.$heading-font-family;
       line-height: 1.35;
     }
   }
 
-  @media (max-width: $wide) {
+  @media (max-width: grid.$wide) {
     .contact__left {
       width: 40%;
     }
@@ -113,7 +116,7 @@
     }
   }
 
-  @media (max-width: $desktop) {
+  @media (max-width: grid.$desktop) {
     .contact__left {
       display: none;
     }
@@ -123,7 +126,7 @@
     }
   }
 
-  @media (max-width: $tablet) {
+  @media (max-width: grid.$tablet) {
     .contact__inner {
       .contact__title {
         font-size: 45px;
@@ -131,7 +134,7 @@
     }
   }
 
-  @media (max-width: $mobile) {
+  @media (max-width: grid.$mobile) {
     .contact__inner {
       .contact__title {
         font-size: 36px;
@@ -176,7 +179,7 @@
     }
   }
 
-  @media (max-width: $mobile) {
+  @media (max-width: grid.$mobile) {
     font-size: inherit;
   }
 }

@@ -1,3 +1,6 @@
+@use "../0-settings/variables";
+@use "../1-tools/grid";
+
 /* Search */
 .search {
   position: fixed;
@@ -49,7 +52,7 @@
   will-change: transform;
   transition: all .2s ease;
 
-  @media (max-width: $desktop) {
+  @media (max-width: grid.$desktop) {
     margin: 80px auto 0;
   }
 }
@@ -70,7 +73,7 @@
     border-radius: 12px;
     color: var(--text-alt-color);
     background: var(--background-alt-color);
-    transition: $global-transition;
+    transition: variables.$global-transition;
     cursor: pointer;
 
     &:hover {
@@ -88,7 +91,7 @@
     color: var(--heading-font-color);
     background-color: var(--background-color);
     outline: 0;
-    transition: $global-transition;
+    transition: variables.$global-transition;
 
     &::placeholder {
       color: var(--text-alt-color);
@@ -175,7 +178,7 @@
   }
 
   .search-results-title {
-    font-family: $heading-font-family;
+    font-family: variables.$heading-font-family;
     text-decoration: underline;
     text-decoration-color: transparent;
     text-decoration-thickness: 1px;
@@ -201,7 +204,7 @@
     color: var(--heading-font-color);
   }
 
-  @media (max-width: $mobile) {
+  @media (max-width: grid.$mobile) {
     .search-results__link {
       font-size: 15px;
     }

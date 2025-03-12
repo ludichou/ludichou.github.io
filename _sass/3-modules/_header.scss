@@ -1,3 +1,6 @@
+@use "../0-settings/variables";
+@use "../1-tools/grid";
+
 /* Header */
 .header {
   margin-bottom: 80px;
@@ -9,14 +12,14 @@
     justify-content: space-between;
     align-items: center;
     flex-wrap: wrap;
-    padding: $base-spacing-unit;
+    padding: variables.$base-spacing-unit;
   }
 
-  @media (max-width: $desktop) {
+  @media (max-width: grid.$desktop) {
     margin-bottom: 64px;
   }
 
-  @media (max-width: $mobile) {
+  @media (max-width: grid.$mobile) {
     margin-bottom: 48px;
   }
 }
@@ -54,10 +57,10 @@
   flex: 1 0;
   align-items: center;
 
-  @media (max-width: $desktop) {
+  @media (max-width: grid.$desktop) {
     position: absolute;
     top: 60px;
-    right: $base-spacing-unit;
+    right: variables.$base-spacing-unit;
     z-index: -1;
     display: block;
     min-width: 160px;
@@ -128,7 +131,7 @@
   align-items: center;
   margin-left: 32px;
 
-  @media (max-width: $desktop) {
+  @media (max-width: grid.$desktop) {
     display: block;
   }
 }
@@ -235,7 +238,7 @@
     .dropdown-menu {
       background-color: var(--background-alt-color);
     }
-    @media (max-width: $desktop) {
+    @media (max-width: grid.$desktop) {
       background-color: var(--background-alt-color);
     }
   }
@@ -248,7 +251,7 @@
   display: none;
   cursor: pointer;
 
-  @media (max-width: $desktop) {
+  @media (max-width: grid.$desktop) {
     display: flex;
     align-items: center;
   }
@@ -325,7 +328,7 @@
     margin-left: 20px;
   }
 
-  @media (max-width: $desktop) {
+  @media (max-width: grid.$desktop) {
     flex-direction: column;
     align-items: end;
 

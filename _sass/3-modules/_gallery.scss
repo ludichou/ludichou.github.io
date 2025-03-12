@@ -1,12 +1,14 @@
+@use "../1-tools/grid";
+
 /* Gallery */
 .gallery-box {
   margin: 32px -100px 32px -100px;
 
-  @media (max-width: $wide) {
+  @media (max-width: grid.$wide) {
     margin: 32px -40px 32px -40px;
   }
 
-  @media (max-width: $desktop) {
+  @media (max-width: grid.$desktop) {
     margin: 32px 0;
   }
 }
@@ -44,7 +46,7 @@
     }
   }
 
-  @media (max-width: $desktop) {
+  @media (max-width: grid.$desktop) {
     margin-left: -12px;
     margin-bottom: -12px;
 

@@ -1,12 +1,14 @@
+@use "../1-tools/grid";
+
 /* Sections */
 .section {
   margin-bottom: 80px;
 
-  @media (max-width: $desktop) {
+  @media (max-width: grid.$desktop) {
     margin-bottom: 64px;
   }
 
-  @media (max-width: $mobile) {
+  @media (max-width: grid.$mobile) {
     margin-bottom: 48px;
   }
 
@@ -30,7 +32,7 @@
   margin-bottom: 24px;
   border-bottom: 1px solid var(--border-color);
 
-  @media (max-width: $mobile) {
+  @media (max-width: grid.$mobile) {
     margin-bottom: 24px;
   }
 }
@@ -57,7 +59,7 @@
     }
   }
 
-  @media (max-width: $mobile) {
+  @media (max-width: grid.$mobile) {
     font-size: 28px;
   }
 }

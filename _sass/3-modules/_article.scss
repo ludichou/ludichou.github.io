@@ -1,3 +1,6 @@
+@use "../0-settings/variables";
+@use "../1-tools/grid";
+
 /* Article */
 .article {
   position: relative;
@@ -74,7 +77,7 @@
     }
   }
 
-  @media (max-width: $wide) {
+  @media (max-width: grid.$wide) {
     &.article--big {
       .article__content {
         .article__title {
@@ -104,7 +107,7 @@
     }
   }
 
-  @media (max-width: $desktop) {
+  @media (max-width: grid.$desktop) {
     &.article--big {
       .article__inner {
         flex-direction: column;
@@ -167,7 +170,7 @@
     padding-bottom: 75%;
   }
 
-  @media (max-width: $mobile) {
+  @media (max-width: grid.$mobile) {
     border-radius: 16px;
   }
 }
@@ -189,7 +192,7 @@
   box-shadow: 0px 100px 80px rgba(0, 0, 0, 0.07), 0px 41.7776px 33.4221px rgba(0, 0, 0, 0.0503198), 0px 22.3363px 17.869px rgba(0, 0, 0, 0.0417275);
   overflow: hidden;
   pointer-events: none;
-  transition: $global-transition;
+  transition: variables.$global-transition;
   will-change: transform;
 
   @supports (-webkit-backdrop-filter: none) or (backdrop-filter: none) {
@@ -227,7 +230,7 @@
     font-weight: 500;
     border-radius: 60px;
     color: var(--heading-font-color);
-    transition: $global-transition;
+    transition: variables.$global-transition;
     background-color: var(--background-alt-color);
 
     &:hover {
@@ -279,7 +282,7 @@
 .article__excerpt {
   display: -webkit-box;
   margin-bottom: 0;
-  font-family: $heading-font-family;
+  font-family: variables.$heading-font-family;
   line-height: 1.35;
   overflow-y: hidden;
   -webkit-line-clamp: 5;

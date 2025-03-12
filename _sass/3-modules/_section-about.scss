@@ -1,3 +1,6 @@
+@use "../0-settings/variables";
+@use "../1-tools/grid";
+
 /* Section About */
 .about__inner {
   display: flex;
@@ -36,7 +39,7 @@
 
     .about__subtitle {
       margin-bottom: 24px;
-      font-family: $heading-font-family;
+      font-family: variables.$heading-font-family;
       font-size: 24px;
       line-height: 1.35;
       color: var(--text-alt-color);
@@ -44,7 +47,7 @@
 
     .about__description {
       margin-bottom: 32px;
-      font-family: $heading-font-family;
+      font-family: variables.$heading-font-family;
       line-height: 1.35;
 
       p {
@@ -60,7 +63,7 @@
     }
   }
 
-  @media (max-width: $wide) {
+  @media (max-width: grid.$wide) {
     .about__content {
       max-width: 440px;
 
@@ -70,7 +73,7 @@
     }
   }
 
-  @media (max-width: $desktop) {
+  @media (max-width: grid.$desktop) {
     flex-direction: column;
 
     .about__image {
@@ -91,7 +94,7 @@
     }
   }
 
-  @media (max-width: $tablet) {
+  @media (max-width: grid.$tablet) {
     .about__image {
       border-radius: 16px;
 
@@ -117,7 +120,7 @@
     }
   }
 
-  @media (max-width: $mobile) {
+  @media (max-width: grid.$mobile) {
     .about__content {
       .about__title {
         font-size: 32px;
