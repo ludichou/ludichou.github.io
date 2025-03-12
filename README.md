@@ -1,3 +1,33 @@
+# Local development
+Build an image from the Dockerfile
+```
+docker build -t my-ruby-env .
+```
+
+```
+docker compose up -d
+docker exec -it local_jekyll /bin/bash
+```
+
+Then in the container run:
+```
+bundle install
+bundle exec jekyll serve
+```
+
+## Alternativly, you can use GitHub Codespace
+Navigate to the repo.  
+Launch Codespaces (Code button -> Cloud -> New codespace on current branch). 
+Once it's launched, run the following in the terminal. 
+
+```
+ gem install bundler jekyll. 
+ bundle update
+ bundle exec jekyll serve
+```
+ 
+That's it - you will get a new tab to view the rendered work as you edit. So easy!
+
 # Nomod is a multipurpose Jekyll blog theme
 
 Nomod is a multipurpose Jekyll blog theme designed for creatives, writers, and developers who value both aesthetics and functionality. It’s the perfect choice for anyone looking to host their blog effortlessly on GitHub Pages, enjoying the benefits of a fast and secure site with zero hosting costs. It supports various post formats, including video posts and multiple authors, making it ideal for collaborative projects or multi-contributor blogs. This versatility allows you to create and manage content seamlessly, providing an engaging experience for your audience, regardless of the type of content you wish to share.
