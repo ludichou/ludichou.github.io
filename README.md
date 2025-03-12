@@ -21,7 +21,7 @@ Launch Codespaces (Code button -> Cloud -> New codespace on current branch).
 Once it's launched, run the following in the terminal. 
 
 ```
- gem install bundler jekyll. 
+ gem install bundler jekyll
  bundle update
  bundle exec jekyll serve
 ```
