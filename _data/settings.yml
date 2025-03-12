@@ -1,6 +1,6 @@
 #-------------------------------
 # Site Settings
-title: Nomod
+title: Ludichou
 description: Nomod is a multipurpose Jekyll blog theme
 logo: # You can add own logo. For example "/images/logo.png".
 logo_dark:
@@ -11,56 +11,56 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 # Navigation Settings
 menu_settings:
   menu_items:
-    - title: "Home"
+    - title: "Accueil"
       url: "/"
-    - title: "Latest"
+    - title: "Articles"
       url: "/latest/"
-    - title: "Authors"
-      url: "/authors/"
+    #- title: "Auteurs"
+    #  url: "/authors/"
     - title: "Resources"
       submenu:
       - url: "/videos/"
         title: "Videos"
       - url: "/featured/"
-        title: "Featured"
+        title: "À la une"
       - url: "/elements/"
         title: "Elements"
       - url: "/tags/"
         title: "Topics"
-    - title: "About"
+    - title: "À propos"
       url: "/about/"
 
 # Call to action button
 cta_button:
   enable: true
   cta_button_link: '/contact/'
-  cta_button_text: Get in touch
+  cta_button_text: Contact
 
 
 #-------------------------------
 # Hero Settings
 hero:
   enable: true
-  hero_title: Stories, Journeys, and Ideas for the Creatively Curious
+  hero_title: Des livres, des jeux, pour nos petits et grands curieux
   hero_description: Join us on a journey where every post brings a fresh perspective. This blog is for those who are driven by curiosity and a desire to learn.
 
 hero_authors:
-  enable: true
-  hero_authors_description: Meet our talented team
+  enable: false
+  hero_authors_description: Rencontrez notre équipe de rédacteurs passionnés
 
 
 #-------------------------------
 # Blog Section Settings
 blog:
   enable: true
-  blog_title: Latest
+  blog_title: Derniers posts
 
 
 #-------------------------------
 # Recommended Section Settings
 recommended:
   enable: true
-  recommended_title: Recommended
+  recommended_title: Recommendations
   recommended_tag: "Lifestyle"
 
 
@@ -68,7 +68,7 @@ recommended:
 # About Section Settings
 about:
   enable: true
-  about_title: Hello, I’m Giana
+  about_title: Bonjour, je suis Armelle
   about_subtitle: I’m a thinker and storyteller with a passion for exploring the intersection of creativity and technology
   about_description: |
     Giana Franci’s mission is rooted in the belief that creativity is a catalyst for connection and change. Through her blog, she seeks to bridge the gap between design, technology, and lifestyle, offering a space where ideas can flourish and innovation can thrive.
