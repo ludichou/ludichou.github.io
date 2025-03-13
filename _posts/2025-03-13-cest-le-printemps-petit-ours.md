@@ -6,7 +6,7 @@ date: 2025-03-13 15:01:35 +0300
 author: Armelle
 image: 'images/cest-le-printemps-petit-ours.jpg'
 #video_embed: https://www.youtube.com/embed/JsoUDxfx-Yw?si=_JbYlsqfyOiI6zFO
-tags: [Lifestyle]
+tags: [Livres- français]
 featured: true
 toc: true
 ---
