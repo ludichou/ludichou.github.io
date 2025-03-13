@@ -6,7 +6,7 @@ date: 2025-03-13 15:01:35 +0300
 author: Armelle
 image: 'images/cest-le-printemps-petit-ours.jpg'
 #video_embed: https://www.youtube.com/embed/JsoUDxfx-Yw?si=_JbYlsqfyOiI6zFO
-tags: [Livres- français]
+tags: [Livres- français- printemps]
 featured: true
 toc: true
 ---
@@ -23,13 +23,13 @@ Mon fils de 4 ans s’est immédiatement identifié à Petit Ours : il posait be
 
 ## Pourquoi j’aime Le printemps de Petit Ours ?
 
-- Une histoire compréhensible et captivante pour les jeunes lecteurs.
-- De très belles illustrations qui évoquent la beauté du printemps.
-- Un message positif sur l’amitié et la persévérance.
-- Un livre empreint de poésie et de valeurs, qui invite les enfants à explorer la nature tout en développant leur sensibilité et leur imagination.
+- Une **histoire compréhensible et captivante** pour les jeunes lecteurs.
+- De **très belles illustrations** qui évoquent la beauté du printemps.
+- Un **message positif** sur l’amitié et la persévérance.
+- Un **livre empreint de poésie et de valeurs**, qui invite les enfants à explorer la nature tout en développant leur sensibilité et leur imagination.
 
 Ce livre est une véritable invitation à l’émerveillement et à la curiosité. Une lecture parfaite pour partager un moment doux et chaleureux avec votre enfant, tout en célébrant la magie du printemps !    
 
-Envie de découvrir ce magnifique livre ? Retrouvez Le printemps de Petit Ours sur Amazon et offrez à votre enfant une belle aventure printanière ! 
+Envie de découvrir ce magnifique livre ? Retrouvez _Le printemps de Petit Ours_ sur Amazon et offrez à votre enfant une belle aventure printanière ! 
 
 Suivez-moi pour d'autres découvertes littéraires et ne manquez pas mon prochain coup de cœur sur le printemps !
