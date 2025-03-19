@@ -68,11 +68,11 @@ recommended:
 # About Section Settings
 about:
   enable: true
-  about_title: Bonjour, je suis Armelle
-  about_subtitle: J'ai été infirmière en médecine gériatrique puis développeuse web avant de me lancer dans l'entreprenariat.
-  about_description: Maman de deux enfants, je suis passionnée de lecture, de jeux de société ainsi que sur la parentalité, développement personnel et entreprenariat.
+  about_title: Bonjour, je m'appelle Armelle
+  about_subtitle: Maman de deux garçons, j’ai à cœur de partager ma passion pour les livres jeunesse et les jeux de société. J’aime les histoires qui font rêver, réfléchir et grandir, avec de belles illustrations et des messages forts.
+  about_description: Sur ce blog, vous trouverez mes coups de cœur en français et en anglais, des recommandations de jeux et des idées pour éveiller la curiosité des enfants. Que ce soit à travers la lecture ou le jeu, j’adore explorer de nouvelles façons d’apprendre et de créer des moments complices avec mes enfants.
 
-  about_image: "/images/01.jpg"
+  about_image: "/images/armelle.webp"
   about_image_alt: Daryl Mercer
   about_button_link: "/about/"
 
@@ -129,7 +129,7 @@ contact:
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus_identifier: anvod-studio-test # Add your shortname for Disqus Comment. For example anvod-studio-test
+disqus_identifier: ludichou # Add your shortname for Disqus Comment. For example anvod-studio-test
 
 
 #-------------------------------

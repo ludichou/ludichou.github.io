@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Les Souris du Buisson aux mûres - Le Printemps de Barklem Jill 
-description: Les beaux jours sont de retour ! Les fleurs éclosent, les oiseaux chantent et la nature s’éveille… Dans ce livre tendre et poétique, de petites souris vivent au rythme du printemps, entre découvertes, jeux et amitié. 
+description: Sur le thème du printemps, ce livre m'a rappellé ceux de mon enfance avec ses illustrations peinte main à l'aquarelle et son histoire adaptée mais pas simpliste
 date: 2025-03-13 21:00:00 +0300
 author: Armelle
 image: 'images/printemps-les-souris-du-boisson-aux-mures.webp'
@@ -25,9 +25,9 @@ Avec mon fils de 4 ans, nous avons découvert ce joli livre plein de douceur. Il
 
 ## Pourquoi j'aime Les Souris du Buisson aux mûres - Le Printemps?
 
-- On découvre la nature à travers les yeux des petites souris.
-- Une histoire douce et accessible pour les jeunes lecteurs.
-- Des petits plaisirs simples de la nature et aux liens d’amitié comme un pique-nique.
+- On découvre la *nature* à travers les yeux des petites souris.
+- Une *histoire douce et accessible* pour les jeunes lecteurs.
+- Des *petits plaisirs simples de la nature* et aux *liens d’amitié* comme un pique-nique.
 
 Parfait pour une lecture tout en douceur ou pour accompagner une sortie au jardin et observer le réveil du printemps.
 

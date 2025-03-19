@@ -1,8 +1,8 @@
 ---
 layout: post
 title: The thank you book de Mary Lyn Ray
-description: Et si apprendre l’anglais devenait un jeu d’enfant ? Voici une histoire idéale pour initier les plus petits à une nouvelle langue tout en partageant un joli moment de lecture.
-date: 2025-03-10 21:00:00 +0300
+description: "J'ai à coeur d'initier mon fils à l'anglais de façon ludique et cette histoire lui a permis de comprendre ses premiers mots: Thank you"
+date: 2025-03-09 21:00:00 +0300
 author: Armelle
 image: 'images/the-thank-you-book.webp'
 tags: ["Livres-anglais"]
@@ -30,10 +30,10 @@ Depuis tout petit, j’aime l’idée que mon fils puisse découvrir l’anglais
 
 ## Pourquoi j'aime the thank you book ?
 
-- Des illustrations très colorées et jolies
-- Des phrases courtes et simples.
-- Faire découvrir l'anglais à mon fils
-- Des valeurs comme le partage, l'amitié, la famille, apprécier le moment présent
+- Des **illustrations très colorées et jolies**.
+- Le **texte** est **court**, **rythmé et faciles à comprendre**, même pour les jeunes lecteurs.
+- Faire **découvrir l'anglais** à mon fils
+- Des **valeurs** comme le partage, l'amitié, la famille, apprécier le moment présent. C'est une belle **leçon de gratitude**. Il rappelle **l’importance de dire merci pour les petites et grandes choses du quotidien** : la nature qui nous entoure, les moments en famille, les amis, et même les petits plaisirs de la vie. Ce **message positif** aide les enfants à développer un **état d’esprit bienveillant et reconnaissant**.
 
 
 Envie de découvrir ce livre et d’initier votre enfant à l’anglais tout en douceur ? Retrouvez The Thank You Book sur Amazon et partagez un joli moment de lecture bilingue avec votre enfant !

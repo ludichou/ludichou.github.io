@@ -5,7 +5,6 @@ description: "Avec l’arrivée des beaux jours et notamment du printemps ce 20 
 date: 2025-03-13 15:01:35 +0300
 author: Armelle
 image: 'images/printemp-petit-ours.webp'
-#video_embed: https://www.youtube.com/embed/JsoUDxfx-Yw?si=_JbYlsqfyOiI6zFO
 tags: ["Livres-français", "Printemps"]
 featured: true
 toc: true
@@ -29,7 +28,7 @@ Age : 4-6 ans
 - Une **histoire compréhensible et captivante** pour les jeunes lecteurs.
 - De **très belles illustrations** qui évoquent la beauté du printemps.
 - Un **message positif** sur l’amitié et la persévérance.
-- Un **livre empreint de poésie et de valeurs**, qui invite les enfants à explorer la nature tout en développant leur sensibilité et leur imagination.
+- Un **livre empreint de poésie et de valeurs**, qui invite les enfants à *explorer la nature tout en développant leur sensibilité et leur imagination*.
 
 Ce livre est une véritable invitation à l’émerveillement et à la curiosité. Une lecture parfaite pour partager un moment doux et chaleureux avec votre enfant, tout en célébrant la magie du printemps !    
 
