@@ -23,8 +23,8 @@ menu_settings:
       #   title: "Videos"
       - url: "/featured/"
         title: "À la une"
-      # - url: "/elements/"
-      #   title: "Elements"
+      - url: "/board-games/"
+        title: "Jeux de société"
       - url: "/tags/"
         title: "Sujets"
     - title: "À propos"
@@ -74,7 +74,6 @@ about:
 
   about_image: "/images/01.jpg"
   about_image_alt: Daryl Mercer
-  #about_button_text: Meet our team
   about_button_link: "/about/"
 
 
@@ -87,13 +86,13 @@ authors:
 
 #-------------------------------
 # Newsletter Settings
-mailchimp:
-  enable: true
-  mailchimp_title: Restez inspiré chaque semaine. Votre dose d'astuces et de conseils pratiques !
-  mailchimp_description: Chaque lundi, je vous partage des livres ou encore des jeux de société pour vos petits et plus grands curieux, directement dans votre boîte mail.
-  mailchimp_identifier: gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp # Add your MailChimp form identifier. For example - gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp
-  mailchimp_input_text: Votre adresse mail
-  mailchimp_button_text: S'inscrire
+# mailchimp:
+#   enable: true
+#   mailchimp_title: Restez inspiré chaque semaine. Votre dose d'astuces et de conseils pratiques !
+#   mailchimp_description: Chaque lundi, je vous partage des livres ou encore des jeux de société pour vos petits et plus grands curieux, directement dans votre boîte mail.
+#   mailchimp_identifier: gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp # Add your MailChimp form identifier. For example - gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp
+#   mailchimp_input_text: Votre adresse mail
+#   mailchimp_button_text: S'inscrire
 
 
 #-------------------------------
@@ -104,12 +103,12 @@ footer_description: Bienvenue sur Ludichou, un espace dédié aux amoureux de la
 
 # Social Links
 social:
-- {icon: "fa-brands fa-facebook-f", name: "Facebook", link: "https://facebook.com"}
-- {icon: "fa-brands fa-x-twitter", name: "Twitter", link: "https://twitter.com"}
-- {icon: "fa-brands fa-tiktok", name: "Tiktok", link: "https://www.tiktok.com"}
-- {icon: "fa-brands fa-instagram", name: "Instagram", link: "https://instagram.com"}
-- {icon: "fa-brands fa-mastodon", name: "Mastodon", link: "https://mastodon.social"}
-- {icon: "fa-brands fa-dribbble", name: "Dribbble", link: "https://www.dribbble.com"}
+# - {icon: "fa-brands fa-facebook-f", name: "Facebook", link: "https://facebook.com"}
+# - {icon: "fa-brands fa-x-twitter", name: "Twitter", link: "https://twitter.com"}
+# - {icon: "fa-brands fa-tiktok", name: "Tiktok", link: "https://www.tiktok.com"}
+# - {icon: "fa-brands fa-instagram", name: "Instagram", link: "https://instagram.com"}
+# - {icon: "fa-brands fa-mastodon", name: "Mastodon", link: "https://mastodon.social"}
+# - {icon: "fa-brands fa-dribbble", name: "Dribbble", link: "https://www.dribbble.com"}
 
 # Example of adding a new link to the footer - {icon: "fa-brands fa-youtube", name: "Youtube", link: https://youtube.com"}
 # Other icons can be found at https://fontawesome.com/icons
@@ -118,7 +117,7 @@ social:
 #-------------------------------
 # Contact Settings
 contact:
-  form_id: your@email.com # Add your form_id
+  form_id: xpwpqpnz # Add your form_id
   title: Contactez-moi
   description: 
   button_text: Envoyer maintenant

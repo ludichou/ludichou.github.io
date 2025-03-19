@@ -1,21 +1,24 @@
 ---
 layout: post
 title: Le printemps de Petit Ours de Elli Woolard et Briony May Smith
-description: 
+description: "Avec l’arrivée des beaux jours et notamment du printemps ce 20 mars, j’ai envie de vous partager un joli livre Le printemps de Petit Ours. Ce récit invite les enfants à découvrir cette saison à travers l’émerveillement et les interrogations d’un petit ours curieux. En posant des questions aux animaux qu’il rencontre, il cherche à comprendre ce qu’est le printemps tout en apprenant à observer la nature et à se méfier des dangers, comme les loups."
 date: 2025-03-13 15:01:35 +0300
 author: Armelle
-image: 'images/cest-le-printemps-petit-ours.jpg'
+image: 'images/printemp-petit-ours.webp'
 #video_embed: https://www.youtube.com/embed/JsoUDxfx-Yw?si=_JbYlsqfyOiI6zFO
-tags: [Livres- français- printemps]
+tags: ["Livres-français", "Printemps"]
 featured: true
 toc: true
 ---
 
-Avec l’arrivée des beaux jours et notamment du printemps ce 20 mars, j’ai envie de vous partager un joli livre : Le printemps de Petit Ours. Ce récit invite les enfants à découvrir cette saison à travers l’émerveillement et les interrogations d’un petit ours curieux. En posant des questions aux animaux qu’il rencontre, il cherche à comprendre ce qu’est le printemps tout en apprenant à observer la nature et à se méfier des dangers, comme les loups.
 Mon fils de 4 ans s’est immédiatement identifié à Petit Ours : il posait beaucoup de questions et s’émerveillait devant les magnifiques illustrations. Ce livre transmet de belles valeurs comme la persévérance, l’éveil à la nature et l’amitié.
 À travers les péripéties de Petit Ours, les enfants apprendront l’importance de la découverte, de la patience et du partage. C’est un récit idéal pour parler des changements saisonniers et du cycle de la nature.
 
 {: .q-left }
+
+Langue : Français.   
+Editeur : Gallimard jeunesse.
+Age : 4-6 ans
 
 ## Résumé
 
