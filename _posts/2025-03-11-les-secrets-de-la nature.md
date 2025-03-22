@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Les secrets de la nature 50 petites histoires pour prendre le temps de s'émerveiller de Rachel Williams et Freya Hartas
+title: "Les secrets de la nature : 50 petites histoires pour prendre le temps de s'émerveiller de Rachel Williams et Freya Hartas"
 description: Je trouve essentiel de transmettre l'amour de la nature et l'importance de prendre le temps de s'en émerveiller.
 date: 2025-03-11 15:01:35 +0300
 author: Armelle
-image: ''
-tags: ["Livres-français", "Nature"]
+image: 'images/les-secrets-de-la-nature-cover.webp'
+tags: ["Livres en français", "Nature", "Saison"]
 featured: true
 toc: true
 ---
@@ -38,4 +38,4 @@ Un guide nature à la fois zen et pratique !"
 
 Ce livre est une véritable invitation à la contemplation et à l’émerveillement. Un moment suspendu à savourer en famille !
 
-Envie d’explorer la nature avec votre enfant ? Retrouvez Les secrets de la nature sur Amazon et embarquez pour une belle aventure au cœur du monde qui nous entoure.
+Envie d’explorer la nature avec votre enfant ? Retrouvez sur Amazon [Les secrets de la nature](https://amzn.to/4kLrrv7) et embarquez pour une belle aventure au cœur du monde qui nous entoure.

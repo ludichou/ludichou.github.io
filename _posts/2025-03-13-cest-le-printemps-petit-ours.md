@@ -1,23 +1,24 @@
 ---
 layout: post
-title: Le printemps de Petit Ours de Elli Woolard et Briony May Smith
-description: "Avec l’arrivée des beaux jours et notamment du printemps ce 20 mars, j’ai envie de vous partager un joli livre Le printemps de Petit Ours. Ce récit invite les enfants à découvrir cette saison à travers l’émerveillement et les interrogations d’un petit ours curieux. En posant des questions aux animaux qu’il rencontre, il cherche à comprendre ce qu’est le printemps tout en apprenant à observer la nature et à se méfier des dangers, comme les loups."
+title: C'est le printemps, petit Ours de Elli Woolard et Briony May Smith
+description: Le printemps est là, l’occasion idéale pour découvrir ce livre. En partageant cette lecture avec mon fils, j’ai adoré voir son émerveillement et ses nombreuses questions sur la nature qui s’éveille. Ce livre invite à observer le monde qui change, entre découvertes et petits dangers, comme les loups !
 date: 2025-03-13 15:01:35 +0300
 author: Armelle
 image: 'images/printemp-petit-ours.webp'
-tags: ["Livres-français", "Printemps"]
+tags: ["Livres en français", "Printemps", "Saison"]
 featured: true
 toc: true
 ---
-
-Mon fils de 4 ans s’est immédiatement identifié à Petit Ours : il posait beaucoup de questions et s’émerveillait devant les magnifiques illustrations. Ce livre transmet de belles valeurs comme la persévérance, l’éveil à la nature et l’amitié.
-À travers les péripéties de Petit Ours, les enfants apprendront l’importance de la découverte, de la patience et du partage. C’est un récit idéal pour parler des changements saisonniers et du cycle de la nature.
-
 {: .q-left }
 
 Langue : Français.   
 Editeur : Gallimard jeunesse.
 Age : 4-6 ans
+
+## Le printemps de Petit Ours : un doux éveil à la nature
+
+Mon fils de 4 ans s’est immédiatement identifié à Petit Ours : il posait beaucoup de questions et s’émerveillait devant les magnifiques illustrations. Ce livre transmet de belles valeurs comme la persévérance, l’éveil à la nature et l’amitié.
+À travers les péripéties de Petit Ours, les enfants apprendront l’importance de la découverte, de la patience et du partage. C’est un récit idéal pour parler des changements saisonniers et du cycle de la nature.
 
 ## Résumé
 
@@ -32,6 +33,4 @@ Age : 4-6 ans
 
 Ce livre est une véritable invitation à l’émerveillement et à la curiosité. Une lecture parfaite pour partager un moment doux et chaleureux avec votre enfant, tout en célébrant la magie du printemps !    
 
-Envie de découvrir ce magnifique livre ? Retrouvez _Le printemps de Petit Ours_ sur Amazon et offrez à votre enfant une belle aventure printanière ! 
-
-Suivez-moi pour d'autres découvertes littéraires et ne manquez pas mon prochain coup de cœur sur le printemps !
+Si vous avez envie de le découvrir, vous pouvez le retrouver ici sur Amazon : [C'est le printemps, petit Ours](https://amzn.to/41QgOi0).

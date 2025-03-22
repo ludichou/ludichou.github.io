@@ -1,31 +1,33 @@
 ---
 layout: post
-title: P'tit loup apprend à jardiner
-description: 
-date: 2025-03-11 15:01:35 +0300
+title: P'tit Loup apprend à jardiner de  Orianne Lallemand et Éléonore Thuillier
+description: Passionnée de jardinage, j’avais hâte de le partager avec mon fils. P’tit Loup apprend à jardiner s’est révélé parfait pour l’accompagner. Il adore suivre ses aventures et comprendre chaque étape du jardinage tout en satisfaisant sa curiosité !
+date: 2025-03-10 15:01:35 +0300
 author: Armelle
-image: ''
-tags: ["Livres-français", "Nature"]
+image: 'images/ptit-loup-apprend-a-jardiner-cover.webp'
+tags: ["Livres en français", "Jardinage"]
 featured: true
 toc: true
 ---
-
-
 {: .q-left }
 
 Langue : Français.   
-Editeur : Larousse jeunesse.
-Age : 7 - 8 ans.
+Editeur : Auzou.
+Age : 1 - 3 ans.
 
-Avec mon fils, ce livre est devenu une belle occasion de partager un moment de découverte. Il adore parcourir les pages, observer les illustrations, poser des questions et s’interroger sur le monde qui l’entoure. Qu'est-ce qu'un arc-en ciel?Comment se forme un orage? Chaque lecture est une porte ouverte sur de nouvelles observations et discussions passionnantes.
+## Une belle découverte autour du jardinage
+
+Passionnée de jardinage, j’avais hâte de partager cette activité avec mon fils. P’tit Loup apprend à jardiner s’est révélé parfait pour l’accompagner dans cette découverte. Il adore s’identifier à P’tit Loup et pose mille questions : Quels outils faut-il pour jardiner ? Comment poussent les tomates ? Sont-elles bonnes à manger ? Ce livre l’aide à comprendre chaque étape tout en éveillant sa curiosité.
 
 ## Résumé
 
-"Autour de nous la nature est magnifique ! Et si nous prenions le temps d’observer toutes les merveilles et les secrets qu’elle recèle ?
+"Aujourd'hui, P'tit Loup jardine avec Papa. Il faut ratisser, creuser, arroser, désherber... P'tit Loup a hâte de récolter ce qu'ils ont planté. Mais il va falloir patienter !"
 
-Ce livre invite parents et enfants à ralentir pour (re)découvrir, au fil des saisons, plus de 50 merveilles de la nature (plantes, animaux, phénomènes météorologiques) qui sont présents, juste sous nos yeux, pour peu que l'on prenne le temps de les regarder…
+## Pourquoi j’aime p'tit Loup apprend à jardiner ?
 
-Un guide nature à la fois zen et pratique !"
+- P'tit loup est un **personnage attachant**, mon fils s'identifie à lui. Après cette lecture, il nous demande quand nous allons planter nos tomates à notre tour ! Il nous demande quand on va à notre tour planter nos tomates. 
+- Un **texte simple et pédagogique**, parfait pour les tout-petits.
+- De **belles illustrations colorées** qui rendent le **jardinage attractif**.
+- Un excellent moyen d’**aborder la patience et l’observation à travers le cycle des plantes**. Comme il est en moyenne section, ce thème est justement au programme cette année.
 
-## Pourquoi j’aime p'tit loup aprrend à jardiner ?
-
+Envie de découvrir ce magnifique livre ? Retrouvez sur amazon [P'tit loup apprend à jardiner](https://amzn.to/4bQYUjJ).

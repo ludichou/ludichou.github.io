@@ -27,11 +27,11 @@
 
           <div class="section__info">
             <div class="section__head">
-              <h2 class="section__title">Related</h2>
+              <h2 class="section__title">Sur le même thème</h2>
               {% if page.tags.size >= 1 %}
               {% for tag in page.tags %}
                 {% if forloop.index == 1 %}
-                  <a href="{{ site.baseurl }}/tags#{{ tag }}" class="section__link">Voir plus<span> {{ tag }}</span></a>
+                  <a href="{{ site.baseurl }}/tags#{{ tag }}" class="section__link">Voir plus de<span> {{ tag }}</span></a>
                 {% endif %}
               {% endfor %}
             {% endif %}

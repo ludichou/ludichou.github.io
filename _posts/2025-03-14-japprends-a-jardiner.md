@@ -2,10 +2,10 @@
 layout: post
 title: J’apprends à jardiner avec Marion Botanical de Marion Erlick 
 description: J’ai trouvé plein d'idées intéressantes avec ce livre pour initier mon fils à la magie des plantes.
-date: 2025-03-13 21:00:00 +0300
+date: 2025-03-14 21:00:00 +0300
 author: Armelle
 image: 'images/j-apprends-a-jardin.webp'
-tags: ["Livres-français", "Jardinage"]
+tags: ["Livres en français", "Jardinage", "Saison"]
 featured: true
 toc: true
 ---
@@ -43,4 +43,4 @@ Disposant d’un petit jardin et d’un balcon, j’ai eu envie de les aménager
 - Un **guide saisonnier** pour jardiner toute l’année et adapter les activités au rythme de la nature. 
 - Des **activités claires et bien expliquées** avec un pas-à-pas détaillé, une liste du matériel et des images illustratives.
 
-Ce livre est une belle façon de partager un moment de complicité avec votre enfant tout en éveillant sa curiosité pour la nature. Alors, prêts à enfiler vos gants de jardinage ? Découvrez J’apprends à jardiner avec Marion Botanical sur Amazon et semez les premières graines d’une belle aventure verte en famille !  
+Ce livre est une belle façon de partager un moment de complicité avec votre enfant tout en éveillant sa curiosité pour la nature. Alors, prêts à enfiler vos gants de jardinage ? Découvrez sur Amazon [J’apprends à jardiner avec Marion Botanical](https://amzn.to/4iHUhLD) et semez les premières graines d’une belle aventure verte en famille !  

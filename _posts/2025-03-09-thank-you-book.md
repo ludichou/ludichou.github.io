@@ -5,7 +5,7 @@ description: "J'ai à coeur d'initier mon fils à l'anglais de façon ludique et
 date: 2025-03-09 21:00:00 +0300
 author: Armelle
 image: 'images/the-thank-you-book.webp'
-tags: ["Livres-anglais"]
+tags: ["Livres en anglais"]
 featured: true
 toc: true
 ---
@@ -35,6 +35,5 @@ Depuis tout petit, j’aime l’idée que mon fils puisse découvrir l’anglais
 - Faire **découvrir l'anglais** à mon fils
 - Des **valeurs** comme le partage, l'amitié, la famille, apprécier le moment présent. C'est une belle **leçon de gratitude**. Il rappelle **l’importance de dire merci pour les petites et grandes choses du quotidien** : la nature qui nous entoure, les moments en famille, les amis, et même les petits plaisirs de la vie. Ce **message positif** aide les enfants à développer un **état d’esprit bienveillant et reconnaissant**.
 
-
-Envie de découvrir ce livre et d’initier votre enfant à l’anglais tout en douceur ? Retrouvez The Thank You Book sur Amazon et partagez un joli moment de lecture bilingue avec votre enfant !
+Envie de découvrir ce livre et d’initier votre enfant à l’anglais tout en douceur ? Retrouvez sur Amazon [The Thank You Book](https://amzn.to/4ipzAE0) et partagez un joli moment de lecture bilingue avec votre enfant !
  
