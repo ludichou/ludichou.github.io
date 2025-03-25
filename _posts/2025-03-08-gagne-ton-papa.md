@@ -22,7 +22,8 @@ Au début, mon fils ne comprenait pas bien comment jouer à Gagne ton Papa. Il h
 
 ## Résumé
 
-[Comment jouer à Gagne ton papa?](images/gagne-ton-papa-back.webp "Gagne ton papa")
+![Comment jouer à Gagne ton papa?]({{site.baseurl}}/images/gagne-ton-papa-back.webp)
+*Comment jouer à Gagne ton papa?*
 
 ## Pourquoi j'aime Gagne ton papa?
 
