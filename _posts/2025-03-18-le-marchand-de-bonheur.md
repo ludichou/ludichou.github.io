@@ -22,10 +22,11 @@ Age: 4 - 6 ans
 
 ## Pourquoi j'aime Le marchand de bonheur?
 
-[De très belles illustrations](images/le-marchand-de-bonheur-int.webp "Le marchand de bonheur").
+![De très belles illustrations](images/le-marchand-de-bonheur-int.webp)
+*De très belles illustrations*
 
 - Une histoire qui pousse à la réflexion sur le bonheur.
 - L'occasion d'échanger avec notre enfant sur ce qui le rend heureux et de partager nos propres sources de joie.
 - Des valeurs essentielles comme le partage, l'importance des petites choses du quotidien et la générosité.
 
-Le Marchand de Bonheur est un livre qui invite à la réflexion tout en transmettant des valeurs profondes. C’est un véritable moment de partage en famille, parfait pour aborder le bonheur, la générosité et les petites joies de la vie.Découvrez sur Amazon [Le marchand de bonheur.](https://amzn.to/4iz9GOe).  
+Le Marchand de Bonheur est un livre qui invite à la réflexion tout en transmettant des valeurs profondes. C’est un véritable moment de partage en famille, parfait pour aborder le bonheur, la générosité et les petites joies de la vie. Découvrez sur Amazon [Le marchand de bonheur.](https://amzn.to/4iz9GOe).  
