@@ -5,7 +5,7 @@ description: J’ai trouvé plein d'idées intéressantes avec ce livre pour ini
 date: 2025-03-14 21:00:00 +0300
 author: Armelle
 image: 'images/j-apprends-a-jardin.webp'
-tags: ["Livres en français", "Jardinage", "Saison"]
+tags: ["Jardinage", "Saison"]
 featured: true
 toc: true
 ---

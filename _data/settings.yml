@@ -13,8 +13,6 @@ menu_settings:
   menu_items:
     - title: "Accueil"
       url: "/"
-    - title: "Articles"
-      url: "/latest/"
     - title: "Resources"
       submenu:
       - url: "/featured/"
@@ -23,6 +21,8 @@ menu_settings:
         title: "Jeux de société"
       - url: "/tags/"
         title: "Sujets"
+    - title: "Articles"
+      url: "/latest/"
     - title: "À propos"
       url: "/about/"
 
@@ -69,7 +69,7 @@ about:
   about_description: Sur ce blog, vous trouverez mes coups de cœur en français et en anglais, des recommandations de jeux et des idées pour éveiller la curiosité des enfants. Que ce soit à travers la lecture ou le jeu, j’adore explorer de nouvelles façons d’apprendre et de créer des moments complices avec mes enfants.
 
   about_image: "/images/armelle.webp"
-  about_image_alt: Daryl Mercer
+  about_image_alt: Armelle
   about_button_link: "/about/"
 
 
