@@ -101,7 +101,7 @@ footer_description: Bienvenue sur Ludichou, un espace dédié aux amoureux de la
 social:
 - {icon: "fa-brands fa-facebook-f", name: "Facebook", link: "https://www.facebook.com/profile.php?id=61574486797572"}
 - {icon: "fa-brands fa-instagram", name: "Instagram", link: "https://www.instagram.com/ludichou_redac/"}
-- {icon: "fa-brands fa-pinterest", name: "Pinterest", link: ""}
+# - {icon: "fa-brands fa-pinterest", name: "Pinterest", link: ""}
 # - {icon: "fa-brands fa-x-twitter", name: "Twitter", link: "https://twitter.com"}
 # - {icon: "fa-brands fa-tiktok", name: "Tiktok", link: "https://www.tiktok.com"}
 # - {icon: "fa-brands fa-mastodon", name: "Mastodon", link: "https://mastodon.social"}
