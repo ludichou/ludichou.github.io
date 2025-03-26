@@ -5,6 +5,8 @@ description:
 permalink: /about/
 ---
 
+![Armelle]({{site.baseurl}}/images/armelle.webp)
+
 Je suis maman de deux enfants, un petit garçon de quatre ans et un bébé de deux mois. En tant que maman, j'ai une véritable passion pour les livres qui allient poésie, belles illustrations et valeurs humaines. Je prends un plaisir particulier à découvrir des ouvrages en français et en anglais, que ce soit pour mes enfants ou pour moi-même. Je m'intéresse aussi bien aux livres jeunesse qu'aux ouvrages sur la parentalité, le développement personnel et l'entrepreneuriat.
 
 J'adore les livres-jeux, mais aussi les jeux de société, passion que je partage avec mon fils, que ce soit avec des jeux comme Les Petites Souris ou d'autres jeux ludiques.
