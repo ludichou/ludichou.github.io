@@ -37,7 +37,7 @@ permalink: /tags/
         {% unless forloop.last %}
           {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
           <div class="col col-4 col-d-6 col-t-12">
-            <a href="#{{ this_word | cgi_escape | url_decode }}" class="tag__link">{{ this_word }} ({{ site.tags[this_word].size }})</a>
+            <a href="#{{ this_word | slugify: 'latin' }}" class="tag__link">{{ this_word }} ({{ site.tags[this_word].size }})</a>
           </div>
         {% endunless %}
       {% endfor %}
@@ -52,7 +52,7 @@ permalink: /tags/
     <div class="container">
       <div class="section__info">
         <div class="section__head">
-          <h2 class="section__title" id="{{ this_word | cgi_escape | url_decode }}">{{ this_word }}</h2>
+          <h2 class="section__title" id="{{ this_word | slugify: 'latin' }}">{{ this_word }}</h2>
           <a class="section__link top__link" href="#top">Return to top</a>
         </div>
       </div>
