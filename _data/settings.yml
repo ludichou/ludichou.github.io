@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
 title: Ludichou
-description: Nomod is a multipurpose Jekyll blog theme
+description: Des livres, des jeux, pour nos petits et grands curieux
 logo: # You can add own logo. For example "/images/logo.png".
 logo_dark:
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
