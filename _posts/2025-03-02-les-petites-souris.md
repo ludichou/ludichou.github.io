@@ -12,11 +12,11 @@ toc: true
 
 {: .q-left }
 
-Langue : Français.  
-Editeur : Nathan.  
-Durée : moins de 30 minutes.  
-Age : à partir de 2 ans.  
-Nombre de joueurs: 2 à 4. 
+Langue : Français.    
+Editeur : Nathan.    
+Durée : moins de 30 minutes.    
+Age : à partir de 2 ans.    
+Nombre de joueurs: 2 à 4.   
 
 Au début, je lui ai expliqué les règles ainsi que le principe du tour par tour. Il avait tendance à ne pas toujours respecter son tour ou à déplacer une autre souris par erreur. Mais une fois les règles bien assimilées, je le laissais préparer le jeu lui-même : il installait les souris sur les bonnes couleurs pendant que je m’occupais du chat et des poissons. Ensuite, il adorait lancer le dé pour nous, nous demandait quelle couleur avancer, puis déplaçait la bonne souris ou donnait un poisson au chat. À chaque fois qu'il nourrissait le chat, je disais « Miam miam ! », ce qui le faisait éclater de rire.
 

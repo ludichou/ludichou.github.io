@@ -13,8 +13,8 @@ toc: true
 
 {: .q-left }
 
-Langue : Français.   
-Editeur : Larousse jeunesse.
+Langue : Français.       
+Editeur : Larousse jeunesse.    
 Age : 7 - 8 ans.
 
 Avec mon fils, ce livre est devenu une belle occasion de partager un moment de découverte. Il adore parcourir les pages, observer les illustrations, poser des questions et s’interroger sur le monde qui l’entoure. Pourquoi les feuilles changent-elles de couleur ? Comment se forment les nuages ? Chaque lecture est une porte ouverte sur de nouvelles observations et discussions passionnantes.

@@ -12,8 +12,8 @@ toc: true
 
 {: .q-left }
 
-Langue : Français.   
-Editeur : Makaka Editions. 
+Langue : Français.     
+Editeur : Makaka Editions.   
 Age : Dès 3 ans
 
 ## La première découverte du livre-jeu par mon fils

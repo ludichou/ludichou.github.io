@@ -14,8 +14,8 @@ Mon fils a adoré suivre l'histoire du garçon et du chat dans leurs aventures. 
 
 {: .q-left }
 
-Langue : Anglais.   
-Editeur : Clarion Books
+Langue : Anglais.     
+Editeur : Clarion Books.  
 Age : 4-7 ans
 
 ## D'où vient cette envie de lire des histoires en anglais avec mon fils ?

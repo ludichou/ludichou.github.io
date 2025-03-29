@@ -21,7 +21,7 @@ Age: 2 à 5 ans.
 "Les premiers documentaires interactifs pour les 2-4 ans avec des animations et des matières.
 Pour partir à la découverte des petites bêtes avec des animations (explorer l'intérieur de la fourmilière,compter les pois des coccinelles...) et des matières à toucher."
 
-## Pourquoi Oh! Les jolies petites bêtes?
+## Pourquoi j'aime Oh! Les jolies petites bêtes?
 
 - De **jolies illustrations** qui captivent l'attention des enfants.
 - Un **texte adapté** aux enfants et facile à comprendre.

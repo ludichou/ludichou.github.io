@@ -11,8 +11,8 @@ toc: true
 ---
 {: .q-left }
 
-Langue : Français.   
-Editeur : Auzou.
+Langue : Français.     
+Editeur : Auzou.  
 Age : 1 - 3 ans.
 
 ## Une belle découverte autour du jardinage

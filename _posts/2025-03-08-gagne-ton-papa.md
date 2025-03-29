@@ -12,9 +12,9 @@ toc: true
 
 {: .q-left }
 
-Langue : Français.   
-Age : 3- 10 ans 
-Durée : 15 minutes
+Langue : Français.     
+Age : 3- 10 ans.  
+Durée : 15 minutes.
 
 ## Gagne ton Papa : Un jeu de logique qui a gagné toute la famille !
 

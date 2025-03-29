@@ -12,8 +12,8 @@ toc: true
 
 {: .q-left }
 
-Langue : Français.   
-Editeur : Rusti'kid.
+Langue : Français.     
+Editeur : Rusti'kid.  
 Age: Dès 3 ans.
 
 ## D'où vient cette passion du jardinage?

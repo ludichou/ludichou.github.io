@@ -12,9 +12,9 @@ toc: true
 
 {: .q-left }
 
-Langue : Français.   
-Editeur : Sarbacane.
-Age: 4 - 6 ans
+Langue : Français.     
+Editeur : Sarbacane.  
+Age: 4 - 6 ans.
 
 ## Résumé
 
