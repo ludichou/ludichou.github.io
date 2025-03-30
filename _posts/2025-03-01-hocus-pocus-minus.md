@@ -20,7 +20,7 @@ Age : Dès 3 ans
 
 Au début, il était un peu perdu et ne comprenait pas bien le principe. Je lui ai alors expliqué que c’était une aventure où il pouvait choisir différentes options pour faire avancer l’histoire. Pour l’aider, j’ai lu à voix haute en sélectionnant une option, lui montrant ainsi comment progresser dans le récit.
 
-Petit à petit, il a pris confiance et s’est lancé à son tour. Après plusieurs essais, il a vraiment accroché et s’amuse maintenant à explorer différentes possibilités, en répétant certains choix ou en en testant de nouveaux. Il adore aussi observer les illustrations et laisser libre cours à son imagination pour inventer ses propres histoires.
+Il a ensuite tenté de faire ses propres choix, mais la multitude de possibilités l’a parfois dérouté. Par moment, il ne savait plus quelle direction prendre, ce qui pouvait le frustrer. Toutefois, en l’accompagnant et en l’encourageant, il a progressivement compris le fonctionnement et pris plaisir à explorer l’histoire à son rythme.
 
 ## Résumé
 
