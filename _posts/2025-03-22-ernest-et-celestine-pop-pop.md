@@ -6,7 +6,7 @@ date: 2025-03-20 21:00:00 +0300
 author: Armelle
 image: 'images/ernest-et-celestine-pop-up-cover.webp'
 tags: ["Livres pop up"]
-featured: true
+featured: false
 toc: true
 ---
 

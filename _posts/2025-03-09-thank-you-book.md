@@ -6,7 +6,7 @@ date: 2025-03-09 21:00:00 +0300
 author: Armelle
 image: 'images/the-thank-you-book.webp'
 tags: ["Livres en anglais"]
-featured: true
+featured: false
 toc: true
 ---
 

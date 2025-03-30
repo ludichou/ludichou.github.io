@@ -6,7 +6,7 @@ date: 2025-03-19 21:00:00 +0300
 author: Armelle
 image: 'images/les-bisous-volants-cover.webp'
 tags: ["Emotions"]
-featured: true
+featured: false
 toc: true
 ---
 

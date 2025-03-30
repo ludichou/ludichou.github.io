@@ -6,7 +6,7 @@ date: 2025-03-01 21:00:00 +0300
 author: Armelle
 image: 'images/coucou-au-zoo-cover.webp'
 tags: ["Eveil"]
-featured: true
+featured: false
 toc: true
 ---
 

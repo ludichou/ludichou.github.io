@@ -6,7 +6,7 @@ date: 2025-03-20 21:00:00 +0300
 author: Armelle
 image: 'images/une-etoile-pour-toi-cover.webp'
 tags: ["Valeurs"]
-featured: true
+featured: false
 toc: true
 ---
 
