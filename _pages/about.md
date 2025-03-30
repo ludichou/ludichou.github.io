@@ -12,5 +12,3 @@ Je suis maman de deux enfants, un petit garçon de quatre ans et un bébé de de
 J'adore les livres-jeux, mais aussi les jeux de société, passion que je partage avec mon fils, que ce soit avec des jeux comme Les Petites Souris ou d'autres jeux ludiques.
 
 Ce blog est un espace où je partage mes découvertes littéraires, mes coups de cœur et mes réflexions autour des livres pour enfants. Mon objectif est de vous offrir des recommandations de livres en français et en anglais, ainsi que des ressources pour accompagner les parents dans leur quotidien. Que vous soyez à la recherche d’un livre inspirant pour vos enfants ou que vous souhaitiez discuter de la parentalité à travers le prisme de la littérature et du jeu, vous trouverez ici une source d'inspiration et d'échange.
-
-N'hésitez pas à suivre pause gamer , si vous être passionés par les jeux vidéos.
