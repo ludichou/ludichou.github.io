@@ -23,7 +23,7 @@ Mon fils a adoré découvrir les surprises sous les flaps. Il cherchait les sœu
 
 ## Pourquoi j'aime Un cache-cache de Pâques ?
 
-- ![De très belles illustrations](images/un-cache-cache-de-paques-int.jpg)
+![De très belles illustrations](images/un-cache-cache-de-paques-int.jpg)
 *De très belles illustrations*
 - Un livre à laps avec des surprises à découvrir : des escargots, des souris, des oiseaux...
 - Le thème du printemps avec une belle immersion dans la nature et les animaux.
