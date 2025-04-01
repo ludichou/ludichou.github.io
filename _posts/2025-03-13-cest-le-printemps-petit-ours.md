@@ -31,7 +31,7 @@ Mon fils de 4 ans s’est immédiatement identifié à Petit Ours : il posait be
 
 - Une **histoire compréhensible et captivante** pour les jeunes lecteurs.
 - Un **message positif** sur l’amitié et la persévérance.
-- Un **livre empreint de poésie et de valeurs**, qui invite les enfants à *explorer la nature tout en développant leur sensibilité et leur imagination*.
+- Un **livre empreint de poésie et de valeurs**, qui invite les enfants à **explorer la nature tout en développant leur sensibilité et leur imagination**.
 
 Ce livre est une véritable invitation à l’émerveillement et à la curiosité. Une lecture parfaite pour partager un moment doux et chaleureux avec votre enfant, tout en célébrant la magie du printemps !    
 
