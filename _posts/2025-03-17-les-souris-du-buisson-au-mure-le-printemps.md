@@ -24,6 +24,9 @@ Avec mon fils de 4 ans, nous avons découvert ce joli livre plein de douceur. Il
 
 ## Pourquoi j'aime Les Souris du Buisson aux mûres - Le Printemps?
 
+![De très jolies illustrations]({{site.baseurl}}/images/printemps-souris-int.jpg)
+*De très jolies illustrations*
+
 - On découvre la **nature** à travers les yeux des petites souris.
 - Une **histoire douce et accessible** pour les jeunes lecteurs.
 - Des **petits plaisirs simples de la nature** et aux **liens d’amitié** comme un pique-nique.
