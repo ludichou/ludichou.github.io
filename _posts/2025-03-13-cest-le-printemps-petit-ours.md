@@ -26,8 +26,10 @@ Mon fils de 4 ans s’est immédiatement identifié à Petit Ours : il posait be
 
 ## Pourquoi j’aime Le printemps de Petit Ours ?
 
+![Des illustrations magnifiques qui évoquent la beauté du printemps]({{site.baseurl}}/images/cest-le-printemps-petit-ours-int.jpg)
+*Des illustrations magnifiques qui évoquent la beauté du printemps*
+
 - Une **histoire compréhensible et captivante** pour les jeunes lecteurs.
-- De **très belles illustrations** qui évoquent la beauté du printemps.
 - Un **message positif** sur l’amitié et la persévérance.
 - Un **livre empreint de poésie et de valeurs**, qui invite les enfants à *explorer la nature tout en développant leur sensibilité et leur imagination*.
 

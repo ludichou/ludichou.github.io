@@ -24,7 +24,9 @@ Ce livre a vraiment aidé mon fils de 3 ans lors de son entrée à l'école, pui
 
 ## Pourquoi j'aime Les bisous volants ?
 
-- De **très jolies illustrations**.
+![De très jolies illustrations]({{site.baseurl}}/images/les-bisous-volants-int.jpg)
+*De très jolies illustrations*
+
 - **Respect de ses émotions** : que c'est normal d'être triste quand on se sépare par exemple pour aller à l'école. 
 - Des **valeurs importantes** comme l'amour,la bienveillance, l'écoute, de rassurer son enfant avec de la tendresse (câlins et bisous).
 

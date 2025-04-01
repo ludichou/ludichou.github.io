@@ -29,7 +29,9 @@ Un guide nature à la fois zen et pratique !"
 
 ## Pourquoi j’aime Les secrets de la nature ?
 
-- Des **illustrations magnifiques** qui captivent les petits comme les grands.
+![Des illustrations magnifiques qui captivent les petits comme les grands]({{site.baseurl}}/images/secrets-de-la-nature-int.jpg)
+*Des illustrations magnifiques qui captivent les petits comme les grands*
+
 - Ce livre invite à **observer, toucher, sentir et écouter la nature**, éveillant ainsi tous les sens des enfants.
 - Une *section bonus à la fin du livre (page 120)* avec des ressources pour approfondir ses connaissances sur la nature.
 - Un texte clair et accessible.
