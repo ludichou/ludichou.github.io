@@ -5,7 +5,7 @@ description: À la maison, on adore les jeux qui allient réflexion et amusement
 date: 2025-03-08 21:00:00 +0300
 author: Armelle
 image: 'images/gagne-ton-papa.webp'
-tags: ["Jeux de société"]
+tags: ["Jeux de société", "3-10 ans"]
 featured: false
 toc: true
 ---

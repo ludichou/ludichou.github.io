@@ -5,7 +5,7 @@ description: Passionnée de jardinage, j’avais hâte de le partager avec mon f
 date: 2025-03-10 15:01:35 +0300
 author: Armelle
 image: 'images/ptit-loup-apprend-a-jardiner-cover.webp'
-tags: ["Jardinage"]
+tags: ["Jardinage", "1-3 ans"]
 featured: true
 toc: true
 ---
@@ -30,4 +30,4 @@ Passionnée de jardinage, j’avais hâte de partager cette activité avec mon f
 - De **belles illustrations colorées** qui rendent le **jardinage attractif**.
 - Un excellent moyen d’**aborder la patience et l’observation à travers le cycle des plantes**. Comme il est en moyenne section, ce thème est justement au programme cette année.
 
-Envie de découvrir ce magnifique livre ? Retrouvez sur amazon [P'tit loup apprend à jardiner](https://amzn.to/4bQYUjJ).
+Envie de jardiner avec votre enfant ? Retrouvez sur amazon [P'tit loup apprend à jardiner](https://amzn.to/4bQYUjJ).
