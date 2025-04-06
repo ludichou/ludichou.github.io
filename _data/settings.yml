@@ -38,7 +38,7 @@ cta_button:
 hero:
   enable: true
   hero_title: Des livres, des jeux, pour nos petits et grands curieux
-  hero_description: Rejoignez-moi pour un voyage où chaque article apporte une perspective nouvelle. Ce blog s'adresse à ceux qui sont animés par la curiosité et le désir de découverte.
+  hero_description: "Maman de deux garçons, je partage mes coups de cœur lecture et jeux : des histoires porteuses de belles valeurs et des jeux coopératifs pour grandir en s’amusant. Un univers doux pour éveiller la curiosité et renforcer les liens."
 
 hero_authors:
   enable: false

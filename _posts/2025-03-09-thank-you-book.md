@@ -5,7 +5,7 @@ description: "J'ai à coeur d'initier mon fils à l'anglais de façon ludique et
 date: 2025-03-09 21:00:00 +0300
 author: Armelle
 image: 'images/the-thank-you-book.webp'
-tags: ["Livres en anglais"]
+tags: ["Livres en anglais", "0 - 11 ans" ]
 featured: false
 toc: true
 ---
@@ -15,8 +15,8 @@ Mon fils a adoré suivre l'histoire du garçon et du chat dans leurs aventures. 
 {: .q-left }
 
 Langue : Anglais.     
-Editeur : Clarion Books.  
-Age : 4-7 ans
+Editeur : HMH Books for Young Readers.  
+Age : 0 - 11 ans.
 
 ## D'où vient cette envie de lire des histoires en anglais avec mon fils ?
 
@@ -28,9 +28,10 @@ Depuis tout petit, j’aime l’idée que mon fils puisse découvrir l’anglais
 
 "For friends and swings, for books and laps, for family and home, for this earth we ride on, for what the seasons bring, and for all that makes us wonder... a thank you."
 
-## Pourquoi j'aime the thank you book ?
+## Pourquoi j'aime The thank you book ?
 
-- Des **illustrations très colorées et jolies**.
+![Des illustrations très colorées et jolies](images/thank-you-book-int.jpg)
+*Des llustrations très colorées et jolies*
 - Le **texte** est **court**, **rythmé et faciles à comprendre**, même pour les jeunes lecteurs.
 - Faire **découvrir l'anglais** à mon fils
 - Des **valeurs** comme le partage, l'amitié, la famille, apprécier le moment présent. C'est une belle **leçon de gratitude**. Il rappelle **l’importance de dire merci pour les petites et grandes choses du quotidien** : la nature qui nous entoure, les moments en famille, les amis, et même les petits plaisirs de la vie. Ce **message positif** aide les enfants à développer un **état d’esprit bienveillant et reconnaissant**.

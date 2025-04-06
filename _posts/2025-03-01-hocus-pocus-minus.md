@@ -5,7 +5,7 @@ description: "J’adore les livres-jeux et voulais absolument faire découvrir c
 date: 2025-03-01 21:00:00 +0300
 author: Armelle
 image: 'images/hocus-pocus-minus.webp'
-tags: ["Livres jeux"]
+tags: ["Livres jeux", "Dès 3 ans"]
 featured: false
 toc: true
 ---
@@ -33,7 +33,9 @@ Choisis tout.e seul.e tes actions et tes chemins en suivant les symboles et les 
 
 ## Pourquoi j'aime Hocus & Pocus Minus : Tempête et champignons?
 
-- Une **explication claire des règles** pour les parents en début de livre (Comment jouer?)
+![Une explication claire des règles pour les parents en début de livre (Comment jouer?)](images/hocus-pocus-int.jpg)
+*Une explication claire des règles pour les parents en début de livre (Comment jouer?)*
+
 - Des **illustrations colorées et immersives** qui captivent les enfants.
 - **Faire découvrir l’univers du livre-jeu** : incarner un personnage et faire des choix qui influencent le déroulement de l’histoire.
 - Une **aventure interactive** qui **stimule l’imagination** et la **réflexion**.

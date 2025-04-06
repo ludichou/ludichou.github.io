@@ -5,7 +5,7 @@ description: J’ai trouvé plein d'idées intéressantes avec ce livre pour ini
 date: 2025-03-14 21:00:00 +0300
 author: Armelle
 image: 'images/j-apprends-a-jardin.webp'
-tags: ["Jardinage", "Saison"]
+tags: ["Jardinage", "Saison", "Dès 3 ans"]
 featured: true
 toc: true
 ---
@@ -37,7 +37,9 @@ Disposant d’un petit jardin et d’un balcon, j’ai eu envie de les aménager
 
 ## Pourquoi j'aime j'apprends à jardiner avec Marion Botanical?
 
-- Des **illustrations très jolies** qui captivent les enfants et rendent l’apprentissage du jardinage visuel et ludique.
+![Des illustrations très jolies qui captivent les enfants et rendent l’apprentissage du jardinage visuel et ludique.](images/japprends-a-jardiner-int.jpg)
+*Des illustrations très jolies qui captivent les enfants et rendent l’apprentissage du jardinage visuel et ludique.*
+
 - Des **conseils pratiques** pour les parents avec des sections _Un mot pour les parents_ pour accompagner l’enfant dans ses découvertes.
 - Une **introduction accessible aux bases du jardinage** : outils, cycle des plantes, lexique du petit jardinier…
 - Un **guide saisonnier** pour jardiner toute l’année et adapter les activités au rythme de la nature. 
