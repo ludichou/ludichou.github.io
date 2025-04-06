@@ -19,7 +19,7 @@ Age : 1 - 3 ans.
 
 "Aujourd'hui, P'tit Loup part à la chasse aux oeufs de Pâques ! Un lapin en chocolat par-ci, une cocotte par-là... Et hop, dans le petit panier de P'tit Loup !"
 
-## Pourquoi j’aime p'tit Loup fete Pâques?
+## Pourquoi j’aime p'tit Loup fête Pâques?
 
 ![Des illustrations adaptés aux enfants](images/ptit-loup-fete-paques-int.jpg)
 *Des illustrations adaptés aux enfants*
