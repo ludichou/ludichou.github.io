@@ -6,7 +6,7 @@ date: 2025-03-10 15:01:35 +0300
 author: Armelle
 image: 'images/ptit-loup-apprend-a-jardiner-cover.webp'
 tags: ["Jardinage", "1-3 ans"]
-featured: true
+featured: false
 toc: true
 ---
 {: .q-left }

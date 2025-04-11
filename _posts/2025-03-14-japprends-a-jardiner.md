@@ -6,7 +6,7 @@ date: 2025-03-14 21:00:00 +0300
 author: Armelle
 image: 'images/j-apprends-a-jardin.webp'
 tags: ["Jardinage", "Saison", "Dès 3 ans"]
-featured: true
+featured: false
 toc: true
 ---
 
