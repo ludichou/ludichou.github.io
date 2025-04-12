@@ -5,7 +5,7 @@ description: Mon fils de quatre ans adore les jeux de cherche et trouve ainsi qu
 date: 2025-03-23 21:00:00 +0300
 author: Armelle
 image: 'images/cache-cache-de-paques-cover.jpg'
-tags: ["Pâques", "3-6 ans"]
+tags: ["Pâques"]
 featured: true
 toc: true
 ---

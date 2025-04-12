@@ -5,7 +5,7 @@ description: Je me souviens des premiers jours d'école de mon enfant, où l'ang
 date: 2025-03-19 21:00:00 +0300
 author: Armelle
 image: 'images/les-bisous-volants-cover.webp'
-tags: ["Emotions", "3-6 ans"]
+tags: ["Emotions"]
 featured: false
 toc: true
 ---

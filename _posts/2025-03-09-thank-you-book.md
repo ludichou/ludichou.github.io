@@ -5,7 +5,7 @@ description: "J'ai à coeur d'initier mon fils à l'anglais de façon ludique et
 date: 2025-03-09 21:00:00 +0300
 author: Armelle
 image: 'images/the-thank-you-book.webp'
-tags: ["Livres en anglais", "0 - 11 ans" ]
+tags: ["Livres en anglais"]
 featured: false
 toc: true
 ---

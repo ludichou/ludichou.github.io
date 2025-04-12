@@ -5,7 +5,7 @@ description: J’ai trouvé plein d'idées intéressantes avec ce livre pour ini
 date: 2025-03-14 21:00:00 +0300
 author: Armelle
 image: 'images/j-apprends-a-jardin.webp'
-tags: ["Jardinage", "Saison", "Dès 3 ans"]
+tags: ["Jardinage", "Saison"]
 featured: false
 toc: true
 ---

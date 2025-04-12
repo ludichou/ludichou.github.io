@@ -5,7 +5,7 @@ description: "J’adore les livres-jeux et voulais absolument faire découvrir c
 date: 2025-03-01 21:00:00 +0300
 author: Armelle
 image: 'images/hocus-pocus-minus.webp'
-tags: ["Livres jeux", "Dès 3 ans"]
+tags: ["Livres jeux"]
 featured: false
 toc: true
 ---

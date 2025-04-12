@@ -5,7 +5,7 @@ description: Je cherchais un livre amusant et interactif sur la nature pour mon 
 date: 2025-03-19 21:00:00 +0300
 author: Armelle
 image: 'images/ho-les-jolies-petites-betes-cover.webp'
-tags: ["Nature", "2-5 ans"]
+tags: ["Nature"]
 featured: false
 toc: true
 ---

@@ -13,7 +13,7 @@ toc: true
 
 Langue : Français.       
 Editeur : Gallimard jeunesse.    
-Age : 4-6 ans
+Age : 3-6 ans
 
 ## Le printemps de Petit Ours : un doux éveil à la nature
 

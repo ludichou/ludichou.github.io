@@ -5,7 +5,7 @@ description: Je trouve essentiel de transmettre des valeurs comme la bienveillan
 date: 2025-03-18 21:00:00 +0300
 author: Armelle
 image: 'images/le-marchand-de-bonheur-cover.webp'
-tags: ["Valeurs", "4-6 ans"]
+tags: ["Valeurs"]
 featured: true
 toc: true
 ---
@@ -14,7 +14,7 @@ toc: true
 
 Langue : Français.     
 Editeur : Sarbacane.  
-Age: 4 - 6 ans.
+Age: 3 - 6 ans.
 
 ## Résumé
 

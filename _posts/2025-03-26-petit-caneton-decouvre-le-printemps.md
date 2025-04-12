@@ -5,7 +5,7 @@ description: Avec l’arrivée des beaux jours, j’avais envie de faire découv
 date: 2025-03-25 15:01:35 +0300
 author: Armelle
 image: 'images/petit-caneton-decouvre-le-printemps-cover.jpg'
-tags: ["Saison", "0-2 ans"]
+tags: ["Saison"]
 featured: false
 toc: true
 ---
@@ -14,7 +14,7 @@ toc: true
 
 Langue : Français.         
 Editeur : Kimane.  
-Age : 0-2 ans 
+Age : 0-2 ans .
 
 ## Résumé
 

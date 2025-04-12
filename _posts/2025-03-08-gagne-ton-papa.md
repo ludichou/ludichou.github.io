@@ -5,7 +5,7 @@ description: À la maison, on adore les jeux qui allient réflexion et amusement
 date: 2025-03-08 21:00:00 +0300
 author: Armelle
 image: 'images/gagne-ton-papa.webp'
-tags: ["Jeux de société", "3-10 ans"]
+tags: ["Jeux de société"]
 featured: false
 toc: true
 ---
@@ -13,7 +13,7 @@ toc: true
 {: .q-left }
 
 Langue : Français.     
-Age : 3- 10 ans.  
+Age : Dès 3 ans.  
 Durée : 15 minutes.
 
 ## Gagne ton Papa : Un jeu de logique qui a gagné toute la famille !

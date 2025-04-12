@@ -5,7 +5,7 @@ description: Je voulais faire découvrir un livre pop-up à mon fils et j’ai a
 date: 2025-03-20 21:00:00 +0300
 author: Armelle
 image: 'images/ernest-et-celestine-pop-up-cover.webp'
-tags: ["Livres pop up", "3-6 ans"]
+tags: ["Livres pop up"]
 featured: false
 toc: true
 ---

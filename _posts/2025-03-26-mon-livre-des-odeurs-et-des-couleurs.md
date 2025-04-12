@@ -5,7 +5,7 @@ description: Je cherchais une manière ludique et sensorielle de faire découvri
 date: 2025-03-26 15:01:35 +0300
 author: Armelle
 image: 'images/mon-livre-des-couleurs-et-des-couleurs.jpg'
-tags: ["Saison", "1-2 ans"]
+tags: ["Saison"]
 featured: false
 toc: true
 ---
@@ -14,7 +14,7 @@ toc: true
 
 Langue : Français.           
 Editeur : Auzou éveil.  
-Age : 1- 2 ans
+Age : 1- 3 ans.
 
 ## Résumé
 

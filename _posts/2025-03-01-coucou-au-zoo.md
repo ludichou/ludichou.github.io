@@ -5,7 +5,7 @@ description: Quand mon fils était petit, je voulais un livre qui l’éveille t
 date: 2025-03-01 21:00:00 +0300
 author: Armelle
 image: 'images/coucou-au-zoo-cover.webp'
-tags: ["Eveil", "0-3 ans"]
+tags: ["Eveil"]
 featured: false
 toc: true
 ---

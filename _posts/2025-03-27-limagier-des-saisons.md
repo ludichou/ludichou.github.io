@@ -5,7 +5,7 @@ description: Mon fils adore le principe du cherche et trouve. Ce livre associe l
 date: 2025-03-25 15:01:35 +0300
 author: Armelle
 image: 'images/imagier-des-saisons-cover.jpg'
-tags: ["Saison", "3-6 ans"]
+tags: ["Saison"]
 featured: false
 toc: true
 ---
