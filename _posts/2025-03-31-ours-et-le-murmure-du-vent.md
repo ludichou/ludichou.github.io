@@ -4,7 +4,7 @@ title: Ours et le murmure du vent de Marianne Dubuc
 description: C'est un des livres préférés de mon fils. On s'identifie à Ours qui a décidé de changer de maison et d'explorer de nouveaux horizons.
 date: 2025-03-31 15:01:35 +0300
 author: Armelle
-image: 'images/ours-et-le-murmure-du-vent-cover.jpg'
+image: 'images/ours-et-le-murmure-du-vent-cover (1).jpg'
 tags: ["Valeurs"]
 featured: true
 toc: true
