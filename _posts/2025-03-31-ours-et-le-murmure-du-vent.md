@@ -20,7 +20,7 @@ Age :  3 - 5 ans.
 
 "Avant, Ours avait une jolie maison. Il aimait passer des après-midi avec ses amis et s'asseoir dans son fauteuil préféré. Mais ça, c'était avant. Avant le grand chamboulement."
 
-## Pourquoi j’aime Ours et le murmure du vent de Marianne Dubuc  ?
+## Pourquoi j’aime Ours et le murmure du vent de Marianne Dubuc ?
 
 ![De jolies illustrations](/images/ours-et-le-murmure-du-vent-int.jpg)
 *De jolies illustrations*

@@ -5,7 +5,7 @@ description: J’aime beaucoup lire les aventures de P’tit Loup à mon fils. I
 date: 2025-03-23 15:01:35 +0300
 author: Armelle
 image: 'images/ptit-loup-fete-paques-cover.jpg'
-tags: ["Pâques"]
+tags: ["Pâques", "P'tit loup"]
 featured: true
 toc: true
 ---

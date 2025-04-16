@@ -5,7 +5,7 @@ description: Passionnée de jardinage, j’avais hâte de le partager avec mon f
 date: 2025-03-10 15:01:35 +0300
 author: Armelle
 image: 'images/ptit-loup-apprend-a-jardiner-cover.webp'
-tags: ["Jardinage"]
+tags: ["Jardinage", "P'tit loup"]
 featured: false
 toc: true
 ---
