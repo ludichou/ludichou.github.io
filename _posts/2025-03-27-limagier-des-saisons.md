@@ -20,7 +20,7 @@ Mon fils a adoré chercher les objets demandés. Il me posait des questions sur 
 
 ## Résumé
 
-"Hiver, printemps, été, automne : toutes les saisons de nos fameux livres promenades sont re?unies dans cet imagier riche en vocabulaire. Un « cherche et trouve » pour apprendre à lire et à écrire tous les mots correspondant aux images de Rotraut Susanne Berner."
+"Hiver, printemps, été, automne : toutes les saisons de nos fameux livres promenades sont réunies dans cet imagier riche en vocabulaire. Un « cherche et trouve » pour apprendre à lire et à écrire tous les mots correspondant aux images de Rotraut Susanne Berner."
 
 ## Pourquoi j’aime L'imagier des saisons ?
 
