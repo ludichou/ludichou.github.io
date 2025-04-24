@@ -6,7 +6,7 @@ date: 2025-03-23 21:00:00 +0300
 author: Armelle
 image: 'images/cache-cache-de-paques-cover.jpg'
 tags: ["Pâques"]
-featured: true
+featured: false
 toc: true
 ---
 {: .q-left }

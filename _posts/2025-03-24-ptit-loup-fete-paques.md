@@ -6,7 +6,7 @@ date: 2025-03-23 15:01:35 +0300
 author: Armelle
 image: 'images/ptit-loup-fete-paques-cover.jpg'
 tags: ["Pâques", "P'tit loup"]
-featured: true
+featured: false
 toc: true
 ---
 {: .q-left }

@@ -6,7 +6,7 @@ date: 2025-03-28 15:01:35 +0300
 author: Armelle
 image: 'images/pas-de-chocolat-pour-paques-cover.jpg'
 tags: ["Pâques"]
-featured: true
+featured: false
 toc: true
 ---
 
