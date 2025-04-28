@@ -5,8 +5,8 @@ description: Le printemps est là, l’occasion idéale pour découvrir ce livre
 date: 2025-03-13 15:01:35 +0300
 author: Armelle
 image: 'images/printemp-petit-ours.webp'
-tags: [ "Saison"]
-featured: true
+tags: [ "Saison", "Printemps"]
+featured: false
 toc: true
 ---
 {: .q-left }
