@@ -6,7 +6,7 @@ date: 2025-03-28 21:00:00 +0300
 author: Armelle
 image: 'images/dorf-romantik-cover.jpg'
 tags: ["Jeux de société"]
-featured: true
+featured: false
 toc: true
 ---
 

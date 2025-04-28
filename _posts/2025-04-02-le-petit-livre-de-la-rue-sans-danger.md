@@ -33,4 +33,4 @@ Bien qu’il soit conseillé à partir de 7 ans, mon fils de 4 ans et demi a tou
 - Faire de la sensibilisation aux dangers de la route.
 - Rendre acteur l'enfant par l'intermédiaire des mini-quizz, des cherche-et-trouve, et des jeux d’observation pour repérer les situations à risque.
 
-Ce livre est excellent support pour sensibiliser les enfants aux dangers de la route de façon interactive et concrète.Retrouvez sur Amazon [Le petit livre de la rue sans danger](https://amzn.to/3Gh0eAH)
+Ce livre est un excellent support pour sensibiliser les enfants aux dangers de la route de façon interactive et concrète.Retrouvez sur Amazon [Le petit livre de la rue sans danger](https://amzn.to/3Gh0eAH)
