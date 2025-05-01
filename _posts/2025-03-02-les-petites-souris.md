@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Les petites souris
+title: Mon Premier Jeu Les Petites Souris
 description: Les Petites Souris, c’est un jeu qui me rappelle les parties de Petits Chevaux de mon enfance, mais en plus ludique et amusant ! Une course pleine de rebondissements où chaque joueur tente d’amener ses souris en sécurité avant que le chat ne les attrape. 
 date: 2025-03-02 21:00:00 +0300
 author: Armelle
@@ -31,7 +31,7 @@ Vite, vite ! Aidez les 4 petites souris à regagner leur lit avant que le chat n
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0cIFknHtusY" frameborder="0" allowfullscreen></iframe>
 
-## Pourquoi j’aime Les petites souris?
+## Pourquoi j’aime Mon Premier Jeu Les Petites Souris?
 
 - Un **jeu ludique et accessible** : les règles du jeu sont faciles à comprendre. 
 - Un **jeu éducatif** :  Il aide les enfants à apprendre à suivre des règles, à attendre leur tour et à associer les couleurs.
