@@ -6,7 +6,7 @@ date: 2025-04-07 21:00:00 +0300
 author: Armelle
 image: 'images/le-grand-imagier-de-pierre-mapin-cover.jpg'
 tags: ["Imagier", "Livre à flaps"]
-featured: true
+featured: false
 toc: true
 ---
 

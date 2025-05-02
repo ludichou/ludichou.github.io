@@ -6,7 +6,7 @@ date: 2025-04-04 15:01:35 +0300
 author: Armelle
 image: 'images/lemouvantail-cover.jpg'
 tags: ["BD"]
-featured: true
+featured: false
 toc: true
 ---
 
