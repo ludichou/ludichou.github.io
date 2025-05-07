@@ -21,6 +21,8 @@ menu_settings:
         title: "À la une"
       - url: "/board-games/"
         title: "Jeux de société"
+      - url: "/educational-games/"
+        title: "Jeux éducatifs"
       - url: "/activity/"
         title: "Activités/loisirs créatifs"
     - title: "Articles"
