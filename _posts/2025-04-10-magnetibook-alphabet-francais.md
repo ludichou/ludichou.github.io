@@ -6,7 +6,7 @@ date: 2025-04-10 21:00:00 +0300
 author: Armelle
 image: 'images/magnetibook-alphabet-francais-cover.jpg'
 tags: ["Jeux éducatifs"]
-featured: false
+featured: true
 toc: true
 ---
 
