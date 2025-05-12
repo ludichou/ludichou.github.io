@@ -31,3 +31,5 @@ Plus loin, il croise Mus, une petite souris, puis il a trouvé sa maison.
 - À travers le regard d’Ours, on apprend à écouter la nature, à s’écouter soi, à accueillir ses émotions et ses doutes. Car parfois, il faut se perdre un peu… pour mieux se retrouver. Ours sort de sa zone de confortet découvre de nouvelles choses.
 
 Un livre très inspirant dans la démarche de Ours. Retrouvez sur Amazon [Ours et le murmure du vent](https://amzn.to/3RPf8R3)
+
+Si vous avez appréciez ce livre, je vous conseille de regarder [Le gardien de la lune](https://ludichou.com/le-gardien-de-la-lune).

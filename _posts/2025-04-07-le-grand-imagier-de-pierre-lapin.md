@@ -5,7 +5,7 @@ description: Nous avons eu un vrai coup de cœur pour l’univers de Pierre Lapi
 date: 2025-04-07 21:00:00 +0300
 author: Armelle
 image: 'images/le-grand-imagier-de-pierre-mapin-cover.jpg'
-tags: ["Imagier", "Livre à flaps"]
+tags: ["Imagier", "Livre à flaps", "Pierre lapin"]
 featured: false
 toc: true
 ---
