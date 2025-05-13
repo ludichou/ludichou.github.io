@@ -34,5 +34,5 @@ Mon fils de quatre ans et demi adore ce livre. Il pose plein de questions, pourq
 
 Si vous voulez expliquer comment fonctionnent les phases de la lune, ce livre est parfait et plein de douceur. Retrouvez sur Amazon [Le gardien de la Lune](https://amzn.to/4jFuSlQ).
 
-Si vous avez appréciez ce livre, je vous conseille de regarder [Ours et le murmure du vent](https://ludichou.com/ours-et-le-murmure-du-vent).
+Si vous avez appréciez ce livre, je vous conseille de regarder [Ours et le murmure du vent](https://ludichou.com/ours-et-le-murmure-du-vent) ou [Un petit air de liberté](https://ludichou.com/un-petit-air-de-liberte).
 

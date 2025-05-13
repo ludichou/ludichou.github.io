@@ -30,6 +30,8 @@ Plus loin, il croise Mus, une petite souris, puis il a trouvé sa maison.
 -  Ce livre aborde avec douceur le changement, le temps qui passe et de l’acceptation. "Un matin, quelque chose lui dit qu'il est temps de partir. Un rayon de soleil, les feuilles dans les arbres ou le souffle du vent lui murmurent qu'il faut aller ailleurs. 
 - À travers le regard d’Ours, on apprend à écouter la nature, à s’écouter soi, à accueillir ses émotions et ses doutes. Car parfois, il faut se perdre un peu… pour mieux se retrouver. Ours sort de sa zone de confortet découvre de nouvelles choses.
 
-Un livre très inspirant dans la démarche de Ours. Retrouvez sur Amazon [Ours et le murmure du vent](https://amzn.to/3RPf8R3)
+Un livre très inspirant dans la démarche de Ours.
 
-Si vous avez appréciez ce livre, je vous conseille de regarder [Le gardien de la lune](https://ludichou.com/le-gardien-de-la-lune).
+ Retrouvez sur Amazon [Ours et le murmure du vent](https://amzn.to/3RPf8R3)
+
+Si vous avez appréciez ce livre, je vous conseille de regarder [Le gardien de la lune](https://ludichou.com/le-gardien-de-la-lune) ou [Un petit air de liberté](https://ludichou.com/un-petit-air-de-liberte)
