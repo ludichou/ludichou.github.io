@@ -20,7 +20,7 @@ Date de Publication : 15 novembre 2019.
 
 ## Résumé 
 
-"Je vis dans ces montagnes où l'on nous dit qu'il ne faut pas sortir seul car elles regeorgent d'ours affamés. Ils sont féroces et sauvages paraît-il."
+"Je vis dans ces montagnes où l'on nous dit qu'il ne faut pas sortir seul car elles regorgent d'ours affamés. Ils sont féroces et sauvages paraît-il."
 
 ## Pourquoi j'aime Un petit air de liberté de Oulya Setti et Oreli Gouel ?
 
