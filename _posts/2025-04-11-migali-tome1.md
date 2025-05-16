@@ -21,7 +21,7 @@ Mon fils de 4 ans et demi a découvert avec plaisir le format BD. Après lui avo
 
 ## Résumé 
 
-"Aujourd'hui, Migali fait sa rentrée à la prestgieuse Académie Royale! Escrime, danse classique et course de licornes : un programme complet pour perfectionner son éducation de future souveraine. Grâce à ses dons d'acrobate et son talent pour les catastrophes, Migali ne manquera pas d'impressionner toute la classe."
+"Aujourd'hui, Migali fait sa rentrée à la prestigieuse Académie Royale! Escrime, danse classique et course de licornes : un programme complet pour perfectionner son éducation de future souveraine. Grâce à ses dons d'acrobate et son talent pour les catastrophes, Migali ne manquera pas d'impressionner toute la classe."
 
 ## Pourquoi j'aime Migali tome 1 - bienvenue à l'académie royale?
 
