@@ -12,9 +12,11 @@ toc: true
 
 {: .q-left }
 
-Langue : Français.     
+Langue : Français.    
+Auteure : Barklem Jill.        
 Editeur : Qilinn.     
-Age : Dès 3 ans.
+Age : Dès 3 ans.  
+Date de parution : 1 mars 2024.
 
 Avec mon fils de 4 ans, nous avons découvert ce joli livre plein de douceur. Il a adoré observer les détails des illustrations, chercher les souris cachées dans les pages et imaginer leurs journées bien remplies !
 

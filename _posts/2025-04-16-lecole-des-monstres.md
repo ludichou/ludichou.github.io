@@ -15,7 +15,7 @@ toc: true
 Langue : Français.           
 Age : Dès 3 ans.      
 Durée : Moins de 30 minutes.  
-Nombre de joueurs : 2 à 4 joueurs
+Nombre de joueurs : 2 à 4 joueurs.  
 Editeur : Placote
 
 ## Résumé de L’école des monstres
