@@ -33,4 +33,6 @@ Age: 3 - 6 ans.
 
 Le Marchand de Bonheur est un livre qui invite à la réflexion tout en transmettant des valeurs profondes. C’est un véritable moment de partage en famille, parfait pour aborder le bonheur, la générosité et les petites joies de la vie. Découvrez sur Amazon [Le marchand de bonheur.](https://amzn.to/4iz9GOe).  
 
-Si ce livre vous a plu, je vous recommande également celui-ci [C'est quoi le bonheur?](https://ludichou.com/cest-quoi-le-bonheur). [Livres du même illustrateur Marco Somà sur le bonheur](images/livres-de-marco-somà-bonheur.jpg).  
+Si ce livre vous a plu, je vous recommande également celui-ci [C'est quoi le bonheur?](https://ludichou.com/cest-quoi-le-bonheur). 
+
+Si vous voulez la collection sur le bonheur, vous pouvez regarder les[Livres du même illustrateur Marco Somà sur le bonheur](images/livres-de-marco-somà-bonheur.jpg).
