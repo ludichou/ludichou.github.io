@@ -37,6 +37,6 @@ Parfait pour une lecture tout en douceur ou pour accompagner une sortie au jardi
 
 Envie de rejoindre les souris dans leur aventure printanière ? Retrouvez sur Amazon [Les Souris du Buisson aux Mûres – Le Printemps](https://amzn.to/4kLr181) et plongez dans une bulle de tendresse et de nature.
 
- Si ce livre vous a plu, je vous recommande également celui sur l'été. [Les Souris du Buisson aux Mûres–L'été](https://ludichou.com/les-souris-du-buisson-au-mure-ete).
+ Si ce livre vous a plu, je vous recommande également celui sur l'été. [Les Souris du Buisson aux Mûres–L'été](https://ludichou.com/les-souris-du-buisson-aux-mures-ete).
 
 

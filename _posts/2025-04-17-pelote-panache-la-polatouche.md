@@ -20,7 +20,7 @@ Date de Publication : 7 mai 2025.
 
 ## Résumé 
 
-"Dans la Valée des polatouches, Pelote Panache s'entraîne avec avec frères aux acrobaties dans les airs.  C'est qu'elle espère participer pour la première fois au Festibal Flottant, pour l'arrivée du printemps! Et cette année, elle a un plan : devenir un cerf-volant vivant... 
+"Dans la Vallée des polatouches, Pelote Panache s'entraîne avec avec frères aux acrobaties dans les airs.  C'est qu'elle espère participer pour la première fois au Festival Flottant, pour l'arrivée du printemps! Et cette année, elle a un plan : devenir un cerf-volant vivant... 
 
 ## Pourquoi j'aime Pelote Panache, la polatouche de Anahita Ettehadi et Marie Mignot ?
 
