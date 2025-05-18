@@ -5,7 +5,7 @@ description: "Nous avions beaucoup aimé Le Marchand de bonheur, et ce livre est
 date: 2025-04-21 22:00:00 +0300
 author: Armelle
 image: 'images/cest-quoi-le-bonheur-cover.jpg'
-tags: ["Bonheur"]
+tags: ["Valeurs","Bonheur"]
 featured: true
 toc: true
 ---
