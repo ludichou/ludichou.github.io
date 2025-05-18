@@ -12,8 +12,10 @@ toc: true
 
 {: .q-left }
 
-Langue : Français.     
-Editeur : Sarbacane.  
+Langue : Français.       
+Auteur : Davide Cali.     
+Illustrateur : Marco Somà.         
+Editeur : Sarbacane.    
 Age: 3 - 6 ans.
 
 ## Résumé
@@ -30,3 +32,5 @@ Age: 3 - 6 ans.
 - Des valeurs essentielles comme le partage, l'importance des petites choses du quotidien et la générosité.
 
 Le Marchand de Bonheur est un livre qui invite à la réflexion tout en transmettant des valeurs profondes. C’est un véritable moment de partage en famille, parfait pour aborder le bonheur, la générosité et les petites joies de la vie. Découvrez sur Amazon [Le marchand de bonheur.](https://amzn.to/4iz9GOe).  
+
+Si ce livre vous a plu, je vous recommande également celui-ci [C'est quoi le bonheur?](https://ludichou.com/cest-quoi-le-bonheur). [Livres du même illustrateur Marco Somà sur le bonheur](images/livres-de-marco-somà-bonheur.jpg).  
