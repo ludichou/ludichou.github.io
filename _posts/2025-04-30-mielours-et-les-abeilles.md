@@ -40,3 +40,5 @@ Date de parution : 14 mai 2025.
 - Il fabrique ensuite une ruche, apprend à s’occuper des abeilles, puis à récolter et vendre le miel. Grâce à cette aventure, il se fait de nouveaux amis qui lui expriment leur gratitude.
 
 Une histoire inspirante portée par des valeurs fortes comme la persévérance, la solidarité et la curiosité. Elle sensibilise les enfants à la nature tout en leur faisant découvrir le monde fascinant des abeilles.
+
+Si vous avez appréciez ce livre, je vous conseille de regarder sur le mème thème des abeilles[Sois toi même, petite abeille](https://ludichou.com/sois-toi-meme-petite-abeille).

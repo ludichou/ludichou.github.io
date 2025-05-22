@@ -32,6 +32,6 @@ Plus loin, il croise Mus, une petite souris, puis il a trouvé sa maison.
 
 Un livre très inspirant dans la démarche de Ours.
 
- Retrouvez sur Amazon [Ours et le murmure du vent](https://amzn.to/3RPf8R3)
+Retrouvez sur Amazon [Ours et le murmure du vent](https://amzn.to/3RPf8R3)
 
-Si vous avez appréciez ce livre, je vous conseille de regarder [Le gardien de la lune](https://ludichou.com/le-gardien-de-la-lune) ou [Un petit air de liberté](https://ludichou.com/un-petit-air-de-liberte)
+Si vous avez appréciez ce livre, je vous conseille de regarder [Le gardien de la lune](https://ludichou.com/le-gardien-de-la-lune) ou [Un petit air de liberté](https://ludichou.com/un-petit-air-de-liberte).
