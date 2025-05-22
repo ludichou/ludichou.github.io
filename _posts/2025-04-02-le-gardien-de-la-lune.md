@@ -5,7 +5,7 @@ description: Mon fils est fasciné par la lune, il me demandait souvent pourquoi
 date: 2025-03-31 15:01:35 +0300
 author: Armelle
 image: 'images/le-gardien-de-la-lune-cover.jpg'
-tags: ["Valeurs","Lune"]
+tags: ["Valeurs","Lune", "Ours"]
 featured: false
 toc: true
 ---

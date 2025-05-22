@@ -5,7 +5,7 @@ description: À travers la rencontre entre une mésange et un ours, ce livre cé
 date: 2025-04-11 21:00:00 +0300
 author: Armelle
 image: 'images/un-petit-air-de-liberte-cover.jpg'
-tags: ["Valeurs","Liberté"]
+tags: ["Valeurs","Liberté", "Ours"]
 featured: true
 toc: true
 ---

@@ -5,7 +5,7 @@ description: C'est un des livres préférés de mon fils. On s'identifie à Ours
 date: 2025-03-31 15:01:35 +0300
 author: Armelle
 image: 'images/ours-et-le-murmure-du-vent-cover.jpg'
-tags: ["Valeurs"]
+tags: ["Valeurs", "Ours"]
 featured: true
 toc: true
 ---
