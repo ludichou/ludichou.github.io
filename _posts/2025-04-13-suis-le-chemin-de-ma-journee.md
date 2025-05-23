@@ -35,3 +35,4 @@ Si votre enfant fait ses premiers pas à l’école, ce livre l’aide à se rep
 
 Vous pouvez le retrouver ici sur Amazon :[Mon premier livre de concentration: Suis le chemin de ma journée](https://amzn.to/43bM1wy).
 
+Si vous avez appréciez ce livre, je vous conseille de regarder sur le même thème de l'école [Le monstre des couleurs va à l'école](https://ludichou.com/).
