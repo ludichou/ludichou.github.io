@@ -6,7 +6,7 @@ date: 2025-04-08 21:00:00 +0300
 author: Armelle
 image: 'images/miam-nature-qui-mange-quoi-cover.jpg'
 tags: ["Jeux de société"]
-featured: true
+featured: false
 toc: true
 ---
 

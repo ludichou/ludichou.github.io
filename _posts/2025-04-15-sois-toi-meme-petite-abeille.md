@@ -37,6 +37,6 @@ Un récit inspirant qui nous rappelle l’importance de rester soi-même et d’
 
 Vous pouvez le retrouver ici sur Amazon :[Sois toi même, petite abeille](https://amzn.to/3YNqTeN).
 
-Si vous avez appréciez ce livre, je vous conseille de regarder sur le mème thème des abeilles [Mielours et les abeilles](https://ludichou.com/mielours-et-les-abeilles).
+Si vous avez appréciez ce livre, je vous conseille de regarder sur le mème thème des abeilles [Mielours et les abeilles](https://ludichou.com/mielours-et-les-abeilles) ou  sur le même thème la confiance en soi [Envol de nuit](https://ludichou.com/envol-de-nuit). 
 
 

@@ -6,7 +6,7 @@ date: 2025-04-09 21:00:00 +0300
 author: Armelle
 image: 'images/lamour-fleurit-ici-cover.jpg'
 tags: ["Valeurs", "Amour"]
-featured: true
+featured: false
 toc: true
 ---
 {: .q-left }

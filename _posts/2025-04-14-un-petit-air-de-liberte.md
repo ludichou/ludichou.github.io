@@ -6,7 +6,7 @@ date: 2025-04-11 21:00:00 +0300
 author: Armelle
 image: 'images/un-petit-air-de-liberte-cover.jpg'
 tags: ["Valeurs","Liberté", "Ours"]
-featured: true
+featured: false
 toc: true
 ---
 {: .q-left }
