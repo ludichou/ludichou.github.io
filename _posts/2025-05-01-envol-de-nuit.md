@@ -21,7 +21,7 @@ Date de parution : 6 mars 2025.
 
 ## Résumé de Envol de nuit 
 
-"Gigi est la seule des chauves-souris à ne pas savoir voler. Son ami le papillon a beau l'encourager, elle n'ose pas s'élancer...JUsqu'au jour où, pour sauver son meilleur ami, Gigi doit braver ses peurs et déployer ses ailes".
+"Gigi est la seule des chauves-souris à ne pas savoir voler. Son ami le papillon a beau l'encourager, elle n'ose pas s'élancer...Jusqu'au jour où, pour sauver son meilleur ami, Gigi doit braver ses peurs et déployer ses ailes".
 
 "Une histoire réconfortante sur la confiance en soi et la capacité de croire en ses rêves".
 

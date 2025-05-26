@@ -35,7 +35,7 @@ Date de parution : 14 mai 2025.
 - Mylène Rigaudie est "autrice, illustratrice et apicultrice dans un village du Lot".
 - Ce livre met en scène différents animaux : sanglier, chevrette, blaireau, abeilles, chouette…
 - Lorsqu’un essaim s’installe vers chez lui, Mielours cherche des solutions pour le déplacer en toute sécurité. Il se documente avec le Manuel de l’apiculteur débutant et prévient ses voisins de rester à l’abri.
-- Pour s’équiper, il fait preuve de créativité en rassemblant ce qu’il a sous la main : une masse à poisson, une moustiquaire, des gants de vaisselle, une combinaison de ski, et des bottes ramenées de ses voyages ou empruntées à son amie Hulotte
+- Pour s’équiper, il fait preuve de créativité en rassemblant ce qu’il a sous la main : une masse à poisson, une moustiquaire, des gants de vaisselle, une combinaison de ski, et des bottes ramenées de ses voyages ou empruntées à son amie Hulotte.
 - Retirer l’essaim s’avère périlleux, car il faut trouver la reine. Mielours se fait piquer, mais il persévère. Avec un couvercle de boîte à chaussures, il parvient à pousser l’essaim dans une boîte. Il a réussi à le retirer. 
 - Il fabrique ensuite une ruche, apprend à s’occuper des abeilles, puis à récolter et vendre le miel. Grâce à cette aventure, il se fait de nouveaux amis qui lui expriment leur gratitude.
 

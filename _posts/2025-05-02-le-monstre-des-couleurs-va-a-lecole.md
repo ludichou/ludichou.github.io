@@ -19,9 +19,9 @@ Editeur : Quatres fleuves.
 Age : Dès 3 ans.    
 Date de parution : 12 juin 2019. 
 
-## Résumé de Le monstre des couleurs va à l'école 
+## Résumé
 
-"L'école, qu'est ce que c'est? Le monstre des couleurs est un peu inquiet. Aujourd'hui, il va à l'école pour la première fois... et n'a uacune idée de ce qui va lui arriver! N'aie pas peur, gentil monstre! De grandes aventures pleines d'émotions et de nouveaux amis t'attendent en classe."
+"L'école, qu'est ce que c'est? Le monstre des couleurs est un peu inquiet. Aujourd'hui, il va à l'école pour la première fois... et n'a aucune idée de ce qui va lui arriver! N'aie pas peur, gentil monstre! De grandes aventures pleines d'émotions et de nouveaux amis t'attendent en classe."
 
 ## Pourquoi j'aime Le monstre des couleurs va à l'école de Anna Llenas ?
 
