@@ -20,7 +20,7 @@ Date de parution : 1 décembre 1999.
 
 ## Résumé
 
-"Pour les Trottinou, chaque jour commence comme une nouvelle aventure : ils changent de maison, montent un orchestre, préparent un pique-nique ou fêtent l'arrivée de bébé. Une joyeuse série d'album pour tous les petits enfants qui aiment découvrir la vie et partager milles surprises en famille".
+"Pour les Trottinou, chaque jour commence comme une nouvelle aventure : ils changent de maison, montent un orchestre, préparent un pique-nique ou fêtent l'arrivée de bébé. Une joyeuse série d'albums pour tous les petits enfants qui aiment découvrir la vie et partager mille surprises en famille".
 
 ## Pourquoi j'aime Les Trottinou et bébé Trot' de Cyndy Szekeres ?
 
