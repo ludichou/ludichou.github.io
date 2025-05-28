@@ -6,7 +6,7 @@ date: 2025-04-17 21:00:00 +0300
 author: Armelle
 image: 'images/pelote-panache-cover.jpg'
 tags: ["Valeurs", "Dfférence", "Amitié"]
-featured: true
+featured: false
 toc: true
 ---
 {: .q-left }

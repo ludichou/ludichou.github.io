@@ -6,7 +6,7 @@ date: 2025-03-31 15:01:35 +0300
 author: Armelle
 image: 'images/ours-et-le-murmure-du-vent-cover.jpg'
 tags: ["Valeurs", "Ours"]
-featured: true
+featured: false
 toc: true
 ---
 
