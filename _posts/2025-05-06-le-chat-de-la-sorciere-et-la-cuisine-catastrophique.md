@@ -4,7 +4,7 @@ title: Le Chat de la Sorcière et la Cuisine Catastrophique de Kirstie Watson et
 description: En lisant Comment être ami avec un fantôme avec mon fils et mon neveu, ma belle-sœur m’a alors conseillé Le chat de la sorcière et la cuisine catastrophique, qu’elle a trouvé tout aussi amusant.
 date: 2025-05-06 22:00:00 +0300
 author: Armelle
-image: 'images/le-chat-de-la-sorcière-et-la-cuisine-catastrophique-cover.jpg'
+image: 'images/le-chat-de-la-sorcière-et-la-cuisine-catastrophique-cover'
 tags: ["Sorcière","Cuisine", "Humour"]
 featured: true
 toc: true
