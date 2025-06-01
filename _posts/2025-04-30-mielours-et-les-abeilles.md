@@ -41,4 +41,6 @@ Date de parution : 14 mai 2025.
 
 Une histoire inspirante portée par des valeurs fortes comme la persévérance, la solidarité et la curiosité. Elle sensibilise les enfants à la nature tout en leur faisant découvrir le monde fascinant des abeilles.
 
+Vous pouvez retrouver [Mielours et les abeilles](https://abcmelody.com/produit/mielours-et-les-abeilles/).
+
 Si vous avez appréciez ce livre, je vous conseille de regarder sur le mème thème des abeilles [Sois toi même, petite abeille](https://ludichou.com/sois-toi-meme-petite-abeille).

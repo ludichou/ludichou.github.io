@@ -37,7 +37,7 @@ Date de parution : 6 mars 2025.
 
 Une histoire touchante qui met en lumière l’importance de la confiance en soi, de l’entraide et du courage d’oser — des valeurs essentielles pour accompagner les enfants dans leurs premiers défis.
 
-Retrouvez sur Amazon [Envol de nuit ](https://amzn.to/3HkAB2e).
+Retrouvez sur Amazon [Envol de nuit](https://amzn.to/3HkAB2e).
 
 Si vous avez appréciez ce livre, je vous conseille de regarder  sur le même thème la confiance en soi [Sois toi-même, petite abeille !](https://ludichou.com/sois-toi-meme-petite-abeille). 
 

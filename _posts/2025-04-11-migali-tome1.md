@@ -5,7 +5,7 @@ description: Je cherchais une première BD pleine d’humour et d’aventure à 
 date: 2025-04-11 21:00:00 +0300
 author: Armelle
 image: 'images/migali-tome1-cover.jpg'
-tags: ["BD"]
+tags: ["BD","Humour"]
 featured: false
 toc: true
 ---
