@@ -12,7 +12,7 @@ toc: true
 
 {: .q-left }
 
-Langue : français.  
+Langue : Français.  
 Auteur : Jack Carty.                  
 Illustrations : Natasha Carty.        
 Editeur : Piktos Jeunesse.          
@@ -34,9 +34,4 @@ Date de parution : 7 avril 2025.
 
 Un album plein de tendresse, à lire avec son enfant pour lui rappeler qu’il est aimé en toutes circonstances.
 
-Vous pouvez le retrouver ici sur Amazon: [L'amour que j'ai pour toi](https://amzn.to/455HiiM). 
-
-
-
-
-
+Vous pouvez le retrouver ici sur Amazon: [L'amour que j'ai pour toi](https://amzn.to/455HiiM).
