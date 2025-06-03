@@ -5,7 +5,7 @@ description: Après Le Loir à la Thèire, j'ai découvert du même auteur son l
 date: 2025-04-17 21:00:00 +0300
 author: Armelle
 image: 'images/pelote-panache-cover.jpg'
-tags: ["Valeurs", "Dfférence", "Amitié"]
+tags: ["Valeurs", "Différence", "Amitié"]
 featured: false
 toc: true
 ---

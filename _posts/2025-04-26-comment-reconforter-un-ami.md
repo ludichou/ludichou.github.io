@@ -5,7 +5,7 @@ description: Un livre attachant qui met en avant des valeurs précieuses comme l
 date: 2025-04-21 22:00:00 +0300
 author: Armelle
 image: 'images/comment-reconforter-un-ami-cover.jpg'
-tags: ["Amitié", "Emotions", "Soutien"]
+tags: ["Amitié", "Emotions", "Soutien", "Valeurs"]
 featured: true
 toc: true
 ---
