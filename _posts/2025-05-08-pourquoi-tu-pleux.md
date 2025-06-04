@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pourquoi tu pleux ? de Anne Crahay 
-description: Un album qui encourage l’écoute attentive et la bienveillance, tout en dédramatisant les larmes. Un support précieux pour apprendre à accueillir les émotions, simplement, sans jugement.
+description: Un livre qui encourage l’écoute attentive et la bienveillance, tout en dédramatisant les larmes. Un support précieux pour apprendre à accueillir les émotions, simplement, sans jugement.
 date: 2025-05-06 22:00:00 +0300
 author: Armelle
 image: 'images/pourquoi-tu-pleux-cover.jpg'
@@ -15,7 +15,7 @@ toc: true
 Langue : Français.      
 Auteure : Anne Crahay.                     
 Illustrations : Anne Crahay.            
-Editeur : Diier jeunesse.             
+Editeur : Didier jeunesse.             
 Age : Dès 3 ans.     
 Date de parution : 14 avril 2021.   
 
@@ -25,7 +25,6 @@ Date de parution : 14 avril 2021.
 "- Alors là, pas du tout! Je pleure des yeux, c'est différent. Je pleux d'orage, ça me gronde, ça me tonerre en dedans!"
 
 "Un album drôle et poétique pour nommer nos émotions et nos colères".
-
 
 ## Pourquoi j'aime Pourquoi tu pleux de Anne Crahay ?
 
