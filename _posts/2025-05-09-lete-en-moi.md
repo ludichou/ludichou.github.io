@@ -2,7 +2,7 @@
 layout: post
 title: L'été en moi de Chiara Ravizza, Susanna Covelli et Romain Labat 
 description: À l’approche des beaux jours, je cherchais un livre pour sensibiliser mon fils à la nature et à la beauté de l’été. 
-date: 2025-05-06 22:00:00 +0300
+date: 2025-05-09 22:00:00 +0300
 author: Armelle
 image: 'images/lete-en-moi-cover.jpg'
 tags: ["Ete", "Saison","Nature"]

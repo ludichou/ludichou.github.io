@@ -2,7 +2,7 @@
 layout: post
 title: L'amour que j'ai pour toi de Jack Carty et Natasha Carty
 description: Un message fort et tendre sur l’amour inconditionnel, que j’aime transmettre à mes enfants à travers ce livre.
-date: 2025-05-06 22:00:00 +0300
+date: 2025-05-07 22:00:00 +0300
 author: Armelle
 image: 'images/lamour-que-jai-pour-toi-cover.jpg'
 tags: ["Amour", "Soutien", "Valeurs"]

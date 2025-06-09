@@ -2,7 +2,7 @@
 layout: post
 title: Le livre de l'été de Rotraut Susanne Berner 
 description: J’aime beaucoup les imagiers, et après avoir découvert celui des saisons, j’ai été ravie de voir qu’il en existait un dédié à l’été.
-date: 2025-05-06 22:00:00 +0300
+date: 2025-05-10 22:00:00 +0300
 author: Armelle
 image: 'images/le-livre-de-lete-cover.png'
 tags: ["Ete", "Saison","Nature"]

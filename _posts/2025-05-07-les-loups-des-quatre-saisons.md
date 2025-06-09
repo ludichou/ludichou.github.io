@@ -2,7 +2,7 @@
 layout: post
 title: Les loups des quatre saisons de Barbara Brun et Elyssa Bejaoui.
 description: "C’est ma belle-sœur qui m’a fait découvrir cet album, en pensant à moi : elle savait que j’apprécie les belles illustrations et les histoires qui mettent en valeur le rythme des saisons."
-date: 2025-05-06 22:00:00 +0300
+date: 2025-05-07 22:00:00 +0300
 author: Armelle
 image: 'images/les-loups-des-quatre-saisons-cover.jpg'
 tags: ["Saison","Bienveillance"]

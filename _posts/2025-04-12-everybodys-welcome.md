@@ -6,7 +6,7 @@ date: 2025-04-11 21:00:00 +0300
 author: Armelle
 image: 'images/everybodys-welcome-cover.jpg'
 tags: ["Livres en anglais", "Valeur"]
-featured: true
+featured: false
 toc: true
 ---
 {: .q-left }

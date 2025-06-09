@@ -2,7 +2,7 @@
 layout: post
 title: Pourquoi tu pleux ? de Anne Crahay 
 description: Un livre qui encourage l’écoute attentive et la bienveillance, tout en dédramatisant les larmes. Un support précieux pour apprendre à accueillir les émotions, simplement, sans jugement.
-date: 2025-05-06 22:00:00 +0300
+date: 2025-05-08 22:00:00 +0300
 author: Armelle
 image: 'images/pourquoi-tu-pleux-cover.jpg'
 tags: ["Emotions","Bienveillance","Colère"]

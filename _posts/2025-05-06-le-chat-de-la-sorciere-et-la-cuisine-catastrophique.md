@@ -6,7 +6,7 @@ date: 2025-05-06 22:00:00 +0300
 author: Armelle
 image: 'images/le-chat-de-la-sorciere-et-la-cuisine-catastrophique-cover.jpg'
 tags: ["Sorcière","Cuisine", "Humour"]
-featured: true
+featured: false
 toc: true
 ---
 

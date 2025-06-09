@@ -6,7 +6,7 @@ date: 2025-05-04 21:00:00 +0300
 author: Armelle
 image: 'images/Djeco-step-by-step-Arthur-et-Co-cover.jpg'
 tags: ["Jeux éducatif"]
-featured: true
+featured: famse
 toc: true
 ---
 
