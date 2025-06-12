@@ -5,7 +5,7 @@ description: Après avoir exploré le printemps, les souris du buisson aux mûre
 date: 2025-04-18 22:00:00 +0300
 author: Armelle
 image: 'images/les-souris-du-buisson-aux-mures-ete-cover.jpg'
-tags: ["Saison", "Ete"]
+tags: ["Saison", "Eté"]
 featured: false
 toc: true
 ---
@@ -36,3 +36,5 @@ Date de parution : 10 mai 2024.
 Envie de rejoindre les souris en été? Retrouvez sur Amazon [Les Souris du Buisson aux Mûres – L'été](https://amzn.to/4mn0637) et plongez dans une bulle de tendresse et de nature.
 
 Si ce livre vous a plu, je vous recommande également celui sur le printemps. [Les Souris du Buisson aux Mûres – Le printemps](https://ludichou.com/les-souris-du-buisson-au-mure-le-printemps).
+
+Vous pouvez aussi explorer d'autres albums sur ce thème dans la rubrique Ressources > Sujets > Eté.
