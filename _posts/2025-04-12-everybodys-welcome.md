@@ -5,7 +5,7 @@ description: Une belle histoire avec de très belles valeurs comme l’hospitali
 date: 2025-04-11 21:00:00 +0300
 author: Armelle
 image: 'images/everybodys-welcome-cover.jpg'
-tags: ["Livres en anglais", "Valeur"]
+tags: ["Livres en anglais", "Valeurs"]
 featured: false
 toc: true
 ---
