@@ -35,6 +35,3 @@ Date de parution : 11 mai 2022.
 Vous pouvez le retrouver ici sur Amazon: [Minusculette en été](https://amzn.to/4jS2NY8). 
 
 Vous pouvez aussi explorer d'autres albums sur ce thème dans la rubrique Ressources > Sujets > Eté
-
-
-
