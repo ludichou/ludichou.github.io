@@ -36,3 +36,5 @@ Mon fils de 4 ans s’est immédiatement identifié à Petit Ours : il posait be
 Ce livre est une véritable invitation à l’émerveillement et à la curiosité. Une lecture parfaite pour partager un moment doux et chaleureux avec votre enfant, tout en célébrant la magie du printemps !    
 
 Si vous avez envie de le découvrir, vous pouvez le retrouver ici sur Amazon : [C'est le printemps, petit Ours](https://amzn.to/41QgOi0).
+
+Vous pouvez aussi explorer d'autres albums sur ce thème dans la rubrique Ressources > Sujets > Saison ou >Printemps

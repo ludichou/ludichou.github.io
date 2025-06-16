@@ -6,7 +6,7 @@ date: 2025-05-03 22:00:00 +0300
 author: Armelle
 image: 'images/les-trottinou-et-bebe-trot-cover.jpg'
 tags: ["Naissance"]
-featured: true
+featured: false
 toc: true
 ---
 
@@ -32,6 +32,4 @@ Date de parution : 1 décembre 1999.
 
 Retrouvez sur Amazon [Les Trottinou et bébé Trot'](https://amzn.to/3HaECX8).
 
-
-
-
+Vous pouvez aussi explorer d'autres albums sur ce thème dans la rubrique Ressources > Sujets > Naissance.

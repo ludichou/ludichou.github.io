@@ -31,3 +31,5 @@ Mon fils a adoré chercher les objets demandés. Il me posait des questions sur 
 - Mon fils a adoré chercher les éléments, poser des questions sur les scènes, et découvrir de nouveaux mots.
 
 Un imagier aussi joli qu’éducatif, parfait pour éveiller la curiosité des enfants au fil des saisons. Retrouvez sur Amazon [L'imagier des saisons](https://amzn.to/3Eg6xnm)
+
+Vous pouvez aussi explorer d'autres albums sur ce thème dans la rubrique Ressources > Sujets > Saison.

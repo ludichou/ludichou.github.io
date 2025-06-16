@@ -41,3 +41,5 @@ Un guide nature à la fois zen et pratique !"
 Ce livre est une véritable invitation à la contemplation et à l’émerveillement. Un moment suspendu à savourer en famille !
 
 Envie d’explorer la nature avec votre enfant ? Retrouvez sur Amazon [Les secrets de la nature](https://amzn.to/4kLrrv7) et embarquez pour une belle aventure au cœur du monde qui nous entoure.
+
+Vous pouvez aussi explorer d'autres albums sur ce thème dans la rubrique Ressources > Sujets > Saison.

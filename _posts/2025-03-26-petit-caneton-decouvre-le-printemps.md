@@ -29,3 +29,5 @@ Age : 0-2 ans .
 - Une jolie rencontre avec ses amis – libellule, grenouille, coccinelle – qui lui partagent chacun leur vision du printemps, autour de l’étang.
 
 Si vous souhaitez faire découvrir le printemps à votre tout-petit, ce livre est plein de douceur. Retrouvez sur Amazon [Petit caneton découvre le printemps](https://amzn.to/4j5EZ3m)
+
+Vous pouvez aussi explorer d'autres albums sur ce thème dans la rubrique Ressources > Sujets > Saison Printemps

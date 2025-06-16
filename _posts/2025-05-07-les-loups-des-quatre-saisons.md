@@ -6,7 +6,7 @@ date: 2025-05-07 22:00:00 +0300
 author: Armelle
 image: 'images/les-loups-des-quatre-saisons-cover.jpg'
 tags: ["Saison","Bienveillance"]
-featured: true
+featured: false
 toc: true
 ---
 
@@ -41,6 +41,7 @@ Vous pouvez aussi explorer d'autres albums sur ce thème dans la rubrique Ressou
 
 Vous pouvez le retrouver ici sur Amazon: [Les loups des quatre saisons](https://amzn.to/3SuLktz). 
 
+Vous pouvez aussi explorer d'autres albums sur ce thème dans la rubrique Ressources > Sujets > Saison.
 
 
 

@@ -35,3 +35,5 @@ A lire tout seul dès 6 ans.
 - Le livre évoque aussi la **force des souvenirs** : "il se dit que... les odeurs peuvent raviver des souvenirs", "le parfum de la rose tant espérée ouvrira peut-être un coeur fermé. 
 
 Un bel album à partager, qui célèbre des valeurs précieuses comme l’amitié, le partage, la patience et la persévérance, tout en accompagnant les enfants à travers les saisons en prenant soin de ce qui les entoure, comme ici les roses. Retrouvez sur Amazon [Le Manoir aux Roses de Kim Ji-an ](https://amzn.to/4icbYSk).
+
+Vous pouvez aussi explorer d'autres albums sur ce thème dans la rubrique Ressources > Sujets > Saison.

@@ -6,7 +6,7 @@ date: 2025-05-11 22:00:00 +0300
 author: Armelle
 image: 'images/qui-suis-je-les-animaux-de-la-mer-cover.jpg'
 tags: ["Livre-jeu éducatif"]
-featured: true
+featured: false
 toc: true
 ---
 

@@ -39,4 +39,5 @@ Envie de rejoindre les souris dans leur aventure printanière ? Retrouvez sur Am
 
  Si ce livre vous a plu, je vous recommande également celui sur l'été. [Les Souris du Buisson aux Mûres–L'été](https://ludichou.com/les-souris-du-buisson-aux-mures-ete).
 
+Vous pouvez aussi explorer d'autres albums sur ce thème dans la rubrique Ressources > Sujets > Saison Printemps
 

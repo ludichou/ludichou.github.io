@@ -6,7 +6,7 @@ date: 2025-05-12 22:00:00 +0300
 author: Armelle
 image: 'images/la-dispute-cover.jpg'
 tags: ["Conflit", "Fratrie"]
-featured: true
+featured: false
 toc: true
 ---
 

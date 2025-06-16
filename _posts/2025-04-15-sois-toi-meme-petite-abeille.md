@@ -6,7 +6,7 @@ date: 2025-04-15 21:00:00 +0300
 author: Armelle
 image: 'images/sois-toi-meme-petite-abeille-cover.jpg'
 tags: ["Abeilles","Confiance en soi","Eté", "Valeurs"]
-featured: true
+featured: false
 toc: true
 ---
 {: .q-left }
