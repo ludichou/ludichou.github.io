@@ -12,11 +12,11 @@ toc: true
 
 {: .q-left }
 
-Langue : Français.                            
-Auteure: France Quatromme
-Illustrations : Mylène Rigaudie  
-Editeur : Bayard Jeunesse
-Age : Dès 2 ans        
+Langue : Français.                              
+Auteure: France Quatromme.  
+Illustrations : Mylène Rigaudie.    
+Editeur : Bayard Jeunesse.  
+Age : Dès 2 ans.          
 Date de parution : 21 mai 2025.
 
 ## Résumé
