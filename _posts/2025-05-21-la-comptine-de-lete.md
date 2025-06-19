@@ -1,7 +1,7 @@
 ---
 layout: post
 title: La comptine de l'été de France Quatromme et Mylène Rigaudie.
-description: 
+description:  La comptine de l’été nous plonge dans l’ambiance joyeuse et ensoleillée des grandes vacances. 
 date: 2025-05-21 20:00:00 +0300
 author: Armelle
 image: 'images/la-comptine-de-lete-cover.jpg'
