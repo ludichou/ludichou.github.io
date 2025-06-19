@@ -14,7 +14,7 @@ toc: true
 
 Langue : Français.                            
 Auteure: Céline Claire.  
-ILlustrations : Sébastien Chebret.    
+Illustrations : Sébastien Chebret.    
 Editeur : Ecole des loisirs.  
 Age : Dès 2 ans.         
 Date de parution : 4 septembre 2024.
