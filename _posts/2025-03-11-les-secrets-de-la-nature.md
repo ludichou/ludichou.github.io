@@ -5,7 +5,7 @@ description: Je trouve essentiel de transmettre l'amour de la nature et l'import
 date: 2025-03-11 15:01:35 +0300
 author: Armelle
 image: 'images/les-secrets-de-la-nature-cover.webp'
-tags: ["Saison"]
+tags: ["Saison","Nature"]
 featured: false
 toc: true
 ---
@@ -42,4 +42,4 @@ Ce livre est une véritable invitation à la contemplation et à l’émerveille
 
 Envie d’explorer la nature avec votre enfant ? Retrouvez sur Amazon [Les secrets de la nature](https://amzn.to/4kLrrv7) et embarquez pour une belle aventure au cœur du monde qui nous entoure.
 
-Vous pouvez aussi explorer d'autres albums sur ce thème dans la rubrique Ressources > Sujets > Saison.
+Si vous avez appréciez ce livre, je vous conseille de regarder  sur le même thème la confiance en soi [ Les secrets de la nature : quand la nuit tombe](https://ludichou.comles-secrets-de-la-nature-quand-la-nuit-tombe). 
