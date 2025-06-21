@@ -42,4 +42,4 @@ Ce livre est une véritable invitation à la contemplation et à l’émerveille
 
 Envie d’explorer la nature avec votre enfant ? Retrouvez sur Amazon [Les secrets de la nature](https://amzn.to/4kLrrv7) et embarquez pour une belle aventure au cœur du monde qui nous entoure.
 
-Si vous avez appréciez ce livre, je vous conseille de regarder  sur le même thème la confiance en soi [ Les secrets de la nature : quand la nuit tombe](https://ludichou.comles-secrets-de-la-nature-quand-la-nuit-tombe). 
+Si vous avez appréciez ce livre, je vous conseille de regarder  sur le même thème de la nature [ Les secrets de la nature : quand la nuit tombe](https://ludichou.com/les-secrets-de-la-nature-quand-la-nuit-tombe). 
