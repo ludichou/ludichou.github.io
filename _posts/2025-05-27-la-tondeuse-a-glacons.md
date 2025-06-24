@@ -28,7 +28,7 @@ Date de parution : 21 mai 2025
 ## Pourquoi j'aime La tondeuse à glaçons et autres objets qui n'existent pas ?
 
 ![Des illustrations originales](images/la-tondeuse-a-glacons-int.jpg)
-*Des illustrations coriginales *
+*Des illustrations originales *
 - Chaque page présente un objet complètement inventé, drôle, comme jouer à saute-bouton, un boulet rôti, un fauteuil à bouscule. Des moments de rires.
 - Ce livre est un véritable déclencheur de créativité, aussi bien pour les enfants que pour les parents. Il donne envie d’imaginer ses propres objets, d’inventer des mots, de créer un univers où tout devient possible.
 
