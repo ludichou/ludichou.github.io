@@ -6,7 +6,7 @@ date: 2025-05-20 20:00:00 +0300
 author: Armelle
 image: 'images/5-petits-mouton-cover-1.jpg'
 tags: ["Moutons", "Loup" ,"Aventure", "Sommeil"]
-featured: true
+featured: false
 toc: true
 ---
 

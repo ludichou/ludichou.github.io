@@ -6,7 +6,7 @@ date: 2025-05-07 22:00:00 +0300
 author: Armelle
 image: 'images/lamour-que-jai-pour-toi-cover.jpg'
 tags: ["Amour", "Soutien", "Valeurs"]
-featured: true
+featured: false
 toc: true
 ---
 

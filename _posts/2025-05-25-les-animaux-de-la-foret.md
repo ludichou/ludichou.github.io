@@ -31,9 +31,3 @@ Avec ses formes en relief, ce joli livre coloré ravira les tout-petits !"
 
 Vous pouvez le retrouver ici sur Amazon: [Bébés calins -les animaux de la forêt](https://amzn.to/44dRJP9). 
 
-
-
-
-
-
-

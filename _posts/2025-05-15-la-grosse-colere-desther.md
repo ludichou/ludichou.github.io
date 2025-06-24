@@ -6,7 +6,7 @@ date: 2025-05-15 20:00:00 +0300
 author: Armelle
 image: 'images/la-grosse-colere-desther-cover.jpg'
 tags: ["Colère", "Emotions"]
-featured: true
+featured: false
 toc: true
 ---
 

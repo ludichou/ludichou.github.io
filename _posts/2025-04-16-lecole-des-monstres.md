@@ -6,7 +6,7 @@ date: 2025-04-16 21:00:00 +0300
 author: Armelle
 image: 'images/lecole-des-monstres-cover.jpg'
 tags: ["Jeux éducatifs"]
-featured: true
+featured: false
 toc: true
 ---
 

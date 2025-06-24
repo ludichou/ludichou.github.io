@@ -6,7 +6,7 @@ date: 2025-05-08 22:00:00 +0300
 author: Armelle
 image: 'images/pourquoi-tu-pleux-cover.jpg'
 tags: ["Emotions","Bienveillance","Colère"]
-featured: true
+featured: false
 toc: true
 ---
 

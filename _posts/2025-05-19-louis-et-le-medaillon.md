@@ -6,7 +6,7 @@ date: 2025-05-19 11:00:00 +0300
 author: Armelle
 image: 'images/louis-et-le-medaillon-cover.jpg'
 tags: ["Valeurs"]
-featured: true
+featured: false
 toc: true
 ---
 

@@ -6,7 +6,7 @@ date: 2025-05-14 20:00:00 +0300
 author: Armelle
 image: 'images/dendan-le-lapin-noir-et-blanc-qui-lisait-tout-le-temps-cover.jpg'
 tags: ["Amitié", "Lecture"]
-featured: true
+featured: false
 toc: true
 ---
 
