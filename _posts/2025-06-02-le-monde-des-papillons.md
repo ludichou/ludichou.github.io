@@ -14,7 +14,7 @@ toc: true
 
 Langue : Français.       
 Auteure : Rita Mabel Schiavo.   
-illustrations : Giulia de Amicis.                  
+Illustrations : Giulia de Amicis.                  
 Editeur : Kimane.           
 Age : 9 - 12 ans.                  
 Date de parution : 12 juin 2025.
