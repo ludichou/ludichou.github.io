@@ -4,7 +4,7 @@ title: Les grands garçons pleurent aussi
 description: "Ce livre aborde un stéréotype encore bien ancré : l’idée que les garçons ne devraient pas pleurer. Il rappelle avec douceur qu’un grand garçon peut ressentir différentes émotions comme la peur, la tristesse, la joie. C’est tout à fait normal de pleurer. Un message important que j’ai à cœur de transmettre à mes garçons."
 date: 2025-06-12 20:00:00 +0300
 author: Armelle
-image: 'images/les-grands-garçons-pleurent-aussi-cover.jpg'
+image: 'images/les-grands-garcons-pleurent-aussi-cover.jpg'
 tags: ["Emotions","Ecole"]
 featured: true
 toc: true
@@ -24,9 +24,9 @@ Date de parution : 29 août 2019.
 
 "Suis Tom dans ses aventures et tu découvriras avec lui que tout le monde a le droit de pleurer, même les grands".
 
-## Pourquoi j'aime Les grands garçons pleurent aussi 
+## Pourquoi j'aime Les grands garçons pleurent aussi ?
 
-![Des illustrations magnifiques](images/les-grands-garçons-pleurent-aussi-int.jpg)
+![Des illustrations magnifiques](images/les-grands-garçons-pleurent-aussi-int.jpg)
 *Des illustrations magnifiques*
 - Ce livre est une belle manière de déconstruire un stéréotype encore trop présent : l’idée que les garçons ne devraient pas pleurer. Il montre au contraire qu’ils peuvent, comme tout le monde, ressentir différentes émotions comme la peur, la tristesse ou encore la joie. Il est normal de les ressentir ou de les montrer.
 - Un jour, mon fils m’a demandé pourquoi les garçons pleuraient dans le livre. Je lui ai expliqué que pleurer, c’est parfois réagir à un moment triste, être ému par une musique ou une histoire, ou simplement dire qu’on a besoin de réconfort. Je lui ai reparlé du livre Pourquoi tu pleures ?, qui évoque aussi différentes émotions "pourquoi tu pleux?", ça me tonerre là dedans" "tu pleux de joie? de pleurs? Tu pleux de quoi?", et je lui ai dit que, chez nous, on a le droit de pleurer, de parler, de partager ce qu’on ressent.

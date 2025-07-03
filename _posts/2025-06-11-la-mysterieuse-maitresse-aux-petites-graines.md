@@ -25,7 +25,7 @@ Elle sort la nuit en cachette pour faire sa cueillette et distribue chaque matin
 
 "Et toi, quelles sont les graines dont tu aurais besoin ? Choisis un trésor à apporter, la maîtresse est prévenue de ton arrivée !".
 
-## Pourquoi j'aime La Mystérieuse Maîtresse aux petites graines 
+## Pourquoi j'aime La Mystérieuse Maîtresse aux petites graines ? 
 
 ![Des illustrations magnifiques](images/la-mysterieuse-maitresse-int.jpg)
 *Des illustrations magnifiques*
