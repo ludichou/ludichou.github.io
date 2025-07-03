@@ -33,7 +33,7 @@ Date de parution : 1 avril 2025.
 *Des illustrations colorées*
 - Ce livre installe un joli suspense autour de la découverte d’un œuf mystérieux… mais qui peut bien se cacher à l’intérieur ?
 - Lana, curieuse et attentionnée, cherche à en savoir plus. Elle interroge les personnes autour d’elle pour découvrir à qui pourrait appartenir cet oeuf.
-- Et lorsque le secret est révélé — c’est un dragon ! — Lana n’hésite pas à demander à ses parents si elle peut le garder. Elle leur promet que si la dragonne revient, elle le lui rendra sans hésiter.
+- Et lorsque le secret est révélé, c’est un dragon ! Lana n’hésite pas à demander à ses parents si elle peut le garder. Elle leur promet que si la dragonne revient, elle le lui rendra sans hésiter.
 - À la fin, quelques questions "As-tu bien compris ?" permettent de revenir sur l’histoire. Mon fils a beaucoup aimé et a bien retenu le récit.
 
 Vous pouvez le retrouver ici sur Amazon: [Lana et le petit compagnon](https://amzn.to/4lCpil6). 

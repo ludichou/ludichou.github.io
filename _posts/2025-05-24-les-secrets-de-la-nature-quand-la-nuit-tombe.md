@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Les secrets de la nature : quand la nuit tombe de Rachel Williams et Hartas Freya "
-description: "Après avoir apprécié Les secrets de la nature, nous avons poursuivi la découverte avec Les secrets de la nature : Quand la nuit tombe, du même auteur et illustrateur — un second album tout aussi fascinant."
+description: "Après avoir apprécié Les secrets de la nature, nous avons poursuivi la découverte avec Les secrets de la nature : Quand la nuit tombe, du même auteur et illustrateur : un second album tout aussi fascinant."
 date: 2025-05-24 20:00:00 +0300
 author: Armelle
 image: 'images/les-secrets-de-la-nature-quand-la-nuit-tombe-cover.jpg'

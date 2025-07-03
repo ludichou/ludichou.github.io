@@ -32,8 +32,8 @@ Date de parution : 12 juin 2025.
 - Un documentaire passionnant et très complet sur les papillons ! On y découvre leur anatomie, leur manière de voler, les jardins qui leur sont favorables, les méthodes d’élevage, et surtout, comment les protéger.
 - Ce livre répond à de nombreuses questions que les enfants peuvent se poser : Comment naissent les papillons ? Peut-on en élever chez soi ? Comment les aider à survivre ? Quelle est leur durée de vie ?
 - Il stimule la curiosité et encourage l’observation de la nature.
-- Mon fils a adoré observer les différentes espèces présentées. Son préféré : l’azuré des nerpruns, parce qu’il est violet – sa couleur favorite ! Il a pris plaisir à décrire chaque papillon : leurs couleurs, leur taille, s’il les trouvait jolis ou amusants, et surtout, à apprendre leurs noms.
-- Il a été particulièrement fasciné par la métamorphose du papillon, par les notions de "petits ou grands", ainsi que par l’idée de pouvoir en élever dans notre jardin – une idée qui l’enthousiasme beaucoup !
+- Mon fils a adoré observer les différentes espèces présentées. Son préféré : l’azuré des nerpruns, parce qu’il est violet, sa couleur favorite ! Il a pris plaisir à décrire chaque papillon : leurs couleurs, leur taille, s’il les trouvait jolis ou amusants, et surtout, à apprendre leurs noms.
+- Il a été particulièrement fasciné par la métamorphose du papillon, par les notions de "petits ou grands", ainsi que par l’idée de pouvoir en élever dans notre jardin,  une idée qui l’enthousiasme beaucoup !
 - De mon côté, j’ai beaucoup apprécié les pages consacrées à la protection des papillons et à leur lien avec les humains. Une belle manière de sensibiliser les plus jeunes à la biodiversité !
 
 Vous pouvez le retrouver ici sur Amazon: [Le Monde des papillons](https://amzn.to/4nzilTI). 

@@ -38,4 +38,6 @@ Page après page, on observe les bagages qu'ils préparent, on devine les destin
 
 Ce livre nous rappelle que, peu importe le lieu de vacances, l'important ce sont les moments que l'on partage avec nos proches.
 
+Et vous, quelles graines aimeriez-vous semer ? Pour ma part, je trouve que les graines de tolérance et d’empathie sont essentielles pour tisser du lien, encourager l’écoute et faire grandir le partage.
+
 Vous pouvez le retrouver ici sur Amazon: [Partir en vacances](https://amzn.to/447uO9s). 
