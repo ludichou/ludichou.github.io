@@ -41,3 +41,4 @@ Au début, mon fils ne comprenait pas pourquoi il y avait un renard ou un tigre 
 
 Le message est clair : face au harcèlement, il ne faut pas garder le silence. Au contraire, il faut en parler à un adulte (parents, maîtresse ou autre). Vous pouvez le retrouver ici sur Amazon : [ Un renard dans mon école](https://amzn.to/4iI482R).
 
+Si vous avez appréciez ce livre, je vous conseille de regarder sur le même thème de l'harcèlement à l'école [Juliette ne veut plus aller à l'école](https://ludichou.com/juliette-ne-veut-plus-aller-a-lecole).
