@@ -12,11 +12,11 @@ toc: true
 
 {: .q-left }
 
-Langue : Français.                                      
-Auteure : Carole Minker 
-Illustrations : Anna Simeone       
-Editeur : Laroussse jeunesse.         
-Age : Dès 3 ans.          
+Langue : Français.                                        
+Auteure : Carole Minker.   
+Illustrations : Anna Simeone.         
+Editeur : Laroussse jeunesse.           
+Age : Dès 3 ans.            
 Date de parution : 18 juin 2025.
 
 ## Résumé
