@@ -1,7 +1,7 @@
 ---
 layout: post
 title: L'espace de Stéphanie Ledu, Stéphane Frattini et Vincent Caut.
-description: Mon fils adore l’espace et apprécie beaucoup la collection Kikidoc, à la fois accessible et ludique.
+description: Mon fils adore l’espace et apprécie beaucoup la collection mes docs animés, à la fois accessible et ludique.
 date: 2025-06-19 20:00:00 +0300
 author: Armelle
 image: 'images/lespace-kikidoc-cover.jpg'
