@@ -6,7 +6,7 @@ date: 2025-05-22 20:00:00 +0300
 author: Armelle
 image: 'images/la-petite-collectionneuse-de-lumieres-cover.jpg'
 tags: ["Amitié", "Valeurs", "Peur", "Rêves"]
-featured: true
+featured: famse
 toc: true
 ---
 

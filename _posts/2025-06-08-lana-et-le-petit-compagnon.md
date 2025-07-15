@@ -6,7 +6,7 @@ date: 2025-06-08 20:00:00 +0300
 author: Armelle
 image: 'images/lana_et_le_petit_dragon_site_cover.jpg'
 tags: ["Aventures", "Dragon","Amitié"]
-featured: true
+featured: false
 toc: true
 ---
 

@@ -6,7 +6,7 @@ date: 2025-06-12 20:00:00 +0300
 author: Armelle
 image: 'images/les-grands-garcons-pleurent-aussi-cover.jpg'
 tags: ["Emotions","Ecole"]
-featured: true
+featured: false
 toc: true
 ---
 

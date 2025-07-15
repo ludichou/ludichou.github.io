@@ -6,7 +6,7 @@ date: 2025-06-11 20:00:00 +0300
 author: Armelle
 image: 'images/la-mysterieuse-maitresse-cover.jpg'
 tags: ["Ecole","Valeurs"]
-featured: true
+featured: false
 toc: true
 ---
 

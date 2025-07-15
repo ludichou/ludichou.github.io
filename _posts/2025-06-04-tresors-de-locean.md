@@ -6,7 +6,7 @@ date: 2025-06-04 20:00:00 +0300
 author: Armelle
 image: 'images/tresors-de-locean-cover.jpg'
 tags: ["Océan","Biodiversité"]
-featured: true
+featured: false
 toc: true
 ---
 

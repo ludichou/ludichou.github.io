@@ -6,7 +6,7 @@ date: 2025-06-02 20:00:00 +0300
 author: Armelle
 image: 'images/le-monde-des-papillons-cover.jpg'
 tags: ["Papillon","Nature","Biodiversité"]
-featured: true
+featured: false
 toc: true
 ---
 

@@ -6,7 +6,7 @@ date: 2025-06-03 20:00:00 +0300
 author: Armelle
 image: 'images/dans-ton-jardin-cover.jpg'
 tags: ["Nature", "Jardin"]
-featured: true
+featured: false
 toc: true
 ---
 

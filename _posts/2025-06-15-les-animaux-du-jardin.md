@@ -5,8 +5,8 @@ description: Un livre que j’ai adoré lire avec mon fils, pour partir ensemble
 date: 2025-06-15 20:00:00 +0300
 author: Armelle
 image: 'images/mes-animaux-du-jardin-cover.jpg'
-tags: ["Animaux", "Jardin"]
-featured: true
+tags: ["Animaux", "Jardin","Eveil"]
+featured: false
 toc: true
 ---
 

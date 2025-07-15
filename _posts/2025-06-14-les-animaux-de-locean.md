@@ -5,8 +5,8 @@ description: Un livre que j’ai adoré lire avec mon fils, pour partir ensemble
 date: 2025-06-14 20:00:00 +0300
 author: Armelle
 image: 'images/les-animaux-de-locean-cover.jpg'
-tags: ["Animaux", "Océan"]
-featured: true
+tags: ["Animaux", "Océan","Eveil"]
+featured: false
 toc: true
 ---
 

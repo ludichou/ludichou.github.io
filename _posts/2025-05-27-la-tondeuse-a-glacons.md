@@ -6,7 +6,7 @@ date: 2025-05-27 20:00:00 +0300
 author: Armelle
 image: 'images/la-tondeuse-a-glacons-cover.jpg'
 tags: ["Humour"]
-featured: true
+featured: false
 toc: true
 ---
 

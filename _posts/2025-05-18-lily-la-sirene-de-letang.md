@@ -6,7 +6,7 @@ date: 2025-05-18 20:00:00 +0300
 author: Armelle
 image: 'images/lily-la-sirene-de-letang-cover.jpg'
 tags: ["Sirène", "Valeurs"]
-featured: true
+featured: false
 toc: true
 ---
 
