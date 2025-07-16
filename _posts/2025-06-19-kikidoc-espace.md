@@ -5,7 +5,7 @@ description: Mon fils adore l’espace et apprécie beaucoup la collection mes d
 date: 2025-06-19 20:00:00 +0300
 author: Armelle
 image: 'images/lespace-kikidoc-cover.jpg'
-tags: ["Espace"]
+tags: ["Espace", "Documentaire"]
 featured: true
 toc: true
 ---
