@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dis-moi ! Pourquoi ? de Isabelle Fougère, Mélanie Allag, Claire Brenier, Denis Cauquetoux , Pierre Laloge, Loïc Méhée.
-description: Mon fils pose beaucoup de questions sur tout ce qui l’entoure… et Dis-moi ! Pourquoi est devenu un précieux allié pour nourrir sa curiosité tout en s’amusant.
+description: Mon fils pose beaucoup de questions sur tout ce qui l’entoure… et Dis-moi ! Pourquoi permet de répondre à sa curiosité tout en s’amusant.
 date: 2025-06-20 20:00:00 +0300
 author: Armelle
 image: 'images/dis-moi-pourquoi-cover.jpg'
