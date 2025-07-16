@@ -38,3 +38,5 @@ Retrouvez sur Amazon [C'est quoi le bonheur ?](https://amzn.to/4j7s1kQ)
 Si ce livre vous a plu, je vous recommande également celui-ci [Le marchand de bonheur ](https://ludichou.com/le-marchand-de-bonheur). 
 
 Si vous voulez la collection sur le bonheur, vous pouvez regarder les[Livres du même illustrateur Marco Somà sur le bonheur](images/livres-de-marco-somà-bonheur.jpg).  
+
+Vous pouvez aussi explorer d'autres albums sur ce thème dans la rubrique Ressources > Sujets > Bonheur.
