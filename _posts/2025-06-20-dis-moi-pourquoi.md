@@ -30,7 +30,7 @@ Date de parution : 16 février 2022.
 - Chaque question est traitée sur une double page, avec des réponses claires et, précises. 
 - Différents thèmes sur l'histoire, la nature, le corps, les animaux, le quotidien, l'univers.
 - Pouvoir répondre plus facilement à ses enfants par exemple pourquoi il pleut? Pourquoi l'herbe est verte? Pourquoi le soleil se couche? Pourquoi on doit se laver les dents?
-- Un jeu d’observation où l’on cherche les antocollants avec les silhouettes. 
+- Un jeu d’observation où l’on cherche les autocollants avec les silhouettes. 
 
 Vous pouvez le retrouver ici sur Amazon: [Dis-moi ! Pourquoi ?](https://amzn.to/40k7AL1). 
 

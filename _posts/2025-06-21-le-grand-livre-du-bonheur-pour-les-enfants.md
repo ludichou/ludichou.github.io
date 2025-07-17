@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Le grand livre du bonheur pour les enfants de Leo Bormans et Sebastiaan Van Doninck.
-description: "Je souhaite faire découvrir ce livre à mon fils lorsqu’il sera un peu plus grand, car il propose une approche ludique et complète : une histoire captivante, des questions pour réfléchir, des conseils pratiques, des informations pour mieux connaître l’oiseau… ainsi que des petits exercices pour aller plus loin."
+description: "Je souhaite faire découvrir ce livre à mon fils lorsqu’il sera un peu plus grand, car il propose une approche ludique et complète à propos du bonheur"
 date: 2025-06-21 20:00:00 +0300
 author: Armelle
 image: 'images/le-grand-livre-du-bonheur-pour-les-enfants-cover.jpg'
-tags: ["Bonheur"]
+tags: ["Bonheur","Valeurs","Oiseaux"]
 featured: true
 toc: true
 ---
@@ -25,7 +25,7 @@ Date de parution : 9 mars 2016.
 
 "Le livre idéal pour aider parents, grands-parents, éducateurs et enseignants à porter une voix optimiste auprès des plus jeunes".
 
-"Aujourd'hui connu comme "l'ambassadeur mondial du bonheur et de la qualité de vie", Leo Bormans est l'auteur de best-sellers internationaux fondés sur les plus récentes découvertes scientifiques en matière de psychologie positive".
+"Aujourd’hui connu comme "l'ambassadeur mondial du bonheur et de la qualité de vie", Leo Bormans est l'auteur de best-sellers internationaux fondés sur les plus récentes découvertes scientifiques en matière de psychologie positive".
 
 ## Pourquoi j'aime Le grand livre du bonheur pour les enfants ? 
 
@@ -40,5 +40,7 @@ Ce livre donne aux enfants des outils précieux pour mieux se connaître, compre
 
 Vous pouvez le retrouver ici sur Amazon: [Le grand livre du bonheur pour les enfants ](https://amzn.to/44SsLVM). 
 
-Vous pouvez aussi explorer d'autres albums sur ce thème dans la rubrique Ressources > Sujets > Bonheur.
+Vous pouvez retrouver le second livre sur l'amitié [Le grand livre du bonheur pour les enfants](https://ludichou.com/le-grand-livre-du-bonheur-pour-les-enfants).
+
+Vous pouvez aussi explorer d'autres albums sur ce thème dans la rubrique Ressources > Sujets > Bonheur ou > Valeurs.
 
