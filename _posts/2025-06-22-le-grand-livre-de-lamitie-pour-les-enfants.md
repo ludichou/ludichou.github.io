@@ -41,6 +41,6 @@ Date de parution : 13 septembre 2017.
 - On y trouve aussi des activités à partager avec ses amis, comme faire un origami, ou apprendre à mieux coopérer.
 - Les personnages sont des oiseaux et parle d'amitié et de bonheur. Le livre rappelle avec justesse qu'il est préférable d’avoir peu d’amis et d’être bien entouré que l'inverse.
 
-Vous pouvez le retrouver ici sur Amazon: [Le grand livre de l'amiti" pour les enfants ](https://amzn.to/4f0mP1S). 
+Vous pouvez le retrouver ici sur Amazon: [Le grand livre de l'amitié pour les enfants ](https://amzn.to/4f0mP1S). 
 
 Vous pouvez aussi explorer d'autres albums sur ce thème dans la rubrique Ressources > Sujets > Bonheur ou > Amitié ou > Valeurs.
