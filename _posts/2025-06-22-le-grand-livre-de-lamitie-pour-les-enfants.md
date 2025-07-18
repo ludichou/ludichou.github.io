@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Le grand livre du bonheur pour les enfants de Leo Bormans et Sebastiaan Van Doninck.
-description: 
+description: "Je souhaite faire découvrir ce livre à mon fils lorsqu’il sera un peu plus grand, car il propose une approche ludique et complète à propos de l'amitié"
 date: 2025-06-22 20:00:00 +0300
 author: Armelle
 image: 'images/le-grand-livre-de-lamitie-cover.jpg'
