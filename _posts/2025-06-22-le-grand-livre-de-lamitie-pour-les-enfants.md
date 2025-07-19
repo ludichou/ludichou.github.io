@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Le grand livre du bonheur pour les enfants de Leo Bormans et Sebastiaan Van Doninck.
-description: "Je souhaite faire découvrir ce livre à mon fils lorsqu’il sera un peu plus grand, car il propose une approche ludique et complète à propos de l'amitié"
+title: Le grand livre de l'amitié pour les enfants de Leo Bormans et Sebastiaan Van Doninck.
+description: "Je souhaite faire découvrir ce livre à mon fils lorsqu’il sera un peu plus grand, car il propose une approche ludique et complète à propos de l'amitié."
 date: 2025-06-22 20:00:00 +0300
 author: Armelle
 image: 'images/le-grand-livre-de-lamitie-cover.jpg'
@@ -34,7 +34,7 @@ Date de parution : 13 septembre 2017.
 ![De jolies illustrations](images/le-grand-livre-de-lamitie-int.jpg)
 *De jolies illustrations *
 - Ce livre s’appuie sur « des découvertes scientifiques en matière de psychologie positive » pour aborder, cette fois, un thème essentiel dans la construction de l’enfant : l’amitié. Il fait suite au premier titre Le grand livre du bonheur pour les enfants. Vous pouvez retrouver le premier livre sur le bonheur [Le grand livre du bonheur pour les enfants](https://ludichou.com/le-grand-livre-du-bonheur-pour-les-enfants).
-- Au début du livre, on a dix conseils pertinents pour permettre à notre enfant une meilleure expérience. A travers 10 histoires, on découvre 10 clés qui portent sur l'amitié "les bons amis s'encouragent mutuellement, les bons amis sont aimables avec les autres, les bons amis sont solidaires, les bons amis s'entraident, es bons amis se font facilement de nouveaux amis, les bons amis aiment s'amuser ensemble, les bons amis se sententen sécurité en compagnie des autres, les bons amis se sentent bien lorsqu'ils sont ensemble, les bons amis font preuve de franchise entre eux, les bons amis se complètent".
+- Au début du livre, on a dix conseils pertinents pour permettre à notre enfant une meilleure expérience. A travers 10 histoires, on découvre 10 clés qui portent sur l'amitié "les bons amis s'encouragent mutuellement, les bons amis sont aimables avec les autres, les bons amis sont solidaires, les bons amis s'entraident, les bons amis se font facilement de nouveaux amis, les bons amis aiment s'amuser ensemble, les bons amis se sententen sécurité en compagnie des autres, les bons amis se sentent bien lorsqu'ils sont ensemble, les bons amis font preuve de franchise entre eux, les bons amis se complètent".
 - Chaque chapitre mêle une histoire illustrée, des questions pour réfléchir, une clé à retenir, des exercices concrets, et même des informations pour mieux connaître l’oiseau mis en scène.
 - Des questions en lien avec la vie quotidienne permettent à l’enfant de faire des liens concrets :
 "Comment arrivez-vous à résoudre vos conflits? Comment envisages-tu de t'y prendre pour éviter de te disputer à l'avenir?". 
