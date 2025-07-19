@@ -6,7 +6,7 @@ date: 2025-06-07 20:00:00 +0300
 author: Armelle
 image: 'images/partir_en_vacances_cover.jpg'
 tags: ["Vacances"]
-featured: true
+featured: false
 toc: true
 ---
 

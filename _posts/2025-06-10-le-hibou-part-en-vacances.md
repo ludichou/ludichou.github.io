@@ -6,7 +6,7 @@ date: 2025-06-10 20:00:00 +0300
 author: Armelle
 image: 'images/le-hibou-part-en-vacances-cover.jpg'
 tags: ["Vacances"]
-featured: true
+featured: false
 toc: true
 ---
 
