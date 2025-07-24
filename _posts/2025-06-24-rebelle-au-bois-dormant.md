@@ -21,7 +21,7 @@ Date de parution : 10 mai 2023.
 
 ## Résumé
 
-"Rebelle aime vivre seule, mettre ses doigts dans le nez et se baigner toute habillée. Elle aime sa liberté, et pas question de se marier! Pour se débarasser des importuns, elle se grime avec un nez pointu, une poudre verdâtre... et elle se tord de rire en voyant repartir ses prétendants en couurant. Mais les années passent, et Rebelle commence à s'ennuyer toute seule.."
+"Rebelle aime vivre seule, mettre ses doigts dans le nez et se baigner toute habillée. Elle aime sa liberté, et pas question de se marier! Pour se débarasser des importuns, elle se grime avec un nez pointu, une poudre verdâtre... et elle se tord de rire en voyant repartir ses prétendants en courant. Mais les années passent, et Rebelle commence à s'ennuyer toute seule.."
 
 ## Pourquoi j'aime Rebelle au bois charmant? 
 
