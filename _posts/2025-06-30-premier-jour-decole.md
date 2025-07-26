@@ -21,7 +21,7 @@ Date de parution : 8 juin 2023.
 
 ## Résumé
 
-" C'est la première rentrée de Robin ! Au fil de la journée, il va découvrie une drôle de classe, perchée dans les arbres. Très vite, il se familiarise avec les nombreuses activités : découpage, collage, sport... Il va même apprendre à aller aux toilettes tout seul! Accepterait-il d'y retourner le lendemain?".
+" C'est la première rentrée de Robin ! Au fil de la journée, il va découvrir une drôle de classe, perchée dans les arbres. Très vite, il se familiarise avec les nombreuses activités : découpage, collage, sport... Il va même apprendre à aller aux toilettes tout seul! Accepterait-il d'y retourner le lendemain?".
 
 "Un album amusant et tendre sur la rentrée à l'école maternelle pour les enfants qui appréhendent cette grande étape et pour ceux qui l'attendent avec impatience!".
 
@@ -35,4 +35,4 @@ Cet album est pour moi une ressource pour apaiser les petites inquiétudes liée
 
 Vous pouvez le retrouver ici sur Amazon: [Premier jour d'école](https://amzn.to/3H3zN27). 
 
-
+Vous pouvez aussi explorer d'autres albums sur ce thème dans la rubrique Ressources > Sujets > Ecole.

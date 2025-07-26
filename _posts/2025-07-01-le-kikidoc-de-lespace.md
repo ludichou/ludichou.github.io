@@ -35,3 +35,5 @@ Date de parution : 15 octobre 2020.
 
 Vous pouvez le retrouver ici sur Amazon: [Le grand Kididoc de l'espace - Grand livre pop-up](https://amzn.to/46vVfax). 
 
+Vous pouvez aussi explorer d'autres albums sur ce thème dans la rubrique Ressources > Sujets > Espace.
+

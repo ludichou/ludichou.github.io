@@ -30,6 +30,6 @@ Date de parution : 28 mai 2025.
 - L’univers des vacances et de l’été y est parfaitement représenté : construction de châteaux de sable, baignades, glaces, observation de coquillages… tout y est pour faire revivre les plaisirs simples de l’été.
 - On suit avec plaisir les aventures de Petiote et de son fidèle chien, deux compagnons curieux et pleins d’entrain, toujours prêts à explorer.
 
-C’est un livre idéal pour inventer des histoires à deux voix, décrire ensemble ce qu’on observe, se poser des questions et laisser place à la créativité.
+Avec mon fils, on aime créer des récits, commenter les illustrations.
 
 Vous pouvez le retrouver ici : [Petiote à la mer](https://site.nathan.fr/livres/petiote-la-mer-une-bd-sans-texte-lire-les-pieds-dans-leau-des-3-ans-9782095047573.html?srsltid=AfmBOor6yeHZYkYs545syFtcapdy0wt1f5_CpDJuqNz7cCo635jI1Nmv). 
