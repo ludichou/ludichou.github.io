@@ -12,10 +12,10 @@ toc: true
 
 {: .q-left }
 
-Langue : Français.     
-Auteur/ Illustrations : Solt Héloïse.   
-Editeur : Little Urban.
-Age :  Dès 3 ans.                       
+Langue : Français.      
+Auteur/ Illustrations : Solt Héloïse.     
+Editeur : Little Urban.  
+Age : Dès 3 ans.                         
 Date de parution : 7 mars 2025.   
 
 ## Résumé
