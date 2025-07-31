@@ -11,7 +11,8 @@ toc: true
 ---
 {: .q-left }
 
-Langue : Français.     
+Langue : Français.
+Auteur : Orianne Lallemand et Éléonore Thuillier.  
 Editeur : Auzou.  
 Age : 1 - 3 ans.
 
@@ -31,3 +32,5 @@ Passionnée de jardinage, j’avais hâte de partager cette activité avec mon f
 - Un excellent moyen d’**aborder la patience et l’observation à travers le cycle des plantes**. Comme il est en moyenne section, ce thème est justement au programme cette année.
 
 Envie de jardiner avec votre enfant ? Retrouvez sur amazon [P'tit loup apprend à jardiner](https://amzn.to/4bQYUjJ).
+
+Vous pouvez aussi explorer d'autres albums sur ce thème dans la rubrique Ressources > Sujets  > P'tit loup.
