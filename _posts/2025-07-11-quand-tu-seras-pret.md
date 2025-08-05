@@ -12,9 +12,9 @@ toc: true
 
 {: .q-left }
 
-Langue : Français.
-Auteur : Sabine Bohlmann 
-Illustrations : Emilia Dziubak.                 
+Langue : Français.  
+Auteur : Sabine Bohlmann.   
+Illustrations : Emilia Dziubak.                   
 Editeur : Kimane.            
 Age :  3 - 5 ans.                         
 Date de parution : 3 juillet 2025.          
@@ -35,7 +35,7 @@ Date de parution : 3 juillet 2025.
 - Heureusement, ses parents prennent sa défense avec bienveillance : "Il n'est pas encore prêt" "il a encore besoin de temps" "ce petit n'est pas encore prêt". Ils l’écoutent, le rassurent et l’accompagnent avec douceur.
 - Ce livre met en avant différentes valeurs : respecter le rtyhme de chacun, l'écoute, la patience et le soutien. Et qu'il est tout à fait normal de ressentir de la peur et qu’on peut réussir, à son propre rythme.
 
-Un album touchant qui rappelle aux petits comme aux grands que prendre son temps est une force et qu parfois il faut réesayer pour réussir, qu'il s'agit d'un apprentissage et qu'il n'est pas nécessaire de se comparer. 
+Un album touchant qui rappelle aux petits comme aux grands que prendre son temps est une force et que parfois il faut réesayer pour réussir, qu'il s'agit d'un apprentissage et qu'il n'est pas nécessaire de se comparer. 
 
 Vous pouvez le retrouver ici sur Amazon: [Quand tu seras prêt](https://amzn.to/4fja16F).
 
