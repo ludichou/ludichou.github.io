@@ -30,7 +30,7 @@ Date de parution : 28 mai 2025.
 *Des illustrations magnifiques*
 - Ce documentaire permet de découvrir le monde marin. Chaque double page, invite à regarder et découvrir des animaux étonnants, souvent méconnus.
 - On y croise un renard polaire, des narvals, un poisson-perroquet, un lamantin... et bien d’autres créatures fascinantes dans leur habitat naturel. Mon fils s’est amusé à tous les observer, à poser des questions : « C’est quoi celui-là ? », « Ah, il y en a d’autres cachés là ! » et à les compter avec enthousiasme. Il adore compter.
-- C’est un livre qui permet d'éveiller la curiosité des enfants et des plus grands. On peut parler de la beauté des océans, mais aussi le sensibiliser à l’écologie, la biodiversité. 
+- C’est un livre qui permet d'éveiller la curiosité des enfants et des plus grands. On peut parler de la beauté des océans, mais aussi sensibiliser à l’écologie et la biodiversité. 
 
 Vous pouvez le retrouver ici sur Amazon: [Dans le secret des océans](https://amzn.to/4flBAw4).
 

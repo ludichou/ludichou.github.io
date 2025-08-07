@@ -6,7 +6,7 @@ date: 2025-07-01 20:00:00 +0300
 author: Armelle
 image: 'images/le-kikidoc-de-lespace-cover.jpg'
 tags: ["Espace", "Documentaire"]
-featured: true
+featured: false
 toc: true
 ---
 

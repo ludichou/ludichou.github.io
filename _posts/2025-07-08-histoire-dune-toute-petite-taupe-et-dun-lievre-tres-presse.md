@@ -6,7 +6,7 @@ date: 2025-07-08 20:00:00 +0300
 author: Armelle
 image: 'images/histoire-dune-petite-taupe-et-dun-lievre-tres-presse-cover.jpg'
 tags: ["Différence","Valeurs"]
-featured: true
+featured: false
 toc: true
 ---
 

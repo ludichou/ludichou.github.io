@@ -6,7 +6,7 @@ date: 2025-06-23 20:00:00 +0300
 author: Armelle
 image: 'images/le-bus-meduse-cover.jpg'
 tags: ["Valeurs","Océan"]
-featured: true
+featured: false
 toc: true
 ---
 

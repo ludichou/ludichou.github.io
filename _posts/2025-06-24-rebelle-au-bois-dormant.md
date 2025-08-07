@@ -6,7 +6,7 @@ date: 2025-06-24 20:00:00 +0300
 author: Armelle
 image: 'images/rebelle-au-bois-charmant-cover.jpg'
 tags: ["Aventure", "Humour"]
-featured: true
+featured: false
 toc: true
 ---
 

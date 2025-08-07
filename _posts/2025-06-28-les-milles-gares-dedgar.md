@@ -6,7 +6,7 @@ date: 2025-06-27 20:00:00 +0300
 author: Armelle
 image: 'images/les-milles-gares-degar-cover.jpg'
 tags: ["Aventure","Rêves"]
-featured: true
+featured: false
 toc: true
 ---
 
