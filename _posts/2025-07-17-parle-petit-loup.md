@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Parle, Petit Loup de Claudie Stanké et Barroux 
-description: "Un livre qui aborde un sujet difficile avec délicatesse : les violences familiales. Un récit fort, qui encourage les enfants à parler à quelqu'un de ce qui de va pas et qu'il est essentiel d'en parler."
+description: "Un livre qui aborde un sujet difficile avec délicatesse : les violences familiales. Un récit fort, qui encourage les enfants à parler à quelqu'un de ce qui ne va pas et qu'il est essentiel d'en parler."
 date: 2025-07-17 20:00:00 +0300
 author: Armelle
 image: 'images/parle-petit-loup-cover.jpg'
