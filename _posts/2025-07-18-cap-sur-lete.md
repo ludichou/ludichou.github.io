@@ -5,7 +5,7 @@ description: Un très beau livre sur l'été avec des valeurs comme l'entraide e
 date: 2025-07-18 20:00:00 +0300
 author: Armelle
 image: 'images/cap-sur-lete-cover.jpg'
-tags: ["Eté","Saison","Mer","Vacnces]
+tags: ["Eté","Saison","Mer","Vacances"]
 featured: true
 toc: true
 ---
