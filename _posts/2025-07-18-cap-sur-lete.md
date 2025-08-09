@@ -33,7 +33,7 @@ Date de parution :  5 juin 2025.
 - C’est alors que Colette la mouette fait une arrivée spectaculaire, éclaboussant joyeusement tout le monde sur le café. Elle leur propose de partir à la mer, même juste pour une journée. Au début, chacun pense à son travail… mais leur vient une idée: et si on transformait le Café-flottant en pirogue ?
 - Ensemble, ils bricolent, s’entraident et prennent le large. À l’arrivée, la mer les émerveille. Ils se baignent, dégustent des boissons fraîches, dorment sur la plage et d'autres pensent déjà à faire d’autres escapades à pied, en bus, en vélo, en avion... ou encore en fusée !
 
-Il est important de profiter de l'instant présent et de ralentir, et que nous ausssi, on a le droit et besoin de vacances pour se ressourcer et partager de bons moments en famille ou avec des amis.
+Il est important de profiter de l'instant présent et de ralentir, et que nous aussi, on a le droit et besoin de vacances pour se ressourcer et partager de bons moments en famille ou avec des amis.
 
 Vous pouvez le retrouver ici sur Amazon: [Cap sur l'été](https://amzn.to/3JoMTrn).
 
