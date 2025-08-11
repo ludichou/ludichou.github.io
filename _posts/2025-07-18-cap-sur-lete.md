@@ -37,5 +37,8 @@ Il est important de profiter de l'instant présent et de ralentir, et que nous a
 
 Vous pouvez le retrouver ici sur Amazon: [Cap sur l'été](https://amzn.to/3JoMTrn).
 
+Vous pouvez aussi explorer d'autres albums sur ce thème dans la rubrique Ressources > Sujets > Eté.
+
+
 
 
