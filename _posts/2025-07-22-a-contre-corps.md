@@ -28,7 +28,7 @@ Mais, Angèle réalise peu à peu que sous cette carapace, Loélie abrite aussi 
 
 Deux adolescentes à contre-courant, deux tempéraments, deux façons différentes de mener une lutte à contre corps pour apprivoiser ces mutations à l'âge des doutes, des complexes et de la résilience".
 
-![Résumé du livre](images/a-contre-corps-cover.jpg)
+![Résumé du livre](images/a-contre-corps-int.jpg)
 *Résumé du livre*
 
 ## Pourquoi j'aime A contre-corps ?
