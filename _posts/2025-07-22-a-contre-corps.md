@@ -33,8 +33,6 @@ Deux adolescentes à contre-courant, deux tempéraments, deux façons différent
 
 ## Pourquoi j'aime A contre-corps ?
 
-- Ce livre aborde avec justesse l’adolescence, cette période où le corps change et où le regard des autres peut être compliquée. On y suit deux adolescentes aux physiques très différents : l’une qualifiée de " mince ", l’autre jugée " obèse ". Au fur et à mesure, leurs différences s’effacent pour laisser place à une amitié naissante. On peut voir derrière les apparences se cache une histoire, parfois douloureuse, souvent invisible. Les personnnages ont évoluer, ils passent du jugement à l’écoute et à la compréhension.
-
 - Ce récit aborde avec beaucoup de justesse l’adolescence, ce moment de vie où le corps change et où le regard des autres peut être complexe. On y suit deux adolescentes aux physiques très différents : l’une qualifiée de "mince", l’autre jugée "obèse". Au fil de l'histoire, leurs différences disparaissent, laissant place à l’écoute, à la compréhension et à une amitié sincère. On comprend alors que derrière chaque apparence se trouve une histoire, parfois douloureuse, souvent invisible.
 
 Il rappelle que l’acceptation de soi passe aussi par le regard bienveillant que l’on choisit de porter sur les autres.
