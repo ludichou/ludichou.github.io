@@ -24,7 +24,7 @@ Date de parution : 4 juin 2025.
 "Pour tous les enfants de 99 ans et moins".
 
 "Quels sont tes rêves ? Et que fais-tu pour les réaliser ?
-Lorsque nous mettons tout en oeuvre pour accomplir un rêve, nous sommes récompensés. Nos rêves sont le reflet de nos talents,de ce que nous portons en nous. Ils créent des occasions, élargissent le champ des possibles et nous révèlent tout notre potentiel. Ils nous poussent à être audacieux, à prendre le risque d’échouer, à dépasser nos limites. Ils nous offrent la possibilité de nous investir dansce en quoi nous croyons, de construire la vie dont nous avons envieet de nous battre pour ce qui nous tient à coeur"
+Lorsque nous mettons tout en oeuvre pour accomplir un rêve, nous sommes récompensés. Nos rêves sont le reflet de nos talents,de ce que nous portons en nous. Ils créent des occasions, élargissent le champ des possibles et nous révèlent tout notre potentiel. Ils nous poussent à être audacieux, à prendre le risque d’échouer, à dépasser nos limites. Ils nous offrent la possibilité de nous investir dans ce en quoi nous croyons, de construire la vie dont nous avons envie et de nous battre pour ce qui nous tient à coeur"
 
 ## Pourquoi on aime Attraper ses rêves: Comment ajouter de l'audace à la vie ?
 
