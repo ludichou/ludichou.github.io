@@ -2,7 +2,7 @@
 layout: post
 title: "Attraper ses rêves: Comment ajouter de l'audace à la vie de Kobi Yamada et Charles Santoso "
 description: "Après avoir découvert le livre S'émerveiller : Comment savourer les petits bonheurs de la vie ? On a découvert ce livre dans la même collection avec de belles valeurs."
-date: 2025-07-22 20:00:00 +0300
+date: 2025-07-24 20:00:00 +0300
 author: Armelle
 image: 'images/attraper-ses-reves-cover.jpg'
 tags: ["Rêves", "Valeurs"]
