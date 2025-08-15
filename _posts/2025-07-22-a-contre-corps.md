@@ -6,7 +6,7 @@ date: 2025-07-22 20:00:00 +0300
 author: Armelle
 image: 'images/a-contre-corps-cover.jpg'
 tags: ["Adolescence"]
-featured: true
+featured: false
 toc: true
 ---
 

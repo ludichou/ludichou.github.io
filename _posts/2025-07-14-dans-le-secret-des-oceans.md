@@ -6,7 +6,7 @@ date: 2025-07-14 20:00:00 +0300
 author: Armelle
 image: 'images/dans-le-secret-des-oceans-cover.jpg'
 tags: ["Océan","Cherche et Trouve"]
-featured: true
+featured: false
 toc: true
 ---
 

@@ -6,7 +6,7 @@ date: 2025-07-09 15:01:35 +0300
 author: Armelle
 image: 'images/ptit-loup-va-sur-le-pot-cover.jpg'
 tags: ["Propreté", "P'tit loup"]
-featured: true
+featured: false
 toc: true
 ---
 {: .q-left }

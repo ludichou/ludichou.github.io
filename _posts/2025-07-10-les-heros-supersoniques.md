@@ -6,7 +6,7 @@ date: 2025-07-10 20:00:00 +0300
 author: Armelle
 image: 'images/les-heros-supersoniques-cover.jpg'
 tags: ["Jeu éducatif", "Prononciation"]
-featured: true
+featured: false
 toc: true
 ---
 

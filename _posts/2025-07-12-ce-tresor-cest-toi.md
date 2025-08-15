@@ -6,7 +6,7 @@ date: 2025-07-12 20:00:00 +0300
 author: Armelle
 image: 'images/ce-tresor-cest-toi-cover.jpg'
 tags: ["Valeurs", "Confiance en soi","Rêves"]
-featured: true
+featured: false
 toc: true
 ---
 

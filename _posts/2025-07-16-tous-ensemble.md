@@ -34,6 +34,8 @@ On y découvre que, ensemble, on est plus forts :"Connais-tu le pouvoir des mots
 
 Ce livre rappelle aux enfants et aux plus grand, que l’on peut se soutenir, se rassurer, avancer ensemble en s'entraidant. Et même quand on est séparés de nos amis, ils restent tout proches, dans nos cœurs et nos pensées.
 
+À noter : il existe aussi, de la même autrice, le livre "Vivons ensemble" publié chez Glénat Jeunesse, qui explore un thème similaire. J'ai fait un article sur ce livre également. Vous pouvez le retrouvez ici [Tous ensemble](https://ludichou.com/vivons-ensemble).
+
 Vous pouvez le retrouver ici sur Amazon: [Tous ensemble](https://amzn.to/4lixAOi).
 
 

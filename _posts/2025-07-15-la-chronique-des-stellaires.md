@@ -6,7 +6,7 @@ date: 2025-07-15 20:00:00 +0300
 author: Armelle
 image: 'images/la-chronique-des-stellaires-cover.jpg'
 tags: ["BD","Young adult","Aventure"]
-featured: true
+featured: false
 toc: true
 ---
 
