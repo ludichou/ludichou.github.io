@@ -38,5 +38,7 @@ Louison est très contente, et a tout préparé pour sa rentrée. Mais au moment
 
 Vous pouvez le retrouver ici sur Amazon: [Le Livre de mes émotions : À l'école](https://amzn.to/3UtoJhX).
 
+Vous pouvez aussi explorer d'autres albums sur ce thème dans la rubrique Ressources > Sujets > Ecole ou >Emotions.
+
 
 
