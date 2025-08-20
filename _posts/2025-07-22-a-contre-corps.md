@@ -1,11 +1,11 @@
 ---
 layout: post
 title: A contre-corps de Louison Nielman
-description: Une lecture touchante qui parle du corps, du regard des autres et de l’acceptation de soi.
+description: Une lecture touchante qui parle de son rapport au corps, du regard des autres et de l’acceptation de soi.
 date: 2025-07-22 20:00:00 +0300
 author: Armelle
 image: 'images/a-contre-corps-cover.jpg'
-tags: ["Adolescence"]
+tags: ["Adolescence","Roman"]
 featured: false
 toc: true
 ---
