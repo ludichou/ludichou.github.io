@@ -14,7 +14,7 @@ toc: true
 
 Langue : Français.  
 Auteur/Illustrations : Léa Hocquet.                  
-Age :  Dès 4 ans.                          
+Age : Dès 4 ans.                          
 
 ## Résumé
 
@@ -22,10 +22,11 @@ Age :  Dès 4 ans.
 
 "De la majesté des pyramides égyptiennes à l'énergie colorée du Brésil, chaque étape est une nouvelle découverte. Un voyage plein de surprises et de sagesse, où chaque rencontre devient une aventure!".
 
+![Résumé](images/aventurio-le-tour-du-monde-int.jpg)
+*Résumé*
+
 ## Pourquoi on aime Aventurio le tour du monde ?
 
-![De belles illustrations](images/aventurio-le-tour-du-monde-int.jpg)
-*De belles illustrations*
 - On suit Aventurio qui fait le tour du monde à travers des destinations emblématiques : Paris, l’Italie, l’Égypte, la Tanzanie, l’Inde, New York, le Brésil…
 - À chaque étape, il fait la rencontre d’un nouvel ami qui devient son guide : Colette la souris à Paris, qui lui fait découvrir la Tour Eiffel, les boulangeries et l’art de savourer les plaisirs simples ; Giulia la chouette à Rome, qui lui raconte les secrets des temples antiques ; Nour le chat en Égypte, qui l’emmène au pied des pyramides ; Rafiki l’éléphant en Tanzanie, qui lui apprend à écouter et observer la nature ; Mei le panda en Chine, qui lui ouvre les portes des temples et de la méditation pour apaiser son esprit ; Arjun le tigre en Inde ; Sam l’aigle à New York, qui lui fait survoler les gratte-ciel ; et enfin Rafael le perroquet au Brésil, qui lui transmet la joie du carnaval.
 
