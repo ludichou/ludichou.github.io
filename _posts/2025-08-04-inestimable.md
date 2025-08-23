@@ -16,13 +16,13 @@ Langue : Français.
 Auteur : Canizales.    
 Editeur : Arlequin.           
 Age : Dès 3 ans                          
-Date de parution :  17 juillet 2025.        
+Date de parution : 17 juillet 2025.        
 
 ## Résumé
 
 "Tout le monde affiche un grand sourire. Sauf Tadeo. Il sent qu'il lui manque quelque chose, mais quoi?"
 
-"Tadeo va découvrie qu'il y a des choses qui sont inestimables".
+"Tadeo va découvrir qu'il y a des choses qui sont inestimables".
 
 ## Pourquoi on aime Inestimable ?
 
