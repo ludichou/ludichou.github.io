@@ -6,7 +6,7 @@ date: 2025-07-21 20:00:00 +0300
 author: Armelle
 image: 'images/semerveiller-cover.jpg'
 tags: ["Bonheurs","Valeurs"]
-featured: true
+featured: false
 toc: true
 ---
 

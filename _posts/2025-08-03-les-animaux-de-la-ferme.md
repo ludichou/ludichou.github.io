@@ -20,7 +20,7 @@ Date de parution : 24 mars 2023.
 
 ## Résumé
 
-"Rejoins les animaux dans la forêt et découvre leur silhouette.
+"Rejoins les animaux dans la forêt et découvrez leur silhouette.
 Avec ses formes en relief, ce joli livre coloré ravira les tout-petits !"
 
 ## Pourquoi j'aime Bébés calins : les animaux de la ferme ?
