@@ -6,7 +6,7 @@ date: 2025-08-02 20:00:00 +0300
 author: Armelle
 image: 'images/aventurio-le-tour-du-monde-cover.jpg'
 tags: ["Amitié","Voyage"]
-featured: true
+featured: false
 toc: true
 ---
 
