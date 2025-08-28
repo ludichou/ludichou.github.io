@@ -34,5 +34,7 @@ Date de parution : 26 août 2022.
 
 Vous pouvez le retrouver ici sur Amazon: [Hibou-chou](https://amzn.to/45wARns).
 
+Vous pouvez aussi explorer d'autres albums sur ce thème dans la rubrique Ressources > Sujets > Ecole.
+
 
 

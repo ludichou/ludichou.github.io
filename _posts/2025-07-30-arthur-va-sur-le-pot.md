@@ -35,5 +35,4 @@ Date de parution : 12 août 2020.
 
 Vous pouvez le retrouver ici sur Amazon: [Arthur va sur le pot ](https://amzn.to/45DPwgK).
 
-
-
+Vous pouvez aussi explorer d'autres albums sur ce thème dans la rubrique Ressources > Sujets > Propreté.

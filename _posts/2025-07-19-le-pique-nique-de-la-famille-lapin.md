@@ -5,7 +5,7 @@ description: Un pique-nique qui prend une tournure inattendue… et se transform
 date: 2025-07-19 20:00:00 +0300
 author: Armelle
 image: 'images/le-pique-nique-de-la-famille-lapin-cover.jpg'
-tags: ["Pique-nique","Aventure","Valeurs"]
+tags: ["Pique-nique","Aventure","Valeurs","Lapin"]
 featured: true
 toc: true
 ---

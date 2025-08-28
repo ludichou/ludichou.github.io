@@ -31,5 +31,6 @@ Date de parution : 2 octobre 2019
 
 Vous pouvez le retrouver ici sur Amazon: [Arthur va à l'école](https://amzn.to/4miHgcR).
 
+Vous pouvez aussi explorer d'autres albums sur ce thème dans la rubrique Ressources > Sujets > Ecole.
 
 
