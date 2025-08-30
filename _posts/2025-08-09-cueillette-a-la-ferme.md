@@ -26,8 +26,8 @@ Date de parution : 2 juillet 2025.
 
 ## Pourquoi on aime Cueillette à la ferme ?
 
-![Des illustrations magnifiques](images/cueillette-a-la-ferme-int.jpg)
-*Des illustrations magnifiques*
+![Des très belles illustrations](images/cueillette-a-la-ferme-int.jpg)
+*De très belles illustrations*
 
 - On suit Dolovan et son papi partis à la ferme pour cueillir ensemble des fruits et légumes de saison.
 - Le livre met en avant le bonheur d'aller dans le jardin : remplir un panier en osier, cueillir prunes, figues, abricots, courgettes, tomates, aubergines, salades ou poivrons, observer les abeilles, apprendre à reconnaître quand les tomates sont mûres et savourer sa récolte.
