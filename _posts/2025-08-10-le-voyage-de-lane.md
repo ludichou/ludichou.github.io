@@ -27,7 +27,7 @@ Date de parution : 4 juin 2025.
 
 ![Des illustrations magnifiques](images/le-voyage-de-lane-int.jpg)
 *Des illustrations magnifiques*
-- Un anne s'ennuie dans la ferme, c'est la même routine chaque jour, il sent qu'il a besoin de faire autre chose pour se sentir heureux mais c'est quoi? Il décide de réparer sa vieille camionette. UN coq intrigué lui demande en échange de lire une carte s'il peut venir avec lui, il accepte. Ensuite c'est le cochon qui demande la même chose en échange d'aider à porter les bagages, le lapin propose de conduire à sa place quand il sera fatigué. une chèvre propose de chanter des chansons le soir. Puis ils partent en voyage avec la camionnette. 
+- Un anne s'ennuie dans la ferme, c'est la même routine chaque jour, il sent qu'il a besoin de faire autre chose pour se sentir heureux mais c'est quoi? Il décide de réparer sa vieille camionnette. UN coq intrigué lui demande en échange de lire une carte s'il peut venir avec lui, il accepte. Ensuite c'est le cochon qui demande la même chose en échange d'aider à porter les bagages, le lapin propose de conduire à sa place quand il sera fatigué. une chèvre propose de chanter des chansons le soir. Puis ils partent en voyage avec la camionnette. 
 - Au fur et à mesure, chacun trouve sa voie la chèvre découvre la montagne,le lapin découvre les bolides et les circuits, le cochon l'art moderne, le coq le flamenco.
 - L'âne est triste que ses amis soient partis et où va t-il aller? Va-t-il faire de nouvelles rencontres? Et trouver ce qui lui plaît? 
 

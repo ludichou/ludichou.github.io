@@ -15,7 +15,7 @@ toc: true
 Langue : Français.  
 Auteur : Émilie Michaud.   
 Illustrations : Émilie Michaud et Zemanel.                   
-Editeur : Flamarion jeunesse.              
+Editeur : Flammarion jeunesse.              
 Age : Dès 3 ans.                              
 Date de parution : 5 juin 2024.        
 
@@ -30,7 +30,7 @@ Date de parution : 5 juin 2024.
 ![Des illustrations magnifiques](images/lete-aux-milles-et-une-etoiles-int.jpg)
 *Des illustrations magnifiques*
 
-- À la maison, nous adore les histoires avec des ours. Ici, on retrouve quatre oursons :Framboise, Cassis, Myrtille et Groseille qui préparent tout le nécessaire pour partir à l’aventure : dormir dehors et observer les étoiles. C’est la première fois qu’ils passent une nuit seuls, livrés à eux-mêmes.
+- À la maison, nous adorons les histoires avec des ours. Ici, on retrouve quatre oursons    :Framboise, Cassis, Myrtille et Groseille qui préparent tout le nécessaire pour partir à l’aventure : dormir dehors et observer les étoiles. C’est la première fois qu’ils passent une nuit seuls, livrés à eux-mêmes.
 - Ils partagent un repas avec des fruits, croisent un blaireau qui les avertit qu’ils ne verront sans doute pas leurs étoiles et qu’il vaut mieux se mettre à l’abri. Un hibou leur donne le même conseil en voyant le ciel se couvrir. Chacun rentre alors dans son refuge : terrier, creux de l'arbre...
 - Mais les oursons, curieux, décident de continuer leur chemin, guidés par des lucioles. Ils rencontrent une chauve-souris qui leur propose de se réfugier dans sa grotte. L’orage éclate, certains comptent les étoiles, d’autres finissent par s’endormir...
 
