@@ -20,7 +20,7 @@ Date de parution : 28 février 2025.
 
 ## Résumé
 
-"Le jour où Lily découvre qu'elle a des ailes, un monde nouveau s'ouvre à elle. La petite cétoine timide et solitaire se laisser entraîner dans un voyage plein de périphérties et de rencontres qi-ui l'emmènera bien plus loin que ce qu'elle avait espéré!".
+"Le jour où Lily découvre qu'elle a des ailes, un monde nouveau s'ouvre à elle. La petite cétoine timide et solitaire se laisse entraîner dans un voyage plein de péripéties et de rencontres qui l'emmènera bien plus loin que ce qu'elle avait espéré!".
 
 ## Pourquoi on aime L'odyssée de Lily ?
 
