@@ -23,14 +23,14 @@ Date de parution : 6 novembre 2024.
 
 "Une minute, une semaine, un an, cent ans..."
 
-" Découvre combien de temps il faut pour que : la lumière du Soleil atteigne la Terre, le chameau traverse le désert, la Lune réalise un cycle complet, le pommier produise des fruits, le corail s'épanouisse dans l'océan... Observe les merveilles de la nature et découvre à quel rtyhme elles se réalisent".
+" Découvre combien de temps il faut pour que : la lumière du Soleil atteigne la Terre, le chameau traverse le désert, la Lune réalise un cycle complet, le pommier produise des fruits, le corail s'épanouisse dans l'océan... Observe les merveilles de la nature et découvre à quel rythme elles se réalisent".
 
-## Pourquoi on aime aime Combien de temps ?
+## Pourquoi on aime Combien de temps ?
 
 ![Des illustrations magnifiques](images/combien-de-temps-int.jpg)
 *Des illustrations magnifiques*
 - On découvre des sujets variés : en une minute, notre cœur bat entre 60 et 100 fois, et en un jour, une libellule se prépare à prendre son envol.
-- On a des explications laires et accessibles.
+- On a des explications claires et accessibles.
 - Mon fils a adoré décrire les illustrations, et posé beaucoup de questions.
 - Mon fils est fasciné par la notion du temps, et ce livre a su répondre à sa curiosité.
 
