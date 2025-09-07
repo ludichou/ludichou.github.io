@@ -36,7 +36,7 @@ Date de parution : 6 novembre 2024.
 
 Vous pouvez le retrouver ici sur Amazon: [Combien de temps ?](https://amzn.to/3VmzX8x).
 
-Si vous voulez la collection sur la nature, vous pouvez regarder [Les secrets de la nature](https://ludichou.com/les-secrets-de-la-nature).
+Si ce livre vous intéresse, vous pouvez regarde dans la même collection [Les secrets de la nature](https://ludichou.com/les-secrets-de-la-nature).
 
 
 
