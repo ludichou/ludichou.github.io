@@ -6,7 +6,7 @@ date: 2025-08-10 20:00:00 +0300
 author: Armelle
 image: 'images/le-voyage-de-lane-cover.jpg'
 tags: ["Voyage","Amitiés"]
-featured: true
+featured: false
 toc: true
 ---
 

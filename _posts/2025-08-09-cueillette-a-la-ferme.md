@@ -6,7 +6,7 @@ date: 2025-08-09 20:00:00 +0300
 author: Armelle
 image: 'images/cueillette-a-la-ferme-cover.jpg'
 tags: ["Jardin","Ferme"]
-featured: true
+featured: false
 toc: true
 ---
 

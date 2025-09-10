@@ -6,7 +6,7 @@ date: 2025-08-05 20:00:00 +0300
 author: Armelle
 image: 'images/qui-a-mange-mon-gateau-cover.jpg'
 tags: ["Humour","Anniversaire"]
-featured: true
+featured: false
 toc: true
 ---
 

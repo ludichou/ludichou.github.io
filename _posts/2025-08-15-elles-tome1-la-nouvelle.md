@@ -6,7 +6,7 @@ date: 2025-08-15 20:00:00 +0300
 author: Armelle
 image: 'images/elles-tome-1-la-nouvelle-cover.jpg'
 tags: ["BD","Trouble bipolaire"]
-featured: true
+featured: false
 toc: true
 ---
 

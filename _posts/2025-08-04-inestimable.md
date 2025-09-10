@@ -6,7 +6,7 @@ date: 2025-08-07 20:00:00 +0300
 author: Armelle
 image: 'images/inestimable-cover.jpg'
 tags: ["Amitié","Valeurs"]
-featured: true
+featured: false
 toc: true
 ---
 
