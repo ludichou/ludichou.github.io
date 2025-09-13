@@ -21,15 +21,14 @@ Date de parution : 12 septembre 2024.
 
 ## Résumé
 
-"Noah  est très inquite. son ami l'arbre perd ses feuilles! Le petit renard fait tout son possible pour lui venir en aide, en vain. Lorsque la dernière feuille s’envole, Noah est très attristé. Mais le lendemain, une merveilleuse surprise l’attend : son arbre s’est paré d’une magnifique couverture verglacée."
+"Noah  est très inquiète. son ami l'arbre perd ses feuilles! Le petit renard fait tout son possible pour lui venir en aide, en vain. Lorsque la dernière feuille s’envole, Noah est très attristé. Mais le lendemain, une merveilleuse surprise l’attend : son arbre s’est paré d’une magnifique couverture verglacée."
 
 ## Pourquoi on aime Noah et les feuilles d'automne ?
 
 ![Des illustrations magnifiques](images/noah-et-les-feuilles-de-lautome-int.jpg)
 *Des illustrations magnifiques*
-- Noah s’inquiète pour son arbre qu’il croit malade : ses feuilles foncent, tombent au fur et à mesure, et malgré toutes ses tentatives pour les remettre, elles s’envolent à chaque fois. Quand toutes les feuilles finissent par tomber, Noah imagine des voleurs : le vent, mais aussi l’écureuil qui en a besoin pour son nid. Cela nous rappelle le livre Le voleur de feuilles.
-- C’est ensuite au tour d’un hérisson de passer, emportant lui aussi quelques feuilles pour se tenir au chaud. Noah grimpe à l’arbre pour protéger la toute dernière feuille, mais le vent finit par l’arracher... et elle reste dans sa main.
-
-L’automne avance, le temps se transforme : humidité, froid, givre... Noah comprend alors que ses amis les animaux ont pris les feuilles pour se préparer à l’hiver.
+- Noah s’inquiète pour son arbre qu’il croit malade : ses feuilles foncent, tombent peu à peu, et malgré toutes ses tentatives pour les remettre, elles s’envolent à chaque fois. Quand toutes les feuilles finissent par tomber, Noah imagine des voleurs : le vent, mais aussi l’écureuil qui en a besoin pour son nid. Cette idée rappelle d’ailleurs le livre Le voleur de feuilles.
+- Puis, c’est au tour d’un hérisson de passer, emportant lui aussi quelques feuilles pour se tenir bien au chaud. Noah grimpe alors à l’arbre pour protéger la toute dernière feuille, mais le vent finit par l’arracher… et elle reste dans sa main.
+- L’automne avance, le temps change : humidité, froid, givre… Noah comprend alors que ses amis les animaux ont pris les feuilles pour se préparer à l’hiver
 
 Vous pouvez le retrouver ici sur Amazon: [Noah et les feuilles d'automne](https://amzn.to/4n0Deq9).
