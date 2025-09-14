@@ -6,7 +6,7 @@ date: 2025-08-20 20:00:00 +0300
 author: Armelle
 image: 'images/les-rubans-de-lamour-cover.jpg'
 tags: ["Ecole","Amour","Séparation"]
-featured: true
+featured: false
 toc: true
 ---
 

@@ -6,7 +6,7 @@ date: 2025-07-25 20:00:00 +0300
 author: Armelle
 image: 'images/le-livre-de-mes-emotions-a-lecole-cover.jpg'
 tags: ["Ecole","Emotions"]
-featured: true
+featured: false
 toc: true
 ---
 

@@ -6,7 +6,7 @@ date: 2025-07-28 20:00:00 +0300
 author: Armelle
 image: 'images/nina-et-le-petit-ours-a-lecole-cover.jpg'
 tags: ["Ecole","Ours","Amitié"]
-featured: true
+featured: false
 toc: true
 ---
 

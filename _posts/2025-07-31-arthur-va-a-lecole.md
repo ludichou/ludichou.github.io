@@ -6,7 +6,7 @@ date: 2025-07-31 20:00:00 +0300
 author: Armelle
 image: 'images/arthur-va-a-lecole-cover.jpg'
 tags: ["Ecole"]
-featured: true
+featured: false
 toc: true
 ---
 

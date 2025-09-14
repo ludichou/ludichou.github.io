@@ -6,7 +6,7 @@ date: 2025-08-12 20:00:00 +0300
 author: Armelle
 image: 'images/lete-aux-milles-et-une-etoile-cover.jpg'
 tags: ["Eté","Aventure"]
-featured: true
+featured: false
 toc: true
 ---
 

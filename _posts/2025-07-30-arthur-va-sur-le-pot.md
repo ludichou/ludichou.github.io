@@ -6,7 +6,7 @@ date: 2025-07-30 20:00:00 +0300
 author: Armelle
 image: 'images/arthur-va-sur-le-pot-cover.jpg'
 tags: ["Propreté"]
-featured: true
+featured: false
 toc: true
 ---
 

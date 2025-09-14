@@ -6,7 +6,7 @@ date: 2025-07-29 20:00:00 +0300
 author: Armelle
 image: 'images/le-canari-qui-faisait-pipi-au-nid-cover.jpg'
 tags: ["Propreté","Humour"]
-featured: true
+featured: false
 toc: true
 ---
 
