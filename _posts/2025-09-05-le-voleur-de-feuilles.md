@@ -1,9 +1,7 @@
-
-
 ---
 layout: post
 title: Le voleur de feuilles de Alice Hemming et Nicola Slater.
-description: Une histoire pleine d’humour et de rebondissements pour découvrir l’automne autrement
+description: Une histoire pleine d’humour et de rebondissements pour découvrir l’automne autrement.
 date: 2025-09-02 20:00:00 +0300
 author: Armelle
 image: 'images/le-voleur-de-feuilles-cover.jpg'

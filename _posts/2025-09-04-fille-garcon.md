@@ -1,5 +1,3 @@
-
-
 ---
 layout: post
 title: Fille, Garçon de Hélène Druvert 
