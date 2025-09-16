@@ -21,7 +21,7 @@ Date de parution : 7 septembre 2022.
 
 ## Résumé
 
-"Rouge, orange, doré... Rouge, orange, doré... Rouge, orange, do... MAIS, MAIS, MAIS ? ÇA NE VA PAS DU TOUT ! OISEAU, ON M'A VOLÉ UNE FEUILLE ! ! !" Une histoire pleine d'humour aux couleurs de l'automne pour comprendre les changements de saison."
+"Rouge, orange, doré... Rouge, orange, doré... Rouge, orange, doré... MAIS, MAIS, MAIS ? ÇA NE VA PAS DU TOUT ! OISEAU, ON M'A VOLÉ UNE FEUILLE ! ! !" Une histoire pleine d'humour aux couleurs de l'automne pour comprendre les changements de saison."
 
 ## Pourquoi on aime Le voleur de feuilles ?
 
