@@ -22,7 +22,7 @@ Date de parution : 03/09/2025.
 
 ## Résumé
 
-" C'est l'été. Cassiopée a le coeur lours : elle est partie en vacances en laissant derrière elle le garçon dont elle est amoureuse. Et inutile de confier sa tristesse à ses soeurs : elles ne comprennent pas. Cependant, à leur arrivée chez leur grand-mère, un autre prétendant attend Cassiopée. Il apprend aux soeurs Grémillet qu'un fantôme sonne les cloches de l'ancienne église pendant la nuit"
+" C'est l'été. Cassiopée a le coeur lourd : elle est partie en vacances en laissant derrière elle le garçon dont elle est amoureuse. Et inutile de confier sa tristesse à ses soeurs : elles ne comprennent pas. Cependant, à leur arrivée chez leur grand-mère, un autre prétendant attend Cassiopée. Il apprend aux soeurs Grémillet qu'un fantôme sonne les cloches de l'ancienne église pendant la nuit"
 
 ## Pourquoi j'aime Les soeurs Grémillet : tome 2 : Les amours de Cassiopée ?
 
