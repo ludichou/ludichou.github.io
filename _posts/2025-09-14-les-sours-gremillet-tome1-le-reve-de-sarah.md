@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Les soeurs Grémillet : Tome 1 : Le rêve de Sarah "
-description: J’ai eu la chance de découvrir cette BD grâce à un service presse des éditions Rageot Jeunesse… et ce fut une très belle découverte.
+description: J’ai eu la chance de découvrir qui m’a permis de découvrir la version romancée de la BD grâce à un service presse des éditions Rageot Jeunesse… et ce fut une très belle découverte.
 date: 2025-09-14 20:00:00 +0300
 author: Armelle
 image: 'images/les-soeurs-gremillet-tome-1-le-reve-de-sarah-cover.jpg'
-tags: ["BD","Aventure"]
+tags: ["Roman","Aventure"]
 featured: true
 toc: true
 ---
@@ -32,7 +32,7 @@ Date de parution : 03/09/2025.
 - Cette BD met en lumière la complicité ou les siputes entre soeurs, les secrets de famille et les questionnements propres à l’enfance et à l’adolescence, comme le besoin de mieux comprendre ses origines.
 - La présence de la méduse m’a tout de suite intriguée, et quand son sens est enfin révélé, c’est très touchant : on comprend alors le secret de Magda, la mère.
 
-J’ai eu un véritable coup de cœur pour cette BD : l’histoire est passionnante, les illustrations magnifiques et elles donnent envie de se lancer à l’aventure et de découvrir quel est ce secret.
+J’ai eu un véritable coup de cœur pour cette série : l’histoire est passionnante, les illustrations magnifiques et elles donnent envie de se lancer à l’aventure et de découvrir quel est ce secret.
 
 Merci aux éditions Rageot jeunesse pour ce service presse.
 

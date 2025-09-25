@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Les soeurs Grémillet : Tome 2 : Les amours de Cassiopée "
-description: Merci aux éditions Rageot Jeunesse pour ce service presse qui m’a permis de découvrir cette BD. Un vrai coup de cœur, et maintenant j’ai hâte de lire la suite !
+description: Merci aux éditions Rageot Jeunesse pour ce service presse qui m’a permis de découvrir la version romancée de la BD. Un vrai coup de cœur, et maintenant j’ai hâte de lire la suite !
 date: 2025-09-17 20:00:00 +0300
 author: Armelle
 image: 'images/les-soeurs-gremillet-tome2-les-amours-de-cassiopee-cover.jpg'
-tags: ["BD","Aventure"]
+tags: ["Roman","Aventure"]
 featured: true
 toc: true
 ---
