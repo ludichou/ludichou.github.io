@@ -6,7 +6,7 @@ date: 2025-09-02 20:00:00 +0300
 author: Armelle
 image: 'images/loup-gris-et-louvette-cover.jpg'
 tags: ["Aventure","Humour"]
-featured: true
+featured: false
 toc: true
 ---
 

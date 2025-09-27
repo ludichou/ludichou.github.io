@@ -6,7 +6,7 @@ date: 2025-08-25 21:00:00 +0300
 author: Armelle
 image: 'images/operation-espionnage-cover.jpg'
 tags: ["Jeux de société"]
-featured: true
+featured: false
 toc: true
 ---
 

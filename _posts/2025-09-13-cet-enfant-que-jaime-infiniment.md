@@ -6,7 +6,7 @@ date: 2025-09-13 20:00:00 +0300
 author: Armelle
 image: 'images/cet-enfant-que-jaime-inifiniment-cover.jpg'
 tags: ["Amour"]
-featured: true
+featured: false
 toc: true
 ---
 

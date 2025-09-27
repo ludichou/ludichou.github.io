@@ -6,7 +6,7 @@ date: 2025-09-09 20:00:00 +0300
 author: Armelle
 image: 'images/ce-papa-qui-taime-infiniment-cover.jpg'
 tags: ["Amour"]
-featured: true
+featured: false
 toc: true
 ---
 

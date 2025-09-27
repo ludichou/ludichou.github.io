@@ -6,7 +6,7 @@ date: 2025-09-12 20:00:00 +0300
 author: Armelle
 image: 'images/un-petit-bout-de-rien-du-tout-cover.jpg'
 tags: ["Humour","Amitié"]
-featured: true
+featured: false
 toc: true
 ---
 

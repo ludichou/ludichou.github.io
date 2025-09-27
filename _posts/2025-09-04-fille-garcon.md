@@ -6,7 +6,7 @@ date: 2025-09-04 20:00:00 +0300
 author: Armelle
 image: 'images/fille-garcon-cover.jpg'
 tags: ["Stéréotype","Egalité"]
-featured: true
+featured: false
 toc: true
 ---
 

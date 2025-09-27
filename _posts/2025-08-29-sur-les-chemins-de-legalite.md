@@ -6,7 +6,7 @@ date: 2025-08-29 20:00:00 +0300
 author: Armelle
 image: 'images/sur-les-chemins-de-legalite-cover.jpg'
 tags: ["Stéréotypes","Egalité"]
-featured: true
+featured: false
 toc: true
 ---
 
