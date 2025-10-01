@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Danser dans les feuilles de Camille Osscini et Julien Arnal.
-description: 
+description: On a trouvé ce livre très poétique sur l'automne et nous pensons aux balades que l'on va faire en forêt ou encore faire un herbier, partager un goûter tous ensemble. 
 date: 2025-08-28 20:00:00 +0300
 author: Armelle
 image: 'images/danser-dans-les-feuilles-cover.jpg'
@@ -12,11 +12,11 @@ toc: true
 
 {: .q-left }
 
-Langue : Français.      
-Auteur : Camille Osscini.      
-Illustrations : Julien Arnal.                       
-Editeur : Glénat Jeunesse.                  
-Age : Dès 3 ans.                             
+Langue : Français.        
+Auteur : Camille Osscini.        
+Illustrations : Julien Arnal.                        
+Editeur : Glénat Jeunesse.                    
+Age : Dès 3 ans.                               
 Date de parution : 3 septembre 2025.        
 
 ## Résumé

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Holly Molly tome 1 de Antoine Piers et Sway
-description: J’ai adoré découvrir ce premier tome plein d’humour, de mystères et d’aventures aux côtés d’Holly et Molly."
+description: J’ai adoré découvrir ce premier tome plein d’humour, de mystères et d’aventures aux côtés d’Holly et Molly.
 date: 2025-09-24 20:00:00 +0300
 author: Armelle
 image: 'images/holly-molly-tome1-cover.jpg'
@@ -12,16 +12,16 @@ toc: true
 
 {: .q-left }
 
-Langue : Français. 
-Auteur : Antoine Piers.  
-Illustrations : Sway.                    
-Editeur : Dupuis.              
+Langue : Français.   
+Auteur : Antoine Piers.    
+Illustrations : Sway.                      
+Editeur : Dupuis.                
 Age : A partir de 6 ans.                            
 Date de parution : 04/04/2025.        
 
 ## Résumé
 
-" Holly et Molly, deux jeunes soeurs aux tempéraments très différents, vivent dans un monde magique, mais fort heureusement loin des mages et des terrifiantes conséquences qu'une rencontre avec l'un d'eux pourrait occasioner. Du moins, c'est ce qu'elles croyaient, ayant qu'un tarot encorcelé, des mercenaires maladroits et un mage changeur de forme ne leur tombent dessus! Finie la vie tranquille, il leur faudra s'aventurer dans le vaste monde et apprivoiser leurs pouvoirs pour s'en sortir et vaincre la terrible menace qui convoite leurs dons".
+" Holly et Molly, deux jeunes soeurs aux tempéraments très différents, vivent dans un monde magique, mais fort heureusement loin des mages et des terrifiantes conséquences qu'une rencontre avec l'un d'eux pourrait occasionner. Du moins, c'est ce qu'elles croyaient, ayant qu'un tarot encorcelé, des mercenaires maladroits et un mage changeur de forme ne leur tombent dessus! Finie la vie tranquille, il leur faudra s'aventurer dans le vaste monde et apprivoiser leurs pouvoirs pour s'en sortir et vaincre la terrible menace qui convoite leurs dons".
 
 ## Pourquoi j'aime Holly Molly tome 1 ?
 
