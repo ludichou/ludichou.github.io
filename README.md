@@ -1,12 +1,16 @@
 # Local development
+Just run
+```
+docker-compose up
+```
+
 Build an image from the Dockerfile
 ```
 docker build -t my-ruby-env .
 ```
 
 ```
-docker compose up -d
-docker exec -it local_jekyll /bin/bash
+docker exec local_jekyll bash -c "bundle exec jekyll serve"
 ```
 
 Then in the container run:

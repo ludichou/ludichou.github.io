@@ -12,11 +12,11 @@ toc: true
 
 {: .q-left }
 
-Langue : Français.
-Auteur : Julie Jaumot. 
-Illustrations :  Windy.                  
-Editeur : Allée des loupiotes            
-Age : Dès 4 ans.                          
+Langue : Français.<br>
+Auteur : Julie Jaumot.<br>
+Illustrations :  Windy.<br>
+Editeur : Allée des loupiotes<br>
+Age : Dès 4 ans.<br>
 Date de parution : 7 octobre 2025.       
 
 ## Résumé

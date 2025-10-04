@@ -34,7 +34,7 @@ Mais bon, que pourrait-il bien arriver de grave ?"
 
 ## Pourquoi j'aime Le Chat de la Sorcière et la Cuisine Catastrophique ?
 
-![Des illustrations très drôles](images/le-chat-de-la-sorcière-et-la-cuisine-catastrophique-int.jpg)
+![Des illustrations très drôles](images/le-chat-de-la-sorciere-et-la-cuisine-catastrophique-int.jpg)
 *Des illustrations très drôles*
 - Des recettes surprenantes comme du ragoût fabrique-sorcière, une soupe d'annulation, bouillon de la sorcière.
 - Le chat veut faire plaisir à la sorcière en lui préparant un bon repas. Persuadé de bien faire, il suit une recette… puis ajoute sa touche personnelle avec un peu d’assaisonnement. Mais catastrophe : la sorcière se transforme en grenouille ! Il réalise alors qu’il ne s’agissait pas d’un livre de cuisine… mais d’un grimoire de sortilèges. Il tente plusieurs autres recettes : la sorcière devient tour à tour chien, puis retrouve enfin son apparence… sauf qu’elle ne peut plus parler, seulement faire des bruits d’animaux !
