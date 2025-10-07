@@ -1,5 +1,10 @@
 # Local development
-Just run
+Using GitHub Codespace:
+```
+bundle exec jekyll serve --watch --limit_posts 5
+```
+
+Locallt with Docker, just run
 ```
 docker-compose up
 ```

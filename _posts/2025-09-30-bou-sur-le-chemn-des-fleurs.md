@@ -5,7 +5,7 @@ description: J’ai voulu lire cet album avec mon fils, car il aborde la mort et
 date: 2025-09-30 20:00:00 +0300
 author: Armelle
 image: 'images/bou-sur-le-chemin-des-fleurs-cover.jpg'
-tags: ["Magie","Sorcières","Grand-mère","Deuil"]
+tags: ["Magie","Sorcière","Grand-mère","Deuil"]
 featured: true
 toc: true
 ---
