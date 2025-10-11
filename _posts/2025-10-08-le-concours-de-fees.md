@@ -29,7 +29,7 @@ Date de parution : 3 octobre 2025.
 - Dès les premières pages, on suit le voyage d’un escargot qui organise un grand concours de fées.Pour les rencontrer toutes, il se déplace sur le dos d’un chat, d’un écureuil et d’autres animaux étonnants : un défilé étonnant !
 - Au fil de son aventure, on découvre différentes fées : la fée de la rosée, la fée des flocons, la fée des bourgeons, les fées de l’écume, les fées estivales, les fées aux feuilles rouges ou encore les fées de la nuit.
 - Chaque rencontre est l’occasion d’en apprendre un peu plus sur la nature :
-1. Pourquoi les fleurs sentent si bon?
+1. Pourquoi les fleurs sentent si bonnes?
 2. Comment se forment les flocons de neige?
 3. Pourquoi les feuilles changent de couleur?
 4. Comment les graines de pissenlit s’envolent?
