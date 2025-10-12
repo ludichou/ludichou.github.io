@@ -5,7 +5,7 @@ description: Une belle leçon de patience et d’amitié, qui rappelle qu’êtr
 date: 2025-10-10 20:00:00 +0300
 author: Armelle
 image: 'images/jai-un-cadeau-pour-toi-cover.jpg'
-tags: ["Anniversaire"]
+tags: ["Anniversaire","Amitié"]
 featured: true
 toc: true
 ---
