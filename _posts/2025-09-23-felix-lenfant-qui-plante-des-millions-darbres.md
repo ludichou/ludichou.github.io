@@ -6,7 +6,7 @@ date: 2025-09-23 20:00:00 +0300
 author: Armelle
 image: 'images/felix-lenfant-qui-plante-des-millions-darbres-cover.jpg'
 tags: ["Ecole","Ecologie","Valeurs"]
-featured: true
+featured: false
 toc: true
 ---
 

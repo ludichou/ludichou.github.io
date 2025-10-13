@@ -6,7 +6,7 @@ date: 2025-09-24 20:00:00 +0300
 author: Armelle
 image: 'images/holly-molly-tome1-cover.jpg'
 tags: ["BD", "Magie"]
-featured: true
+featured: false
 toc: true
 ---
 

@@ -6,7 +6,7 @@ date: 2025-09-21 20:00:00 +0300
 author: Armelle
 image: 'images/lourse-qui-voulait-danser-cover.jpg'
 tags: ["Ours","Différence","Stéréotype"]
-featured: true
+featured: false
 toc: true
 ---
 

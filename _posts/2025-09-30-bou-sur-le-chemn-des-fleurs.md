@@ -6,7 +6,7 @@ date: 2025-09-30 20:00:00 +0300
 author: Armelle
 image: 'images/bou-sur-le-chemin-des-fleurs-cover.jpg'
 tags: ["Magie","Sorcière","Grand-mère","Deuil"]
-featured: true
+featured: false
 toc: true
 ---
 

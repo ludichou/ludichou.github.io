@@ -30,6 +30,7 @@ Date de parution : 2 avril 2025.
 Curieuse, Suzy ne peut s’empêcher de se poser pleins de questions : qu’est ce que c'est ?
 Elle le lance, le secoue, marche dessus, le renifle, le lèche même...tout tenter de deviner son contenu ! Mais parviendra-t-elle à résister à la tentation jusqu’à la fête ? Et surtout, réussira-t-elle à ramener le cadeau sans qu’Auguste découvre le secret ?
 - À travers cette histoire, Suzy découvre que le plus beau cadeau, c’est l’attention et le partage avec ses ami(e)s.
+- Mon fils s’amuse toujours à deviner son cadeau, mais il préfère patienter pour l’ouvrir tous ensemble.
 
 
 

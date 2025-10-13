@@ -5,8 +5,8 @@ description: Comme beaucoup d’enfants, Louise a peur des monstres la nuit. Mai
 date: 2025-10-06 20:00:00 +0300
 author: Armelle
 image: 'images/louise-et-les-monstres-du-soir-cover.jpg'
-tags: ["Halloween","Sommeil","Monstres","Cauchemar"]
-featured: true
+tags: ["Sommeil","Monstres","Cauchemar"]
+featured: false
 toc: true
 ---
 

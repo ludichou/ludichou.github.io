@@ -6,7 +6,7 @@ date: 2025-09-20 20:00:00 +0300
 author: Armelle
 image: 'images/une-histoire-pour-petite-ourse-cover.jpg'
 tags: ["Ours","Hiver"]
-featured: true
+featured: false
 toc: true
 ---
 
