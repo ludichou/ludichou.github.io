@@ -6,7 +6,7 @@ date: 2025-10-10 20:00:00 +0300
 author: Armelle
 image: 'images/jai-un-cadeau-pour-toi-cover.jpg'
 tags: ["Anniversaire","Amitié"]
-featured: true
+featured: false
 toc: true
 ---
 
