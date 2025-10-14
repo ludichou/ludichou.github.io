@@ -23,12 +23,12 @@ Date de parution : 5 septembre 2024.
 
 "Les premiers signes d'automne apparaissent dans la forêt. Et pour célébrer cette nouvelle saison, rien de tel qu'un joli concert entre amis !".
 
-"Une histoire tendre d'amitié et de partage, à lire en famille en admirant les magnifiques illustrations qui scientillantes".
+"Une histoire tendre d'amitié et de partage, à lire en famille en admirant les magnifiques illustrations qui scintillantes".
 
 ## Pourquoi on aime Le concert de l'automne ?
 
-![Des illustrations magnifiques et qui scientillent](images/le-concert-dautomne-int.jpg)
+![Des illustrations magnifiques et qui scintillent](images/le-concert-dautomne-int.jpg)
 *Des illustrations magnifiques qui scientillent*
-- Les personnages sont qattachants : Grigris la souris, Frous l’écureuil, Léone l’oursonne, Ursule l’hérissonne et Mariole le rossignol.En admirant les feuilles tomber, ils décident d’en profiter pour créer une magnifique robe d’automne, puis d’organiser un grand concert en forêt !
+- Les personnages sont attachants : Grigris la souris, Frous l’écureuil, Léone l’oursonne, Ursule l’hérissonne et Mariole le rossignol.En admirant les feuilles tomber, ils décident d’en profiter pour créer une magnifique robe d’automne, puis d’organiser un grand concert en forêt !
 - Léone tente de chanter en s’aidant d’une pomme de pin comme micro, mais sa voix un peu fausse amuse toute la bande. Alors, chacun se met à inventer son propre instrument : une trompette en courgette, un harmonica avec des bouts de bois, un xylophone de verres, des maracas et castagnettes en noisettes !
 - Ensemble, ils font preuve de créativité et d’imagination. Mais parviendront-ils à jouer tous ensemble, ou chacun fera-t-il son concert à sa manière ?

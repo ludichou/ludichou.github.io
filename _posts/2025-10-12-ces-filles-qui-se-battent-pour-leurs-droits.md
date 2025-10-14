@@ -6,7 +6,7 @@ date: 2025-10-12 20:00:00 +0300
 author: Armelle
 image: 'images/ces-filles-qui-se-battent-pour-leurs-droits-cover.jpg'
 tags: ["Droits","Egalité"]
-featured: true
+featured: false
 toc: true
 ---
 

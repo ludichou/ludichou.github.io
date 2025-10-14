@@ -6,7 +6,7 @@ date: 2025-10-10 20:00:00 +0300
 author: Armelle
 image: 'images/je-naime-pas-les-surprises-cover.jpg'
 tags: ["Amitié","Emotions","Différence"]
-featured: true
+featured: false
 toc: true
 ---
 
