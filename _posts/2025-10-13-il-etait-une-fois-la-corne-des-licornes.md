@@ -6,16 +6,16 @@ date: 2025-10-13 20:00:00 +0300
 author: Armelle
 image: 'images/il-etait-une-fois-la-corne-des-licornes-cover.jpg'
 tags: ["Magie","Amitié","Confiance en soi"]
-featured: true
+featured: false
 toc: true
 ---
 
 {: .q-left }
 
-Langue : Français.  
-Auteur/Illustrations : Blue Beatrice.                      
-Editeur : Little Urban.               
-Age : Dès 3 ans.                           
+Langue : Français.    
+Auteur/Illustrations : Blue Beatrice.                        
+Editeur : Little Urban.                 
+Age : Dès 3 ans.                             
 Date de parution : 25 octobre 2019.        
 
 ## Résumé
