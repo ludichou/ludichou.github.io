@@ -20,7 +20,7 @@ Date de parution : 3 septembre 2025.
 
 ## Résumé
 
-" Comme tous les jeunes sorcières de treize ans, Kiki doit quitter ses parents pour aller vivre une année dans une ville inconnue. Selon la tradition, elle s'envole donc  avec son fidèle compagnon, le chat Jiji;  "En route pour l'oc"an!" décide t-elle. Elle choisit sa ville d'adoption... mais ne reçoit pas l'accueil qu'elle souhaitait. Pleine de bonne volonté, gaie, sociable, le coeur léger et rempli d'espoir, Kiki s'apercevra vite qie son inititiation sera plus dure que prévu".
+" Comme tous les jeunes sorcières de treize ans, Kiki doit quitter ses parents pour aller vivre une année dans une ville inconnue. Selon la tradition, elle s'envole donc  avec son fidèle compagnon, le chat Jiji;  "En route pour l'oc"an!" décide t-elle. Elle choisit sa ville d'adoption... mais ne reçoit pas l'accueil qu'elle souhaitait. Pleine de bonne volonté, gaie, sociable, le coeur léger et rempli d'espoir, Kiki s'apercevra vite que son initiation sera plus dure que prévu".
 
 ## Pourquoi on aime Kiki la petite sorcière ?
 
