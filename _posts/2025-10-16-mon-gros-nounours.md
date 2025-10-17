@@ -6,7 +6,7 @@ date: 2025-10-16 10:00:00 +0300
 author: Armelle
 image: 'images/mon-gros-doudou-avec-hochet-cover.jpg'
 tags: ["Eveil","Ours"]
-featured: true
+featured: false
 toc: true
 ---
 
