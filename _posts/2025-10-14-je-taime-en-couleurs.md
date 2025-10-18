@@ -6,7 +6,7 @@ date: 2025-10-14 20:00:00 +0300
 author: Armelle
 image: 'images/je-taime-en-couleurs-cover.jpg'
 tags: ["Amour","Valeurs"]
-featured: true
+featured: false
 toc: true
 ---
 
