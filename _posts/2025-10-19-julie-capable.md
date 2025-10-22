@@ -6,7 +6,7 @@ date: 2025-10-19 20:00:00 +0300
 author: Armelle
 image: 'images/julie-capable-cover.jpg'
 tags: ["Deuil","Confiance en soi"]
-featured: true
+featured: false
 toc: true
 ---
 
