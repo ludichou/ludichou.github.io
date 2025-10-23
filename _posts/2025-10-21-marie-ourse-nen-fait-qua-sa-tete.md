@@ -6,7 +6,7 @@ date: 2025-10-21 20:00:00 +0300
 author: Armelle
 image: 'images/marie-ourse-nen-fait-qua-sa-tete-cover.jpg'
 tags: ["Emotions"]
-featured: true
+featured: false
 toc: true
 ---
 
