@@ -6,7 +6,7 @@ date: 2025-10-21 20:00:00 +0300
 author: Armelle
 image: 'images/alerte-au-loup-cover.jpg'
 tags: ["Conte","Loup","Stéréotype"]
-featured: true
+featured: false
 toc: true
 ---
 
