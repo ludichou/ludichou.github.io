@@ -20,7 +20,7 @@ Date de parution : 6 mai 2022
 
 ## Résumé
 
-" Cher jury, la finale du concours de cabanes arrive à grandes pattes. C'est un très beau voyage qui nous attend au coeur des arbres les plus fascinants. allons voir ce uqe nous ont concocté les enfants du monde entier? Alors, quelle sera votre cabane préférée".
+" Cher jury, la finale du concours de cabanes arrive à grandes pattes. C'est un très beau voyage qui nous attend au coeur des arbres les plus fascinants. allons voir ce nous ont concocté les enfants du monde entier? Alors, quelle sera votre cabane préférée".
 
 ## Pourquoi on aime Le Concours de cabanes ?
 
