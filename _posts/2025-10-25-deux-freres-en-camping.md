@@ -6,7 +6,7 @@ date: 2025-10-25 20:00:00 +0300
 author: Armelle
 image: 'images/deux-freres-en-camping-cover.jpg'
 tags: ["Frères","Camping"]
-featured: true
+featured: false
 toc: true
 ---
 
