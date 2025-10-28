@@ -5,7 +5,7 @@ description: Ce concept original avec ses cartes paysages a beaucoup plu à mon 
 date: 2025-10-24 06:00:00 +0300
 author: Armelle
 image: 'images/letrange-voyage-deugenie-cover.jpg'
-tags: ["Voyage","Aventure","Imagination"]
+tags: ["Voyage","Aventure","Imagination","Pop-up"]
 featured: true
 toc: true
 ---
