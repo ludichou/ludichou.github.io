@@ -34,6 +34,6 @@ Dans cette histoire pleine de surprises, quatre amis vont découvrir que le plus
 - Souris ne sait pas quoi offrir à ses amis pour Noël. Elle décide alors d’aller regarder dans la maison d’Écureuil pour voir s’il aurait besoin de quelque chose. Mais Écureuil semble déjà avoir tout ce qu’il faut... Alors, que pourrait-elle bien lui offrir ?
 - Surpris de la voir, Écureuil lui avoue qu’il ne sait pas non plus quoi offrir, et lui propose d’aller ensemble rendre visite à Mademoiselle Hérisson. Puis, ils vont voir Ours, qui leur confie à son tour qu’il n’a pas encore trouvé d’idée... mais qu’il leur a préparé une surprise ! 
 - Alors, parviendront-ils à célébrer Noël tous ensemble et à découvrir ce qui fait vraiment la magie des cadeaux ?
-- De belles valeurs sont mises en avant tout au long de l’histoire : l’amitié, le partage et l’entraide. Ils découvrent que la magie de Noël ne se trouve pas dans les cadeaux, mais dans les moments passés ensemble. Cet ablum rappelle l’importance des petites attentions et de la bienveillance envers ceux qu’on aime.
+- De belles valeurs sont mises en avant tout au long de l’histoire : l’amitié, le partage et l’entraide. Ils découvrent que la magie de Noël ne se trouve pas dans les cadeaux, mais dans les moments passés ensemble. Cet album rappelle l’importance des petites attentions et de la bienveillance envers ceux qu’on aime.
 
 Vous pouvez retrouver ce livre sur Noel [Les cadeaux du coeur ](https://ludichou.com/les-cadeaux-du-coeur).
