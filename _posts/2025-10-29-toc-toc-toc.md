@@ -21,7 +21,7 @@ Date de parution : 5 septembre 2025.
 
 ## Résumé
 
-" Carte d'invitaton enmain, la fourmi se rend au 12, rue des Bouleaux pour faire la fête. Elle rencontre tous les habitants de l'arbre dans des endroits insoupçonnés, mais elle obtient toujours la même réponse : "il n'a pas de fête ici". Pourtant, la fourmi est sûre qu'il y en a une, et elle compte bien la trouver!".
+" Carte d'invitation en main, la fourmi se rend au 12, rue des Bouleaux pour faire la fête. Elle rencontre tous les habitants de l'arbre dans des endroits insoupçonnés, mais elle obtient toujours la même réponse : "il n'a pas de fête ici". Pourtant, la fourmi est sûre qu'il y en a une, et elle compte bien la trouver!".
 
 ## Pourquoi on aime Toc ! Toc ! Toc ! Est-ce ici la fête ?
 
