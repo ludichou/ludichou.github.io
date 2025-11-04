@@ -5,7 +5,7 @@ description: Un moment plein de douceur et d’amour entre Petit Ours et sa mama
 date: 2025-10-31 20:00:00 +0300
 author: Armelle
 image: 'images/berceuse-dhiver-cover.jpg'
-tags: ["Hiver","Ours"]
+tags: ["Hiver","Ours","Saison"]
 featured: true
 toc: true
 ---
