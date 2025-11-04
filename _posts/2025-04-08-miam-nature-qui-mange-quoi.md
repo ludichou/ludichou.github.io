@@ -24,13 +24,13 @@ Nombre de joueurs : jusqu'à 4.
 
 ## Résumé
 
-"Miam'Nature - Qui Mange Quoi ? est un jeu coopératif où les joueurs doivent trouver les aliments qui correspondent à chaque espèce animale.
+"Miam'Nature : Qui Mange Quoi ? est un jeu coopératif où les joueurs doivent trouver les aliments qui correspondent à chaque espèce animale.
 
 Les animaux ont très envie d'un bon repas. Aide-les à trouver leur nourriture !
 
 Comment jouer L’escargot, le lapin, la souris et l’écureuil ont faim. Tous ensemble, les joueurs tentent de remplir au moins deux de leurs garde-manger.
 
-Pour cela, les joueurs déplacent les animaux de tuile en tuile le long des chemins pour trouver les aliments correspondants à chacune des espèces. Mais gare aux prédateurs qui rôdent et à la nuit qui tombe…
+Pour cela, les joueurs déplacent les animaux de tuile en tuile le long des chemins pour trouver les aliments correspondants à chacune des espèces. Mais gare aux prédateurs qui rôdent et à la nuit qui tombe...
 
 Si deux garde-manger sont complets avant la tombée de la nuit, tous les joueurs ont gagné !"
 
