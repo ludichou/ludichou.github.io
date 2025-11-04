@@ -26,7 +26,7 @@ Date de parution : 3 novembre 2025.
 
 ## Pourquoi j'aime Comme si de rien n'était ?
 
-- Colette, une veuve touchante et pleine de caractère, consulte un psychologue sur les conseils de son médecin.Celui-ci lui propose une “cure de jouvence” mais qu’est-ce que cela veut dire ? 
+- Colette, une veuve touchante et pleine de caractère, consulte son médecin. Celui-ci lui propose une “cure de jouvence” mais qu’est-ce que cela veut dire ? 
 C’est ainsi que deux adolescents aux tempéraments opposés, Nina et Léon, viennent bousculer son quotidien bien rythmé.
 - On découvre Nina, de plus en plus réservée, on comprends au fur et à mesure sa situation familiale complexe, et Léon fêtard, qui devra apprendre à trouver sa place sans se laisser influencer.
 - Autour d’eux, des personnages secondaires attachants, comme Nestor, le voisin attentionné, ou encore Cléa et Nils, qui apportent chacun leur part de soutien et de mystère.
