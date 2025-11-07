@@ -21,7 +21,7 @@ Date de parution : 15 octobre 2025.
 
 ## Résumé
 
-" Et si, par une nuit d'hiver étoilée, un renard venait chercher de l'aide d'un petit garçon? Et si ce petit garçon suivait le bel animal par-delà la ville et les champs enneigés? Une histoire oùse mèlent magie, entraide et amitié".
+" Et si, par une nuit d'hiver étoilée, un renard venait chercher de l'aide d'un petit garçon? Et si ce petit garçon suivait le bel animal par-delà la ville et les champs enneigés? Une histoire où se mêlent magie, entraide et amitié".
 
 ## Pourquoi on aime Un renard sous les étoiles ?
 
