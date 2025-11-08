@@ -86,13 +86,13 @@ authors:
 
 #-------------------------------
 # Newsletter Settings
-# mailchimp:
-#   enable: true
-#   mailchimp_title: Restez inspiré chaque semaine. Votre dose d'astuces et de conseils pratiques !
-#   mailchimp_description: Chaque lundi, je vous partage des livres ou encore des jeux de société pour vos petits et plus grands curieux, directement dans votre boîte mail.
-#   mailchimp_identifier: gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp # Add your MailChimp form identifier. For example - gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp
-#   mailchimp_input_text: Votre adresse mail
-#   mailchimp_button_text: S'inscrire
+mailchimp:
+  enable: true
+  mailchimp_title: Restez inspiré chaque mois. Votre dose de littérature jeunesse, de jeux, de créativité et de belles découvertes.
+  mailchimp_description: Chaque mois, je vous partage des livres ou encore des jeux de société pour vos petits et plus grands curieux, directement dans votre boîte mail.
+  mailchimp_identifier: ludichou.us12.list-manage.com/subscribe/post?u=7ff80362c8535b6a8c230532f&amp;id=1695ce6661&amp;f_id=008760e9f0 # Add your MailChimp form identifier. For example - gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp
+  mailchimp_input_text: Votre adresse mail
+  mailchimp_button_text: S'inscrire
 
 
 #-------------------------------
