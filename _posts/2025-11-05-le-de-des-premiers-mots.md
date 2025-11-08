@@ -38,7 +38,7 @@ Ce jeu comprend :
 *Exemple de cartes*
 
 - Ce jeu éducatif et ludique est parfait pour jouer avec son bébé tout en développant son langage.
-On lance le dé, on retourne une carte, on nomme l’image et on écoute le son associé : un vrai moment d’éveil et de complicité !
+On lance le dé, on retourne une carte, on nomme l’image et on imite le son associé si nécessaire : un vrai moment d’éveil et de complicité !
 
 Le jeu aborde six couleurs et thématiques différentes :
 - violet : la maison (chaise, lit…)
