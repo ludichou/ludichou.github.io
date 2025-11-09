@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Mon fils adore inventer et raconter des histoires :  un vrai coup de cœur pour lui !"
-description: Histoires de raconter de Placote.
+title: Histoires de raconter de Placote.
+description: "Mon fils adore inventer et raconter des histoires : un vrai coup de cœur pour lui !"
 date: 2025-11-06 20:00:00 +0300
 author: Armelle
 image: 'images/histoire-de-raconter-cover.jpg'
@@ -37,14 +37,11 @@ Ce jeu comprend :
 ![Placement des cartes](images/histoire-de-raconter-placement-des-cartes.jpg)
 *Placement des cartes*
 
-![Cartes](images/histoire-de-raconter-cartes.jpg)
+![Cartes différentes couleurs avec numéros](images/histoire-de-raconter-cartes.jpg)
 *Cartes*
 
-![Exemple cartes](images/histoire-de-raconter-cartes.jpg)
-**
-
 ![Exemple cartes](images/histoire-de-raconter-exemple-cartes.jpg)
-**
+*Exemple cartes*
 
 - Mon fils adore raconter des histoires : il en invente souvent et nous demande d’en inventer à notre tour.
 - Ce jeu l’a immédiatement captivé ! Au début, il avait un peu de mal à construire son récit avec les cartes, mais après quelques exemples, il s’est lancé avec enthousiasme.
