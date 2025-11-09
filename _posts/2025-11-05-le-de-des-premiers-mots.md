@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Le dé des premiers mots
+title: Le dé des premiers mots de Placote
 description: Un jeu éducatif et ludique qui permet de stimuler le langage et la curiosité à travers des thématiques de la vie de tous les jours.
 date: 2025-11-05 20:00:00 +0300
 author: Armelle
