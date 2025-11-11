@@ -27,8 +27,8 @@ Date de parution : 18 octobre 2024.
 
 ## Pourquoi on aime La souris du sapin ?
 
-![De très illustrations](images/la-souris-du-sapin-int.jpg)
-*De très illustrations*
+![De très belles illustrations](images/la-souris-du-sapin-int.jpg)
+*De très belles illustrations*
 - Elfie, la petite souris du sapin, adore se parer pour les fêtes : une boule sur la tête, un gilet blanc comme la neige, un talkie-walkie pour parler à l’atelier du Père Noël... et une pince à linge dont la mission reste un mystère !
 - Toujours prête à aider le Père Noël, Elfie veille à ce que tout soit parfait pour la grande nuit.
 Mais catastrophe ! Il manque un doudou pour le bébé Lou ! Comment faire pour que le cadeau arrive à temps ? Et si, en plus, un chat curieux venait compliquer ses plans ?
