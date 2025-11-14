@@ -5,7 +5,7 @@ description: Un album qui met en avant Noël entre amis, le respect des goûts d
 date: 2025-11-09 20:00:00 +0300
 author: Armelle
 image: 'images/le-sapin-de-noel-des-quatre-amis-cover.jpg'
-tags: ["Noel","Amitie"]
+tags: ["Noel","Amitié"]
 featured: true
 toc: true
 ---
