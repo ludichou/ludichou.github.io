@@ -5,7 +5,7 @@ description: Je voulais faire découvrir à mon fils ce qu’est le camping. En 
 date: 2025-06-13 20:00:00 +0300
 author: Armelle
 image: 'images/premier-jour-de-camping-cover.jpg'
-tags: ["Vacances", "Camping","Amitiés"]
+tags: ["Vacances", "Camping","Amitié"]
 featured: true
 toc: true
 ---

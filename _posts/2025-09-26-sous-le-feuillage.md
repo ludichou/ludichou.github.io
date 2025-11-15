@@ -5,7 +5,7 @@ description: "L’album nous entraîne dans la forêt pour suivre les petites av
 date: 2025-09-26 20:00:00 +0300
 author: Armelle
 image: 'images/sous-le-feuillage-cover.jpg'
-tags: ["Forêt","Cabanes"]
+tags: ["Forêt","Cabane"]
 featured: true
 toc: true
 ---

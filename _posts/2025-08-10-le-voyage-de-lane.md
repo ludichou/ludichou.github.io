@@ -5,7 +5,7 @@ description: Mon fils aussi connaît parfois l’ennui et le désir de changemen
 date: 2025-08-10 20:00:00 +0300
 author: Armelle
 image: 'images/le-voyage-de-lane-cover.jpg'
-tags: ["Voyage","Amitiés"]
+tags: ["Voyage","Amitié"]
 featured: false
 toc: true
 ---
