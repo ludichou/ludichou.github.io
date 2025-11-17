@@ -29,7 +29,7 @@ Rencontre la Princesse Freya et sa famille dans leur magnifique château de glac
 
 Grâce au guide inclus dans le coffret, tu découvriras la vie au royaume, ses habitants étonnants, ses dragons et les préparatifs de son somptueux Bal de Glace !".
 
-## Pourquoi on aime  Le guide du royaume des neiges ?
+## Pourquoi on aime Le guide du royaume des neiges ?
 
 ![Le château](images/le-guide-du-royaume-des-neiges-chateau.jpg)
 *Le château*
@@ -47,4 +47,3 @@ Grâce au guide inclus dans le coffret, tu découvriras la vie au royaume, ses h
 Passionné par les châteaux, il s’est tout de suite exclamé : “J’adore les châteaux ! Il est très joli, celui-là... et en plus, il a de la glace ! Regarde, il y a des dragons !” 
 - Curieux, il m’a ensuite demandé qui étaient les personnages, et nous avons pris plaisir à découvrir l’histoire du château : le portrait de famille royale, la chambre de Freya, l’école des dragonniers, les jardins glacés, la cuisine, les joyaux de la couronne, sans oublier le fabuleux bal de glace.
 - Chaque page est une invitation à explorer, imaginer et rêver, entre lecture, observation et jeu.
-

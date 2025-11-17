@@ -38,3 +38,5 @@ Au total, 8 enquêtes, 8 suspects...et un seul coupable à trouver à chaque foi
 Et lorsqu’il trouvait le suspect, il était content de lui : "C’est lui, je l’ai trouvé ! ".
 
 Un livre  pour développer l’observation, la logique, et pour réfléchir et partager ensemble à travers des enquêtes à résoudre.
+
+Vous pouvez le retrouver ici sur la Fnac: [Élémentaire mon cher Wouafson ! Enquêtes à Londres](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa21760234%2FEva-Grynszpan-Elementaire-mon-cher-Wouafson-Enquetes-a-Londres).

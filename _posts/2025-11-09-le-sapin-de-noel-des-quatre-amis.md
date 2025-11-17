@@ -34,3 +34,4 @@ Date de parution : 18 octobre 2024.
 - Ours a lui aussi reçu des petits nœuds à accrocher. Ensemble, ils vont les offrir à Mademoiselle Hérisson, qui refuse gentiment : elle aime avant tout les petits flocons en coton.
 - En sortant, les trois amis aperçoivent un grand sapin dehors... et ils ont une idée : un moment rempli de partage, d’amitié et de créativité.
 
+Vous pouvez le retrouver ici sur la Fnac: [Le sapin de Noël des quatre amis ](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa20712670%2FSylvain-Zorzin-Le-sapin-de-Noel-des-quatre-amis).

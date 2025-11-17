@@ -41,10 +41,6 @@ Choisis tout.e seul.e tes actions et tes chemins en suivant les symboles et les 
 - Une **aventure interactive** qui **stimule l’imagination** et la **réflexion**.
 - On peut **télécharger et imprimer les règles du livre-jeu** sur leur site. 
 
-Si vous souhaitez faire découvrir les livres-jeux à votre enfant et lui offrir une aventure interactive pleine de surprises, Hocus & Pocus Minus : Tempête et champignons est un excellent choix ! Vous pouvez le retrouver ici sur Amazon : [Hocus & Pocus Minus : Tempête et champignons](https://amzn.to/4kSBoXN). Bonne lecture et belles aventures ! 
+Si vous souhaitez faire découvrir les livres-jeux à votre enfant et lui offrir une aventure interactive pleine de surprises, Hocus & Pocus Minus : Tempête et champignons est un excellent choix ! 
 
- 
-
-
-
-
+Vous pouvez le retrouver ici sur la Fnac: [Hocus & Pocus Minus : Tempête et champignons](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa17688489%2FHocus-et-Pocus-Tempete-et-champignons-Tome-3-Hocus-et-Pocus-Minus-Gorobei).

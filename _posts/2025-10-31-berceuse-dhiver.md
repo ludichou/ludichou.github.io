@@ -35,3 +35,5 @@ Plus loin, il rencontre encore Lièvre, Putois et Raton laveur : chacun bien occ
 - Sa maman lui explique alors que l’hiver arrive, que le soleil et la chaleur se font rares, et que tous ces animaux vont bientôt hiberner pour se réveiller au printemps, lorsque bourgeons et fleurs reviendront.
 
 Petit Ours observe la nature et les animaux se préparer à l’hiver, avant de partager une belle déclaration d’amour et de complicité avec sa maman.
+
+Vous pouvez le retrouver ici sur la Fnac: [Berceuse d'hiver](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa16142621%2FDiane-White-Berceuse-d-hiver-ne).

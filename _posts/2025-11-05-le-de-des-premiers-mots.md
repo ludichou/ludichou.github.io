@@ -54,3 +54,5 @@ Je lui répète plusieurs fois les mots  par exemple “ca-mion” et j'ai été
 Un jeu simple, coloré et amusant, qui stimule la curiosité et les premiers mots tout en partageant un joli moment ensemble.
 
 *** Partenariat avec Placote_jeux merci pour ce jeu ***
+
+Vous pouvez le retrouver ici sur la Fnac: [Le dé des premiers mots](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fmp51180837%2FLe-de-des-premiers-mots%2Fw-4%3Foref%3D1eacdc38-c14d-1e86-3285-0ae60c0d5baf).

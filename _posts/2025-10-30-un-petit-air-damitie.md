@@ -33,3 +33,6 @@ Date de parution : 27 janvier 2023.
 Un jour, il entend une mélodie qui attire son attention. Intrigué, il s’approche et découvre un garçon jouant de la flûte. Surpris et un peu effrayé, Chi s’enfuit et retourne se réfugier dans son arbre. 
 - Mais bientôt, le garçon égare sa flûte et se perd dans la forêt. Inquiet, il appelle son grand-père... Chi va-t-il oser sortir de sa cachette pour l’aider ? Parviendra-t-il à le guider vers son chemin ?
 
+Vous pouvez le retrouver ici sur la Fnac: [Un petit air d'amitié](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa17465526%2FCorinne-Averiss-Un-petit-air-d-amitie%3Foref%3De7ff4562-a3df-4d78-a2fe-5fbb38a1e7f0).
+
+

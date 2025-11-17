@@ -29,3 +29,5 @@ Date de parution : 9 octobre 2025.
 
 - Mon bébé a adoré explorer les différentes textures : toucher, gratter, caresser celles de l’ours, du paysage, des arbres... Chaque page était une nouvelle découverte sensorielle.
 - J'ai nommé et décrit ce que nous voyions : dans la forêt, à la montagne, sous l’eau, en ville ou à la maison. Nommer et imiter le bruit des animaux... Son moment préféré ? Le miroir, dans lequel il adorait se regarder : seul ou avec moi.
+
+Vous pouvez le retrouver ici sur la Fnac: [Mon grand livre à toucher](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa21760224%2FCaroline-Dall-Ava-Mon-grand-livre-a-toucher).

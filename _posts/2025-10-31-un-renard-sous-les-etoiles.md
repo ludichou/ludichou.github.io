@@ -30,3 +30,5 @@ Date de parution : 15 octobre 2025.
 - On suit un petit garçon qui a perdu Petit Renard... Mais qui est-il vraiment ?
 - En pleine nuit, il entend un bruit. Dans la neige, un renard l’attend et lui fait signe de le suivre. Où vont-ils ? Le renard a-t-il besoin d’aide?  Ou est-ce lui qui vient en offrir.
 - De belles valeurs comme l'amitié, l'entraide sont mises en avant.
+
+Vous pouvez le retrouver ici sur la Fnac: [Un renard sous les étoiles](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa21812966%2FRob-Biddulph-Un-renard-sous-les-etoiles).

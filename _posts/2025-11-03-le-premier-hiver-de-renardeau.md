@@ -38,3 +38,6 @@ Date de parution : 29 octobre 2025.
 lui souhaite bonne nuit, et l’invite à hiberner bien au chaud, blotti contre elle.
 
 Un livre poétique et tout en douceur.
+
+Vous pouvez le retrouver ici sur la Fnac: [Le premier hiver de renardeau](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa21706883%2FCollectif-Le-premier-hiver-de-renardeau).
+

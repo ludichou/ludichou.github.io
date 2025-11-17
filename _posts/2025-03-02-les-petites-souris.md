@@ -37,15 +37,6 @@ Vite, vite ! Aidez les 4 petites souris à regagner leur lit avant que le chat n
 - Un **jeu éducatif** :  Il aide les enfants à apprendre à suivre des règles, à attendre leur tour et à associer les couleurs.
 - Un **moment de partage et de rires** : Entre la tension de la course et les interactions rigolotes (comme nourrir le chat avec des poissons), le jeu crée de beaux moments de complicité en famille.
 
-Les Petites Souris est un jeu accessible pour les petits, mêlant amusement, apprentissage et éclats de rire. Envie de tester ce jeu avec votre enfant ? Vous pouvez le retrouver ici sur Amazon : [Les petites souris](https://amzn.to/3E7wGof).
+Les Petites Souris est un jeu accessible pour les petits, mêlant amusement, apprentissage et éclats de rire. Envie de tester ce jeu avec votre enfant ?
 
-
-
-
-
-
-
-
-
-
- 
+Vous pouvez le retrouver ici sur la Fnac: [Mon Premier Jeu Les Petites Souris](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2FLes-petites-souris-Nathan%2Fa10688563%2Fw-4).

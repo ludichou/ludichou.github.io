@@ -36,3 +36,4 @@ Date de parution : 9 novembre 2022
 
 Une surprise touchante qui deviendra un merveilleux moment de famille et une tendre déclaration d’amour.
 
+Vous pouvez le retrouver ici sur la Fnac: [Noël aux quatre vents](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa17129028%2FEmilie-Michaud-Noel-aux-quatre-vents).

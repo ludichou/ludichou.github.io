@@ -41,3 +41,5 @@ Date de parution : 1 octobre 2025
 - Chaque récit met en scène une situation du quotidien, dans laquelle les enfants peuvent facilement se reconnaître. On y découvre qu’il faut parfois faire confiance, ou trouver des petits outils pour surmonter ses peurs comme les vers luisants qui rassurent le loup lorsqu’il a peur du noir.
 
 Ces histoires permettent de lui montrer que toutes les émotions sont normales et qu’on peut apprendre à les apprivoiser. 
+
+Vous pouvez le retrouver ici sur la Fnac: [7 histoires pour bien grandir](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa21813006%2FClaire-Clement-7-histoires-pour-bien-grandir).

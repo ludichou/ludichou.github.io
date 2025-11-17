@@ -36,3 +36,5 @@ Il était aussi très surpris par tout ce qu’un apprenti doit apprendre : les 
 - La partie qu’il préfèrerait, c’est inventer des jeux et des jouets, visiter l’usine et tester plein de créations comme un vrai lutin. Il rêve d’essayer l’atelier de menuiserie, l’imprimerie, ou encore l’atelier de stylisme.
 
 Une histoire pleine de magie, d’aventure, qui donne envie d'être nous aussi dans les coulisses du Père Noël.
+
+Vous pouvez le retrouver ici sur la Fnac: [Comment je suis devenue l'apprentie du père Noël](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa21702923%2FMaureen-Dor-Comment-je-suis-devenue-l-apprentie-du-pere-Noel).

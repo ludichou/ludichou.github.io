@@ -36,3 +36,4 @@ Il a adoré observer chaque détail : chercher où se cache la Fée Dragée, le 
 - À la fin du livre, on découvre l’origine de Casse-Noisette, son histoire, et les personnages emblématiques, avec en bonus un QR code pour écouter la Valse des fleurs.
 -Mon fils a pris plaisir à décrire les illustrations et m’a dit qu’un jour, il aimerait visiter Paris, aller à l’Opéra...comme dans le livre !
 
+Vous pouvez le retrouver ici sur la Fnac: [ Chasse-Noisette](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa21760236%2FAstrid-Desbordes-Chasse-Noisette).

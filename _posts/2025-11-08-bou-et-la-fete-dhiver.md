@@ -51,3 +51,4 @@ Le livre se termine par des activités créatives : préparer la potion des rire
 
 Un album plein d’aventure, d’humour et de mystère, qui mêle histoire, réflexion et activités.
 
+Vous pouvez le retrouver ici sur la Fnac: [Bou et la fête d'hiver ](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa21933973%2FBou-Bou-et-la-fete-d-hiver-Julie-Jaumot).

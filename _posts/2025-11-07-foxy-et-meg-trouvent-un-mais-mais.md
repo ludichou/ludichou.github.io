@@ -32,5 +32,4 @@ Date de parution : 11 avril 2025.
 
 Une aventure pleine de mystère, d’humour et de curiosité, où les deux amis apprennent à observer, questionner et imaginer ensemble.
 
-
-
+Vous pouvez le retrouver ici sur la Fnac: [Foxy & Meg trouvent un mais-mais](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa21198024%2FFoxy-Et-Meg-Foxy-et-Meg-trouvent-un-mais-mais-Ricardo-Henriques).

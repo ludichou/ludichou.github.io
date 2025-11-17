@@ -35,3 +35,4 @@ Mais catastrophe ! Il manque un doudou pour le bébé Lou ! Comment faire pour q
 
 Une histoire pleine de tendresse, d’aventure et d’humour, où l’on retrouve de belles valeurs : le plaisir d’offrir, la persévérance, le courage et l’attention aux autres.
 
+Vous pouvez le retrouver ici sur la Fnac: [La souris du sapin](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa20735963%2FJ-Coelho-La-souris-du-sapin).

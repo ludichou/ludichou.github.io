@@ -35,5 +35,8 @@ Date de parution : 13 novembre 2025.
 
 Une histoire touchante qui nous invite à réfléchir sur l’amitié, la tolérance et la nécessité de dépasser les préjugés. Natuk et l’ourson y montrent qu’ils peuvent compter l’un sur l’autre, quoi qu’il arrive.
 
+Vous pouvez le retrouver ici sur la Fnac: [Un câlin d'ours](https://www.fnac.com/a21869282/Susanna-Isern-Un-calin-d-ours).
+
+
 
 

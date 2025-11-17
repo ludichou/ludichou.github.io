@@ -26,10 +26,6 @@ Age : 0-3 ans
 - Il favorise l’**observation** et développe la **motricité fine** grâce aux rabats à soulever.
 - Il permet de découvrir différents animaux, accompagnés de leurs descriptions.
 
-Coucou! au zoo est un livre ludique et interactif qui permet à l’enfant de découvrir le monde animal tout en s’amusant.Découvrez ce livre sur amazon [Coucou au zoo](https://amzn.to/3FYrH9Y). 
+Coucou! au zoo est un livre ludique et interactif qui permet à l’enfant de découvrir le monde animal tout en s’amusant. 
 
- 
-
-
-
-
+ Vous pouvez le retrouver ici sur la Fnac: [Coucou! au zoo](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa13250870%2FCollectif-Coucou-Au-zoo%3Foref%3Dbc0e2eab-0486-692c-6475-9dfb9eef3405).

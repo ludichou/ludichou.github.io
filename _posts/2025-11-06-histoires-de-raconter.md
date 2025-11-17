@@ -49,3 +49,5 @@ Ce jeu comprend :
 - On a enchaîné plusieurs parties, et à chaque fois, il en redemandait : " encore ! "
 
 Mon fils a aimé ensuite installé le jeu, à créer dfférentes histoires, que l'on en raconte et avec des moments de complicité et de rires.
+
+Vous pouvez le retrouver ici sur la Fnac: [Histoires de raconter](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fmp51593327%2FJeu-Histoire-de-raconter%2Fw-4%3Foref%3D1879567a-2284-0405-f081-9dc4ce3135a1).

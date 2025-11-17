@@ -33,3 +33,5 @@ Date de parution : 9 octobre 2025.
 - Lui aussi aimerait fêter Noël avec ses amis. Il décide alors de trouver un sapin, mais la neige tombe de plus en plus fort… Parviendra-t-il à accomplir sa mission ? 
 
 Une histoire pleine de douceur et de bienveillance, où l’on retrouve de belles valeurs : l’amitié, le partage, la persévérance et le bonheur d’être ensemble.
+
+Vous pouvez le retrouver ici sur la Fnac: [Le petit fantôme en édredon découvre noël](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa21861309%2FByron-Eggenschwiler-Le-petit-fantome-en-edredon-decouvre-noel).
