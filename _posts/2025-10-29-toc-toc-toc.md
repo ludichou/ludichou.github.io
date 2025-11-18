@@ -34,3 +34,4 @@ Sur son chemin, elle croise une foule d’animaux : un ours, un renard, un blair
 
 Une histoire avec beaucoup de tendresse et de malice, qui parle de persévérance, d’amitié et de partage. Mon fils s’est beaucoup amusé à observer chaque cachette, s’exclamant :" Ah oui, ils habitent là ! " puis " Whaouh, c’est trop bien ici ! ".
 
+Vous pouvez le retrouver ici sur la Fnac: [Toc ! Toc ! Toc ! Est-ce ici la fête ?](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa21600498%2FSophie-De-Mullenheim-Toc-Toc-Toc-Est-ce-ici-la-fete).

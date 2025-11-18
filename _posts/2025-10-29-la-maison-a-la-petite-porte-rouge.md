@@ -35,3 +35,4 @@ Où pourra-t-il bien s’abriter maintenant ? Dans une théière, une pendule, u
 
 C’est une belle histoire d’amitié et d’entraide, qui parle d’écoute, de solidarité et du plaisir de partager un foyer chaleureux entouré d’amis.
 
+Vous pouvez le retrouver ici sur la Fnac: [La maison à la petite porte rouge](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa21770380%2FGrace-Easton-La-maison-a-la-petite-porte-rouge).

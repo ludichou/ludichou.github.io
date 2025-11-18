@@ -33,3 +33,5 @@ Miki, le petit ours polaire, n'a pas envie de pêcher avec sa maman. Il préfér
 - Miki est un petit ours très curieux et il adore jouer. Un jour, alors se balade dans la neige, il aperçoit un petit point rouge : c’est une fille ! Intrigué, il s’en approche et fait sa connaissance. Très vite, ils rient ensemble, partagent des chatouilles et jouent dans la neige. 
 - Mais soudain, la fillette réalise qu’elle a perdu sa moufle. Sans hésiter, Miki part à sa recherche. Sur la banquise qui se fissure, il lui montre comment sauter de bloc en bloc. Puis, la petite grimpe sur son dos pour retrouver l’endroit où ils jouaient.
 Et là, à l’horizon, un autre point rouge apparaît... Mais qui cela peut-il bien être ? 
+
+Vous pouvez le retrouver ici sur la Fnac: [Un doux moment polaire](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa17209287%2FCorrinne-Averiss-Un-doux-moment-polaire).

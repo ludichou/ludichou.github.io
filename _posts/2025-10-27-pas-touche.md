@@ -36,3 +36,5 @@ Date de parution : 23 août 2017.
 Peu à peu, une véritable amitié se construit entre Max et Simon, qui découvrent que le plus important n’est pas de gagner, mais de profiter ensemble des bons moments.
 
 Mon fils a d’ailleurs reconnu que c’était mieux d’en parler, même si ce n’est pas toujours facile sur le moment.
+
+Vous pouvez le retrouver ici sur la Fnac: [Pas touche !](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa10574852%2FRachel-Bright-Pas-touche%3Foref%3D81b15b93-d58f-d1aa-759d-793ba3c2765a).
