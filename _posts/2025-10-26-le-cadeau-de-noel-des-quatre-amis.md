@@ -37,3 +37,5 @@ Dans cette histoire pleine de surprises, quatre amis vont découvrir que le plus
 - De belles valeurs sont mises en avant tout au long de l’histoire : l’amitié, le partage et l’entraide. Ils découvrent que la magie de Noël ne se trouve pas dans les cadeaux, mais dans les moments passés ensemble. Cet album rappelle l’importance des petites attentions et de la bienveillance envers ceux qu’on aime.
 
 Vous pouvez retrouver ce livre sur Noel [Les cadeaux du coeur ](https://ludichou.com/les-cadeaux-du-coeur).
+
+Vous pouvez le retrouver ici sur la Fnac: [Le cadeau de Noël des quatre amis](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa21817806%2FSylvain-Zorzin-Le-cadeau-de-Noel-des-quatre-amis).

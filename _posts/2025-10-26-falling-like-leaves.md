@@ -33,4 +33,6 @@ Date de parution : 11 septembre 2025
 - On découvre des liens d’amitié et d’amour, mais aussi les doutes et les choix d’Ellis en pleine recherche d’elle-même. Ellis réussira-t-elle à s’adapter à Bramble Falls ?
 Choisira-t-elle de suivre le chemin tracé par son père, ou de poursuivre sa propre voie, guidée par sa passion pour la couture ?
 
+Vous pouvez le retrouver ici sur la Fnac: [Falling Like Leaves](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa21454194%2FWilson-Misty-Falling-Like-Leaves).
+
 

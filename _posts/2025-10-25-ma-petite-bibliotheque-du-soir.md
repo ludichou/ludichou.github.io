@@ -30,3 +30,5 @@ Date de parution : 19 septembre 2025.
 - De belles valeurs sont mises en avant tout au long de l’histoire : l’amitié, le partage et l’entraide. Ils découvrent que la magie de Noël ne se trouve pas dans les cadeaux, mais dans les moments passés ensemble.
 
 Un album qui réchauffe le cœur et rappelle l’importance des petites attentions et de la bienveillance envers ceux qu’on aime. Il nous fait penser au livre "Les cadeaux du coeur".
+
+Vous pouvez le retrouver ici sur la Fnac: [Ma petite bibliothèque du soir](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa21600550%2FCollectif-Ma-petite-bibliotheque-du-soir).
