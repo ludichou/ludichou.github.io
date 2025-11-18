@@ -32,3 +32,5 @@ Date de parution : 3 octobre 2025.
 - Là, il croise des biches, pense entendre la voix rassurante de sa maman, et finit par retirer son costume. Il s’assoit, mange quelques bonbons et observe la beauté de la nuit : les étoiles, les papillons de nuit, les chauves-souris, un avion qui passe. Il réalise alors que se fâcher pour un simple déguisement n’a plus beaucoup de sens.
 - Quand le soleil se lève, la chanson de sa maman résonne à nouveau. Elle l’appelle tendrement : " Gaspard ! Gaspard !"
 - Et dans un moment plein de douceur et d’émotion, ils se retrouvent pour rentrer ensemble à la maison.
+
+Vous pouvez le retrouver ici sur la Fnac: [Nuit Blanche](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa21740593%2FFlorian-Pige-Nuit-Blanche).

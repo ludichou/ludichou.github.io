@@ -38,3 +38,5 @@ On embarque aux côtés d’Eugénie, une petite fille qui voyage en train, qui 
 - Mon fils a adoré cette idée : lui qui aime inventer et raconter des histoires, a pris plaisir à changer les cartes de nombreuses fois pour faire voyager Eugénie dans tous les univers possibles.
 
 Un magnifique album pour développer l’imagination, la créativité et de partager un moment en famille.
+
+Vous pouvez le retrouver ici sur la Fnac: [L'étrange voyage d'Eugénie](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa21770377%2FSibylle-Delacroix-L-etrange-voyage-d-Eugenie).

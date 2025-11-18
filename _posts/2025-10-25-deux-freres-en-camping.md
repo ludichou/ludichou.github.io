@@ -30,3 +30,5 @@ Date de parution : 13 juin 2025.
 - On suit l’aventure de deux frères partis camper dans la nuit. Ils pensent qu’il n’y a que la lune dehors, sans se douter que les animaux les observent discrètement dans l’obscurité. 
 Soudain, un bruit retentit...  Curieux, ils veulent regarder dehors, mais les animaux se sont déjà enfuis. Ils se questionnent sur des OVNIS, et se demandent : D’où viennent-ils ? Que se passerait-il s’ils se faisaient enlever ? Reviendraient-ils ? 
 - Heureusement, son frère le rassure le plus jeune avant qu’ils ne s’endorment. Mais, au réveil, la butte sur laquelle ils avaient planté leur tente a disparu... Alors, est ce un rêve ?
+
+Vous pouvez le retrouver ici sur la Fnac: [Deux frères en camping](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa21289875%2FDa-Wu-Deux-freres-en-camping).
