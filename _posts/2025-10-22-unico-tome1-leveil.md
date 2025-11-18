@@ -39,3 +39,5 @@ Date de parution : 11 juin 2025.
 - On suit les aventures d’Unico, une licorne qui cherche à faire le bien autour d’elle. Mais la déesse Vénus, jalouse de sa beauté et de l’amour qu’inspire Unico, ordonne à Zéphyr de s’en débarrasser. D’abord obéissante, elle finit par se révolter et protéger Unico, déclenchant une série d’événements aussi surprenants qu’émouvants.
 - Au fil de l’histoire, Unico découvre qu’elle possède des pouvoirs... mais lesquels ? 
 Entre amitié, amour, jalousie, indépendance et entraide, ce premier tome nous plonge dans un univers touchant, mêlant émotion, bienveillance et magie.
+
+Vous pouvez le retrouver ici sur la Fnac: [Unico: L'Éveil tome 1](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa21386191%2FUnico-L-Eveil-Tome-1-Unico-Samuel-Sattin).

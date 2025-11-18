@@ -33,3 +33,4 @@ On en apprend davantage sur ces arbres majestueux, leurs formes, leurs origines 
 
 Mon fils a adoré observer les illustrations, décrire chaque détail et poser des questions sur les arbres... tout en riant de voir cette oie conduire un véhicule, marcher en raquettes ou voguer à voile ou prendre un cheval ! 
 
+Vous pouvez le retrouver ici sur la Fnac: [Le Concours de cabanes](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa16766626%2FCamille-Garoche-Le-Concours-de-cabanes).

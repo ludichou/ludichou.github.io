@@ -30,3 +30,5 @@ Date de parution : 3 juillet 2025.
 - On découvre les  différentes émotions de Marie-Ourse : la colère, la surprise, la peur ou encore la joie.
 - Elle apprend qu’un câlin et un bisou peuvent suffire à retrouver le calme et à se sentir mieux.
 - Un trou au milieu du livre pour faire comme Marie-Ourse et mimer ses émotions ! Ou à faire leurs plus belles grimaces ! Mon fils a adoré y passer sa tête pour rejouer les expressions, et il nous a même demandé à tour de rôle : à mon conjoint et à moi d’en faire autant !
+
+Vous pouvez le retrouver ici sur la Fnac: [Marie-Ourse n'en fait qu'à sa tête](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa21517622%2FGwendoline-Raisson-Marie-ourse-n-en-fait-qu-a-sa-tete).
