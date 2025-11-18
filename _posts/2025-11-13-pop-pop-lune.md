@@ -5,7 +5,7 @@ description: Mon fils est passionné par la Lune et l’espace, et ce pop-up l�
 date: 2025-11-13 20:00:00 +0300
 author: Armelle
 image: 'images/pop-pop-lune-cover.jpg'
-tags: ["Lune","Documentaire","Pop-pop"]
+tags: ["Lune","Documentaire","Pop-up"]
 featured: true
 toc: true
 ---

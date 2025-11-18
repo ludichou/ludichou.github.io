@@ -5,7 +5,7 @@ description: Après avoir découvert le pop-up Lune et le pop-up Volcans, nous a
 date: 2025-11-16 20:00:00 +0300
 author: Armelle
 image: 'images/pop-up-terre-cover.jpg'
-tags: ["Terre","Documentaire","Pop-pop"]
+tags: ["Terre","Documentaire","Pop-up"]
 featured: true
 toc: true
 ---
