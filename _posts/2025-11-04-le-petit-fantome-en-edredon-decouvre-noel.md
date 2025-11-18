@@ -5,7 +5,7 @@ description: Après avoir adoré Le Petit fantôme en édredon, nous avons eu en
 date: 2025-11-04 20:00:00 +0300
 author: Armelle
 image: 'images/le-petit-fantome-en-edredon-decouvre-noel-cover.jpg'
-tags: ["Noel","Fantome"]
+tags: ["Noel","Fantôme"]
 featured: true
 toc: true
 ---
