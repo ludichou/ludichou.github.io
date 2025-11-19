@@ -35,3 +35,5 @@ Les autres enfants se moquent d’elle, et elle se sent triste et seule.
 Une rencontre à la fois surprenante et réconfortante, qui va l’aider à comprendre, à pardonner, et à accepter qu’elle n’y est pour rien. Peu à peu, elle apprend à retrouver confiance en elle.
 
 Un récit plein d’émotions, qui aborde avec délicatesse la perte, la résilience et la reconstruction de soi.
+
+Vous pouvez le retrouver ici sur la Fnac: [Julie Capable](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa21350093%2FThierry-Lenain-Julie-Capable).

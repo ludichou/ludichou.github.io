@@ -41,6 +41,7 @@ Date de parution : 8 octobre 2025.
 
 Un récit plein d’humour, d’imagination et d'aventure, parfait pour se plonger dans l’ambiance d’Halloween en famille.
 
+Vous pouvez le retrouver ici sur la Fnac: [Gaspard et la Maison Dentée: Les histoires extraordinaires d'Aldebert](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa21702928%2FLes-Histoires-Extraordinaires-De-Gaspard-Les-histoires-extraordinaires-d-Aldebert-Gaspard-et-la-Maison-Dentee-Aldebert).
 
 
 

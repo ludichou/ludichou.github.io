@@ -35,6 +35,7 @@ La famille se met finalement en route, carte en main, et font des parties de cac
 Sur le chemin, ils découvrent une seule Poligroseille, puis ils arrivent à la place des Noisetiers... mais catastrophe : un Mange-Croc a dévoré toutes les noisettes ! 
 - Alors qu’il s’apprête à faire la sieste, la famille Écureuil lui demande de les aider à atteindre la montagne. Acceptera-t-il de les aider ? Parviendront-ils à remplir leurs paniers avant l’hiver ? 
 
+Vous pouvez le retrouver ici sur la Fnac: [La grande cueillette de la famille écureuil](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa21597502%2FSylvain-Zorzin-La-grande-cueillette-de-la-famille-Ecureuil).
 
 
 

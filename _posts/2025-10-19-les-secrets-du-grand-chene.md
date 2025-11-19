@@ -33,3 +33,5 @@ Date de parution : 3 septembre 2025.
 *Des illustrations magnifiques*
 - Petit Merle s’approche du grand chêne et lui reproche de ne rien faire. Uun hibou lui explique tout ce que le chêne accomplit, saison après saison. Il abrite de nombreux animaux, transforme le dioxyde de carbone en oxygène et en sucre, offre de l’ombre et un refuge à ceux qui en ont besoin. En échange, les oiseaux et les insectes protègent l’arbre : ils mangent ceux qui l’abîment et aident à faire pousser de nouveaux arbres grâce aux graines.
 - À la fin du livre, on nous présente dix secrets fascinants sur le chêne, pour en connaitre plus sur le chêne.
+
+Vous pouvez le retrouver ici sur la Fnac: [Les secrets du grand chêne](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa21654225%2FZoe-Amstrong-Les-secrets-du-grand-chene).

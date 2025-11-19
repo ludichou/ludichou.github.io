@@ -34,3 +34,5 @@ Date de parution : 6 octobre 2022.
 - Au fil de leurs aventures, Nina adopte un petit rat. Vient enfin le moment de tester la potion...mais un éternuement vient tout bouleverser ! Que va-t-il se passer ?
 
 Un récit avec beaucoup d’humour, d’aventure, qui met en avant de belles valeurs comme l’entraide, l’écoute et la confiance.
+
+Vous pouvez le retrouver ici sur la Fnac: [Ma petite sorcière](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa17125937%2FMichelle-Robinson-Ma-petite-sorciere).

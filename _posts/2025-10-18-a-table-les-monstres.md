@@ -32,6 +32,7 @@ Chacun prépare son plat préféré : le squelette cuisine une omelette de creve
 - Mais la fête prend une tournure inattendue : un ogre furieux arrive au château, car il n’a pas été invité… Heureusement, ses amis lui ont préparé une surprise d’anniversaire, avec des plats finalement délicieux à leur manière ! 
 - Un livre accordéon à flaps, original et plein d’humour, parfait pour fêter Halloween en s’amusant.
 
+Vous pouvez le retrouver ici sur la Fnac: [A table les monstres](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa21801146%2FMagdalena-A-table-les-monstres).
 
 
 

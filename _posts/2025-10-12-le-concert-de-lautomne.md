@@ -32,3 +32,5 @@ Date de parution : 5 septembre 2024.
 - Les personnages sont attachants : Grigris la souris, Frous l’écureuil, Léone l’oursonne, Ursule l’hérissonne et Mariole le rossignol.En admirant les feuilles tomber, ils décident d’en profiter pour créer une magnifique robe d’automne, puis d’organiser un grand concert en forêt !
 - Léone tente de chanter en s’aidant d’une pomme de pin comme micro, mais sa voix un peu fausse amuse toute la bande. Alors, chacun se met à inventer son propre instrument : une trompette en courgette, un harmonica avec des bouts de bois, un xylophone de verres, des maracas et castagnettes en noisettes !
 - Ensemble, ils font preuve de créativité et d’imagination. Mais parviendront-ils à jouer tous ensemble, ou chacun fera-t-il son concert à sa manière ?
+
+Vous pouvez le retrouver ici sur la Fnac: [Le concert de l'automne](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa20592168%2FJo-Hoestlandt-Le-Concert-d-automne).

@@ -34,6 +34,4 @@ Date de parution : 26 septembre 2024.
 - À la maison, notre préféré, c’est Mille Os, un squelette qui vit dans le grenier d’une école et que les chauves-souris emmènent voler avec elles ! Il rigole beaucoup et me dit "Mais c’est quoi ça ?! Un squelette dans une école ? Et dans un grenier en plus ! " "Et pourquoi les chauves-souris l’emmènent ? C’est pas possible !".
 - Il adore aussi Le monstre Pieds-Guili " lui, il est gentil !  ça n'existe pas les monstres" et Le loup qui ne faisait pas peur, parce qu’à la maison, on aime bien jouer aux loups : parfois méchants, mais souvent très gentils.
 
-
-
-
+Vous pouvez le retrouver ici sur la Fnac: [15 histoires qui font (un peu) peur](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa20592169%2FAnne-Kalicky-15-histoires-qui-font-un-peu-peur).

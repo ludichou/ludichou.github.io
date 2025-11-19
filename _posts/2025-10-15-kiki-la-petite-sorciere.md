@@ -37,3 +37,5 @@ Deux coups de cœur de mon fils : Kiki la petite sorcière et Mon voisin Totoro.
 
 ![Kiki la petite sorcière et Totoro](images/kiki-la-petite-sorciere-et-totoro-cover.jpg)
 *Kiki la petite sorcière et Totoro*
+
+Vous pouvez le retrouver ici sur la Fnac: [Kiki la petite sorcière](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa13177023%2FKiki-La-Petite-Sorciere-Anime-comics-Kiki-la-petite-sorciere-Anime-comics-Studio-Ghibli-Hayao-Miyazaki).

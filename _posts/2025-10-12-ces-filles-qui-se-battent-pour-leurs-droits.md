@@ -37,6 +37,4 @@ Date de parution : 6 juin 2025.
 
 Un livre porteur d’espoir, qui montre que chaque voix compte, même les plus jeunes, et que le courage peut faire naître des changements.
 
-
-
-
+Vous pouvez le retrouver ici sur la Fnac: [Ces filles qui se battent pour leurs droits](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa20939368%2FCeline-Delavaux-Ces-filles-qui-se-battent-pour-leurs-droits).

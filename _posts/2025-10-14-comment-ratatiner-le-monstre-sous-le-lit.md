@@ -39,3 +39,5 @@ Heureusement, elle peut compter sur ses deux amis, Chloé et Spouki, des experts
 - Un accroche-porte anti-monstre est à découper pour le mettre sur la poignée de la chambre avant de se coucher.
 
 Un livre plein d’humour qui aide à dédramatiser le moment du coucher et à ratatiner les monstres.
+
+Vous pouvez le retrouver ici sur la Fnac: [Comment ratatiner le monstre sous le lit ?](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa21422275%2FRoland-Garrigue-Comment-ratatiner-le-monstre-sous-le-lit).

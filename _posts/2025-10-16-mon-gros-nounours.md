@@ -36,4 +36,4 @@ Un livre en tissu brodé tout doux, avec du papier bruissant et un hochet pour s
 
 Un livre-doudou idéal pour les premiers moments de lecture et d’éveil et de découverte.
 
-
+Vous pouvez le retrouver ici sur la Fnac: [Mon gros nounours avec hochet](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa21702931%2FSusie-Brooks-Mon-gros-nounours-avec-hochet).

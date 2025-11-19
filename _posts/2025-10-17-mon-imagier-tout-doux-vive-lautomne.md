@@ -35,5 +35,7 @@ Mon bébé de 9 mois a adoré toucher les différentes matières : l’écureuil
 À chaque lecture, il observe, touche, curieux de tout ce qu’il voit.
 Le format solide lui permet de manipuler le livre facilement. 
 
+Vous pouvez le retrouver ici sur la Fnac: [Mon imagier tout doux : Vive l'Automne ](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa21654218%2FNathalie-Ragondet-Mon-imagier-tout-doux-Vive-l-Automne).
+
 
 

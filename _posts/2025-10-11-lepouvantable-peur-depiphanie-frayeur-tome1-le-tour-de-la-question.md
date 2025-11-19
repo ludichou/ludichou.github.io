@@ -23,7 +23,7 @@ Date de parution : 12 octobre 2016.
 
 " Voici Epiphanie. elle a huit ans et demi. Et voici sa peur, elle a huit ans aussi. En huit ans, Epiphanie n'a pas beaucoup grandi. sa peur, si".
 
-## Pourquoi j'aime L'Épouvantable Peur d'Épiphanie Frayeur 1 : le tour de la question  ?
+## Pourquoi j'aime L'Épouvantable Peur d'Épiphanie Frayeur 1 : le tour de la question ?
 
 ![Des illustrations magnifiques](images/lepouvantable-peur-de-lephiphanie-frayeur-tome1-int.jpg)
 *Des illustrations magnifiques*
@@ -33,3 +33,4 @@ Un jour, elle décide de dépasser sa peur.
 - Tous ces personnages, à la fois drôles et attachants, l’accompagnent dans son voyage intérieur pour comprendre d’où vient sa peur.
 - Au fil de ce parcours, Épiphanie découvre qu’il est normal d’avoir peur, mais que l’important est d’en comprendre l’origine et d’apprendre à avancer avec courage et persévérance. Va t-elle réussir à dépasser sa peur?
 
+Vous pouvez le retrouver ici sur la Fnac: [L'Épouvantable Peur d'Épiphanie Frayeur 1 : le tour de la question](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa9729930%2FL-Epouvantable-Peur-d-Epiphanie-Frayeur-Tome-01-L-Epouvantable-Peur-d-Epiphanie-Frayeur-Severine-Gauthier).

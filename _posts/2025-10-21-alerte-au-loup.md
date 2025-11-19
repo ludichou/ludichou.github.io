@@ -33,3 +33,5 @@ Date de parution : 25 septembre 2025.
 - C’est un album plein de mystère et de suspense, qui joue avec la peur du loup... mais sans jamais faire peur ! Tout en bousculant les stéréotypes.
 - À chaque page, on croit enfin le rencontrer, mais ce sont finalement un âne, une chienne, une renarde ou encore un chat qui se cachent derrière les flaps. On devine ce qui apparaît et deviner la suite de l’histoire un vrai jeu d’observation et de surprise !
 Mon fils, lui, s’amusait à dire : " Ah non, ce n’est pas le loup ! " puis, soulagé, " Je suis content, le loup est gentil. "
+
+Vous pouvez le retrouver ici sur la Fnac: [Alerte au loup!](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa21530637%2FAnna-Guillet-Alerte-au-loup).

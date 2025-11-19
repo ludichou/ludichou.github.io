@@ -36,5 +36,6 @@ Découvre avec lui, au fil des rubans, le plus tendre des secrets murmurés par 
 
 Un album coup de cœur, une pépite pleine d’amour et de poésie.
 
+Vous pouvez le retrouver ici sur la Fnac: [Je t'aime en couleurs](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa21422284%2FIsabel-Otter-Je-t-aime-en-couleurs).
 
 

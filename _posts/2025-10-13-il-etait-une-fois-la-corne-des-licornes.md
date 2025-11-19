@@ -33,7 +33,4 @@ Un jour, elle découvre de petits poneys qui apprennent à voler. Elle est émer
 - Jeanne tente alors une formule magique, mais rien ne se passe. Ensemble, ils essaient de sauter, de rouler, de battre des ailes...en vain. Triste, Jeanne rentre chez elle et demande conseil à ses parents. Peut-être ont-ils la clé du mystère ? Elle pense avoir trouvé ce qu’il lui faut pour aider son nouvel ami... mais sera-ce suffisant ? Quel est donc le secret de la licorne qui a obtenu sa corne ?
 - Une belle amitié naît entre Jeanne et le bébé licorne.Cet album met en avant des valeurs importantes comme la persévérance, la confiance en soi, l’entraide et l’acceptation de la différence.
 
-
-
-
-
+Vous pouvez le retrouver ici sur la Fnac: [Il était une fois la corne des licornes](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa13683861%2FBeatrice-Blue-Il-etait-une-fois-la-corne-des-licornes).

@@ -31,3 +31,4 @@ Date de parution : 23 septembre 2021.
 - Un livre poétique sur l’automne, avec plein d'animations à manipuler pour rendre la lecture ludique et interactive. 
 - On y découvre la vie des animaux de la forêt comme les écureuils, cerfs, biches, faons, sangliers, ours ou encore papillons et la façon dont chacun se prépare doucement à l’arrivée de l’hiver.
 
+Vous pouvez le retrouver ici sur la Fnac: [Promenade dans les bois](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa15837796%2FEmiri-Hayashi-Promenade-dans-les-bois).
