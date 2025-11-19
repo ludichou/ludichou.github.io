@@ -34,9 +34,4 @@ Elle tente bien d’aller voir ses parents, mais rien n’y fait...le sommeil re
 - Alors, Louise a une idée aussi audacieuse que géniale : et si elle invitait tous ces monstres à une grande parade ? Et pourquoi pas... une bataille, s’il le faut ! Mais comment affronter autant de monstres à la fois ?
 - Cet album, plein d’imagination et d’humour, aide les enfants à apprivoiser leurs peurs, à s’endormir plus sereinement et à transformer les monstres en amis.
 
-
-
-
-
-
-
+Vous pouvez le retrouver ici sur la Fnac: [Louise et les monstres du soir](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa14707097%2FLisa-Robinson-Louise-et-les-monstres-du-soir%3Foref%3Dda2aced0-a61a-b7b0-40e3-104990b740ea).

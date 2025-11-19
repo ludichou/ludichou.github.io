@@ -36,6 +36,6 @@ La sorcière part alors à la recherche de cet ours mais leur rencontre ne va pa
 
 Un album plein d’humour, de magie, d’aventure et d’amitié, qui rappelle qu’il suffit parfois d’une belle rencontre pour faire naître un lien unique.
 
-
+Vous pouvez le retrouver ici sur la Fnac: [Un ami par magie](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa16368032%2FLu-Fraser-Un-ami-par-magie%3Foref%3D7b5d5c64-d864-ddcc-3a9f-dc10e5093ff7).
 
 

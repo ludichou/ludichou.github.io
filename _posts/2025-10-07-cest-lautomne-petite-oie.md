@@ -39,5 +39,4 @@ Fatiguée et un peu triste, l’oie se sent seule. Jusqu’à ce qu’un matin a
 
 Un album plein de courage, de persévérance et d’amitié, qui parle avec tendresse de la recherche de sa place et de l’entraide entre amis. 
 
-
-
+Vous pouvez le retrouver ici sur la Fnac: [C'est l'automne petite oie](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa16946042%2FElli-Woollard-C-est-l-automne-petite-oie).

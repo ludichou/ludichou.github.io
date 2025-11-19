@@ -38,6 +38,6 @@ Date de parution : 3 octobre 2025.
 - À la fin, c’est à l’enfant de choisir sa fée préférée : un joli moment d’échange et de découverte.
 - Mon fils a adoré décrire les illustrations, rigoler du voyage de l’escargot et poser beaucoup de questions sur les fées et la nature.
 
-
+Vous pouvez le retrouver ici sur la Fnac: [Le Concours de fées](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa21663391%2FCamille-Garoche-Le-Concours-de-fees).
 
 

@@ -40,3 +40,5 @@ Mais Plantasia n’est pas une boutique ordinaire… Elle cache de nombreux secr
 
 Plantasia est une invitation à ralentir, observer et s’émerveiller devant la nature.
 Cette BD nous invite à rêver et imaginer autrement le monde.
+
+Vous pouvez le retrouver ici sur la Fnac: [Plantasia](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa21123625%2FVincent-Dock-Plantasia).

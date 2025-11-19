@@ -32,6 +32,6 @@ Elle le lance, le secoue, marche dessus, le renifle, le lèche même...tout tent
 - À travers cette histoire, Suzy découvre que le plus beau cadeau, c’est l’attention et le partage avec ses ami(e)s.
 - Mon fils s’amuse toujours à deviner son cadeau, mais il préfère patienter pour l’ouvrir tous ensemble.
 
-
+Vous pouvez le retrouver ici sur la Fnac: [J'ai un cadeau pour toi](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa21237315%2FMiriam-Bos-J-ai-un-cadeau-pour-toi).
 
 

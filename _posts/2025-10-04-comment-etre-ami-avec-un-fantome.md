@@ -42,5 +42,6 @@ Une histoire pleine d’humour, de complicité et de rires partagés, qui aborde
 
 On adore imaginer ce que ce serait d’avoir un ami fantôme ! Mon fils, lui, rêverait de l’emmener partout : à son anniversaire, à l’école...
 
+Vous pouvez le retrouver ici sur la Fnac: [Comment être ami avec un fantôme ?](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa13627285%2FRebecca-Green-Comment-etre-ami-avec-un-fantome).
 
 

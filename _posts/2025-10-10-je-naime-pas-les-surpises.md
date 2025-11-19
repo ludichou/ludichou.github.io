@@ -22,7 +22,7 @@ Date de parution : 6 mars 2024
 
 "Au secours! Suzy l'écureuil a prévu une surprise pour Auguste le Renard. Mais Auguste d'un tempérament calme et discret, n'apprécie pas du tout les surprises et se méfie des idées saugrenues de son amie... Qu'est-ce-que Suzy aurait bien pu inventer et que leur réservera cette belle journée".
 
-## Pourquoi on aime Je n'aime pas les surprises !
+## Pourquoi on aime Je n'aime pas les surprises ?
 
 ![Des illustrations magnifiques](images/je-naime-pas-les-surprises-cover.jpg)
 *Des illustrations magnifiques*
@@ -30,5 +30,4 @@ Date de parution : 6 mars 2024
 - Cette histoire, racontée avec beaucoup d’humour, aborde les émotions liées à la nouveauté et à l’inconnu.Elle montre qu’il est normal d’avoir peur au début, mais qu’avec un peu de patience, de confiance et d’amitié, tout devient plus simple voir agréable.
 - Mon fils s’est tout de suite reconnu dans Auguste : quand on lui dit qu’une surprise l’attend, il veut absolument savoir ce que c’est et s’imagine plein de possibilités !
 
-
-
+Vous pouvez le retrouver ici sur la Fnac: [Je n'aime pas les surprises](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa18829731%2FMiriam-Bos-Je-n-aime-pas-les-surprises).
