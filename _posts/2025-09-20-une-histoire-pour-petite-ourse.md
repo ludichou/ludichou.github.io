@@ -33,6 +33,4 @@ Un album merveilleusement illustré pour savourer le moment présent et le bonhe
 
 Un album doux et poétique qui fait découvrir les changements de la nature et ce que signifie l’hibernation.
 
-
-
-
+Vous pouvez le retrouver ici sur la Fnac: [Une histoire pour petite ourse](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa21586358%2FRichard-Jones-Une-histoire-pour-petite-Ourse).

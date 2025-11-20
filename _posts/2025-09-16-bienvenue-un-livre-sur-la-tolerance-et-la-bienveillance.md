@@ -33,3 +33,5 @@ Date de parution : 21 août 2025
 - Il montre que la différence est une richesse : elle permet de s’enrichir mutuellement et d’apprendre les uns des autres.
 - Il rappelle aussi l’importance de l’amitié, du partage, du jeu collectif et de l’entraide, même dans les petites choses du quotidien, comme retrouver un doudou.
 - Enfin, il aborde les émotions de façon bienveillante : joie, tristesse, colère... Elles font toutes partie de la vie, et même lorsqu’il y a des disputes, le pardon est essentiel.
+
+Vous pouvez le retrouver ici sur la Fnac: [Bienvenue ! Un livre sur la tolérance et la bienveillance](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa21572194%2FAlison-Green-Bienvenue).

@@ -33,3 +33,5 @@ Date de parution :  1 septembre 2023.
 - Cet album nous a beaucoup rappelé  le livre "Noah et les feuilles de l’automne", où Noah tentait lui aussi de remettre les feuilles sur l’arbre en vain.
 - À la fin du livre, on trouve de jolies activités autour de l’automne : "sentir le parfum d’une pomme de pin, écouter les feuilles craquer sous les doigts, créer un arbre d’automne, ramasser et décorer des pommes de pin ou encore jouer à des devinettes sur la saison".
 On y découvre aussi les signes qui annoncent l’automne : "les animaux qui font leurs provisions, les feuilles qui changent de couleur, les champs de maïs moissonnés, les marrons qui brillent sur les marronniers et les feuilles des arbres tombent".
+
+Vous pouvez le retrouver ici sur la Fnac: [L'Automne de petit écureuil](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa14877690%2FAnita-Loughrey-L-automne-de-petit-ecureuil-coll-une-annee-dans-la-nature).

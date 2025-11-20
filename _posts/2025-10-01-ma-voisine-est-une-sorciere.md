@@ -30,5 +30,4 @@ Date de parution : 7 octobre 2025.
 - Une nouvelle voisine vient d’emménager dans le quartier. Zoé, Léo, Sérah et Maxime en sont persuadés : c’est une sorcière ! Elle est toujours habillée en noir, coiffée d’un grand chapeau et traînant une énorme malle, elle écrit des sortilèges dans un carnet… 
 - Et quand elle invite leurs parents à un goûter, c’en est trop pour la bande d’amis ! Ils décident de mener l’enquête et fondent leur propre club : "les Chasseurs de mystères". Ensemble, ils sont bien décidés à percer le secret de cette voisine pas comme les autres... Mais leur aventure va leur réserver quelques surprises !
 
-
-
+Vous pouvez le retrouver ici sur la Fnac: [Ma voisine est une sorcière](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa21635416%2FNienna-Alwee-Ma-voisine-est-une-sorciere).

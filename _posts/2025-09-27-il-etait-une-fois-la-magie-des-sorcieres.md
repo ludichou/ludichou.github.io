@@ -34,3 +34,4 @@ Date de parution : 28 octobre 2022.
 - Moira parviendra-t-elle à découvrir le véritable pouvoir de son balai et à avoir confiance en elle ?
 - Un album qui met en avant des valeurs essentielles : l’écoute, l’entraide, la persévérance et surtout l’importance de croire en soi.
 
+Vous pouvez le retrouver ici sur la Fnac: [Il était une fois la magie des sorcières](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa17182936%2FBeatrice-Blue-Il-etait-une-fois-la-magie-des-sorcieres).

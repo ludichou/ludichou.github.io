@@ -32,6 +32,4 @@ Date de parution : 26 septembre 2025.
 - Un mystérieux corbeau a lancé une malédiction. Chaque nuit, il l’oblige à monter au grenier pour jouer à des jeu, changeant sans cesse les règles pour mieux se moquer de lui.
 - Malin et déterminé, Edgar parviendra-t-il à trouver un moyen de briser la malédiction du corbeau ?
 
-
-
-
+Vous pouvez le retrouver ici sur la Fnac: [Edgar et la malédiction du corbeau](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa21600576%2FClement-Lefevre-Edgar-et-la-malediction-du-corbeau).

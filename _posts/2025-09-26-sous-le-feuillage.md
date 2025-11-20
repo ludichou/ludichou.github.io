@@ -29,3 +29,5 @@ Date de parution : 4 septembre 2025.
 *Des illustrations magnifiques*
 - On suit les habitants de la forêt dans leur quotidien : la famille Lapin prépare le petit déjeuner, Monsieur Blaireau s’affaire dans sa pâtisserie, les Furets rangent leurs affaires après un déménagement, Madame Écureuil prend soin de son jardin… et bien d’autres animaux encore.
 - Mon fils m'a dit que c'était comme nous la famille Furet notre déménagement il y a trois ans, on a tout rangé et changé de maison, il a adoré décrire les illustrations, dire ce que faisait les animaux et ce qu'il aimerait faire aussi dans sa journée mais surtout qu'il aimerait avoir un bain aussi grand que les grenouilles.
+
+Vous pouvez le retrouver ici sur la Fnac: [Sous le feuillage](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa21586296%2FCeline-Claire-Sous-le-feuillage).

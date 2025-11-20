@@ -36,6 +36,4 @@ Date de parution : 03/09/2025.
 
 Merci aux éditions Rageot jeunesse pour ce service presse.
 
-
-
-
+Vous pouvez le retrouver ici sur la Fnac: [Les soeurs Grémillet : tome 2 : Les amours de Cassiopée](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa15722676%2FLes-soeurs-Gremillet-Tome-2-Les-soeurs-Gremillet-Les-amours-de-Cassiopee-Giovanni-Di-Gregorio).

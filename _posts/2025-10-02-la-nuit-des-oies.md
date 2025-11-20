@@ -35,6 +35,4 @@ Date de parution : 3 septembre 2025
 
 Une histoire remplie de courage, d’amitié et de persévérance, qui montre qu’il ne faut pas abandonner ses rêves, même lorsque certains ne croient pas en nous.
 
-
-
-
+Vous pouvez le retrouver ici sur la Fnac: [La forêt des aurores : la nuit des oies](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa21580632%2FJuliette-Adam-La-nuit-des-oies).

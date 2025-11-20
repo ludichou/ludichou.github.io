@@ -34,6 +34,4 @@ Date de parution : 22/08/2025.
 - Un livre porteur d’espoir , qui montre que même les plus jeunes, quel que soit leur âge, peuvent eux aussi agir pour protéger la planète.
 - Des valeurs fortes en ressortent : l’écologie, l’engagement, la persévérance et la confiance en sa capacité à changer le monde.
 
-
-
-
+Vous pouvez le retrouver ici sur la Fnac: [Felix, l'enfant qui plante des millions d'arbres](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa21659178%2FSophie-Normand-Felix-l-enfant-qui-plante-des-millions-d-arbres).

@@ -37,6 +37,4 @@ Trouvera-t-elle la force de réaliser ses rêves et d'aimer sa belle silhouette 
 - Mais quand vient l’annonce d’une audition pour choisir la première danseuse, le doute s’installe. En feuilletant des magazines, Alba remarque que les ballerines ne lui ressemblent pas. Peu à peu, elle perd confiance en elle, trouve son corps différent, observe son ombre en dansant et se sent "énorme". Un jour, elle tombe et ressent une profonde honte...Parviendra-t-elle à retrouver confiance en elle pour l’audition ?
 - Un album qui met en avant de belles valeurs : l’écoute, l’entraide, la tolérance, le respect des différences et la confiance en ses rêves.
 
-
-
-
+Vous pouvez le retrouver ici sur la Fnac: [L'ourse qui voulait danser](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa21586355%2FStephanie-Stansbie-L-ourse-qui-voulait-danser).

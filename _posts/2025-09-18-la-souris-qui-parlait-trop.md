@@ -31,3 +31,5 @@ Date de parution : 3 juin 2025.
 - Cet album met en avant des valeurs essentielles : l’écoute, la prudence et le respect.
 
 Cette histoire me fait penser à mon fils qui il adore inventer et raconter des histoires... mais aime tout autant qu’on lui en lise.
+
+Vous pouvez le retrouver ici sur la Fnac: [La Souris qui parlait trop](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa21341359%2FEloise-Oger-La-Souris-qui-parlait-trop).

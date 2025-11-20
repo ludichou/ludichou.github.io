@@ -29,3 +29,5 @@ Date de parution : 04/04/2025.
 *Des illustrations magnifiques*
 - On suit deux sœurs très différentes : Holly et Molly. Molly est passionnée de magie contrairement à Holly. Lors des stages, Holly est envoyée à la poste, un lieu étonnant où le courrier est trié par différents oiseaux. Mais un avertissement est clair : il ne faut jamais toucher au courrier des mages, apporté par les martinets.
 - Quand Molly rend visite à sa sœur, la curiosité l’emporte...et tout dérape : en touchant à un martinet, elle libère un gardien qui l’accuse d’avoir volé le tarot et renvoyé le messager dans sa carte. La voilà propulsée maîtresse du jeu, embarquée avec Holly dans une aventure pleine de mystères et de rebondissements. Leur mission : rendre la lettre à son véritable propriétaire. Vont-elles réussir?
+
+Vous pouvez le retrouver ici sur la Fnac: [Holly Molly tome 1](https://www.fnac.com/a21153976/Holly-Molly-Holly-Molly-Tome-1-Antoine-Piers).

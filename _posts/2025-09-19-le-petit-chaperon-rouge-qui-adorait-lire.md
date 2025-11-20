@@ -29,6 +29,3 @@ Date de parution : 29 mai 2018
 *Des illustrations magnifiques*
 - Il s’agit d’une version revisitée du célèbre conte du Petit Chaperon rouge. Comme dans l’histoire originale, elle porte toujours sa cape rouge.. mais cette fois, sa grande passion, c’est la lecture ! Elle lit partout, même en traversant la forêt, jusqu’au moment où elle rencontre le loup... Mais que va-t-il se passer de différent ?
 - Une histoire  qui invite à imaginer une autre fin et à rêver. Mon fils a souri en me disant : "C’est comme moi, j’adore inventer et raconter des histoires".
-
-
-

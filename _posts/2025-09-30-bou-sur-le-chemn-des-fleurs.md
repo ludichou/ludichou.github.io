@@ -38,5 +38,6 @@ Date de parution : 7 octobre 2025.
 - Peu à peu, les souvenirs refont surface. L’orchidée des fleurs lui montre le ciel : Mamy Jeanne repose désormais sur un nuage fleuri, parmi les étoiles et les constellations de fleurs. C’est à présent à Bou de suivre le chemin des fleurs et de devenir, à sa manière, une sorcière Bou.
 - À la fin du livre, on trouve aussi des ressources pour parler de la mort aux enfants, ainsi que de petites recettes magiques : potion anti-cauchemar, remède pour le nez qui coule...
 
+Vous pouvez le retrouver ici sur la Fnac: [Bou Sur le chemin des fleurs ](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa21635443%2FJulie-Jaumot-Bou-sur-le-chemin-des-fleurs).
 
 
