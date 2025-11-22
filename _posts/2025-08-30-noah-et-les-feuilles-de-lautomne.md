@@ -31,4 +31,4 @@ Date de parution : 12 septembre 2024.
 - Puis, c’est au tour d’un hérisson de passer, emportant lui aussi quelques feuilles pour se tenir bien au chaud. Noah grimpe alors à l’arbre pour protéger la toute dernière feuille, mais le vent finit par l’arracher… et elle reste dans sa main.
 - L’automne avance, le temps change : humidité, froid, givre… Noah comprend alors que ses amis les animaux ont pris les feuilles pour se préparer à l’hiver
 
-Vous pouvez le retrouver ici sur Amazon: [Noah et les feuilles d'automne](https://amzn.to/4n0Deq9).
+Vous pouvez le retrouver ici sur la Fnac: [Noah et les feuilles d'automne](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa20480751%2FNoah-Noah-et-les-feuilles-d-automne-Tiphanie-Beeke).

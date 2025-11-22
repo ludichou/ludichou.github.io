@@ -36,7 +36,4 @@ Date de parution : 20 août 2025.
 
 Mon fils m’a dit qu’il trouve parfois le partage compliqué, mais qu’au final, c’est la meilleure chose à faire.
 
-Vous pouvez le retrouver ici sur Amazon: [Les Deux Oursons](https://amzn.to/46qQ76T).
-
-
-
+Vous pouvez le retrouver ici sur la Fnac: [Les Deux Oursons](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa21539018%2FJean-Louis-Le-Craver-Les-Deux-Oursons).

@@ -32,7 +32,8 @@ Date de parution : 12 septembre 2025.
 
 Et si on offrait aux enfants les outils pour comprendre... mais aussi pour agir contre les injustices ? Un livre à mettre entre toutes les mains, à l’école comme à la maison. Et vous, comment abordez-vous la question de l’égalité avec vos enfants ?
 
-Vous pouvez le retrouver ici sur Amazon: [Sur les chemins de l'égalité : mène l'enquête sur les injustices](https://amzn.to/3JXzWFp).
+Vous pouvez le retrouver ici sur la Fnac: [Sur les chemins de l'égalité : mène l'enquête sur les injustices](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa21659179%2FAmaya-Renaudin-Sur-les-chemins-de-l-egalite-mene-l-enquete-sur-les-injustices).
+
 
 
 

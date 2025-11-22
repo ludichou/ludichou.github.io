@@ -36,7 +36,4 @@ Date de parution : 3 septembre 2025.
 
 Un livre qui célèbre à la fois la nature, les moments partagés en famille. Il me rappelle mes propres souvenirs d’enfance et ceux que je construis désormais avec mes enfants.
 
-Vous pouvez le retrouver ici sur Amazon: [Danser dans les feuilles](https://amzn.to/47w3weY).
-
-
-
+Vous pouvez le retrouver ici sur la Fnac: [Danser dans les feuilles](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa21422282%2FCamille-Osscini-Danser-dans-les-feuilles).

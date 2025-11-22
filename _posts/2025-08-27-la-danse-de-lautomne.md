@@ -34,7 +34,4 @@ Date de parution : 6 septembre 2023
 
 Ce livre met en avant des valeurs essentielles : l’amour, l’entraide, le soutien et le partage.
 
-Vous pouvez le retrouver ici sur Amazon: [La danse de l'automne](https://amzn.to/47ASHZ5).
-
-
-
+Vous pouvez le retrouver ici sur la Fnac: [La danse de l'automne](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa18150894%2FZemanel-La-danse-de-l-automne).
