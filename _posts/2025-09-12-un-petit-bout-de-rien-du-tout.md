@@ -31,6 +31,7 @@ Date de parution : 12 septembre 2024.
 - Milly prépare un gâteau pour faire le goûter chez son ami le chat. Mais en chemin, elle en goûte un petit morceau... puis c'est au tour de l’ours, de l’écureuil, des koalas et même du loup. Mais restera-t-il assez de gâteau pour son ami le chat ?
 - Un livre avec beaucoup d'humour, avec des flaps à soulever qui rendent la lecture encore plus interactive.
 
+Vous pouvez le retrouver ici sur la Fnac: [Un petit bout de rien du tout](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa20334924%2FMarion-Billet-Un-petit-bout-de-rien-du-tout).
 
 
 

@@ -34,7 +34,7 @@ Date de parution : 14 mars 2025.
 - Intrigué, Ulysse décide d’aller voir par lui-même. Il découvre les plans : plus de forêt. Plus loin, il observe les animaux qui fuient, effrayés par les travaux. Alors, il prend une décision : protéger coûte que coûte cette forêt et en parler à sa famille.
 - Mais réussiront-ils à stopper la construction et sauver leur forêt ? 
 
-
+Vous pouvez le retrouver ici sur la Fnac: [Les gardiens de la forêt enchantée](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa21128875%2FMarine-Calmet-Les-gardiens-de-la-foret-enchantee).
 
 
 

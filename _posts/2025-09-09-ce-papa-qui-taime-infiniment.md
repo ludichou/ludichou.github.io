@@ -31,3 +31,5 @@ Date de parution :11 mai 2022.
 - On y découvre toutes sortes de papas, chacun à sa manière : bricoleur, cuisinier, joueur, ou simplement présent dans les petits et grands moments de la vie.
 À travers des instants tendres et complices, le livre met en lumière tout ce qui construit la relation : les premiers pas, les balades, les anniversaires, les éclats de rire ou encore les chatouilles.
 - Ce qui a beaucoup plu à mon fils, c’est de me dire à son tour ce qu’il aime partager avec son papa : les balades à vélo, les jeux de société, la cuisine, le bricolage ou encore les histoires de pirates.
+
+Vous pouvez le retrouver ici sur la Fnac: [Ce papa qui t'aime infiniment](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa16805852%2FCapucine-Lewalle-Casterminouche-Ce-papa-qui-t-aime-infiniment).

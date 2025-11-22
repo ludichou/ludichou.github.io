@@ -32,7 +32,6 @@ Date de parution : 22 septembre 2021.
 
 Alors, Loup Gris finira-t-il par séduire Louvette et à trouver l'amour?
 
-Vous pouvez le retrouver ici sur Amazon: [Loup gris et Louvette](https://amzn.to/42lbHY0).
-
+Vous pouvez le retrouver ici sur la Fnac: [Loup gris et Louvette](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa15963649%2FLoup-Gris-Loup-gris-et-Louvette-Gilles-Bizouerne).
 
 

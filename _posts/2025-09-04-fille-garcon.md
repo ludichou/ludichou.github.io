@@ -35,4 +35,4 @@ Date de parution : 15 octobre 2021.
 - Il transmet un très beau message : qu’on soit fille ou garçon, on a le droit d’être soi-même. Jouer aux princesses ou aux chevaliers, choisir le métier que l'on souhaite faire, exprimer ses émotions  même pleurer pour un garçon ou aimer une personne du même sexe...tout est normal, tout est possible.
 - La forme est ludique et intriguante : spirales, découpes, flaps, pop-up et grands rabats ont énormément plu à mon fils, qui s’amusait à deviner ce qui se cachait derrière.
 
-Vous pouvez le retrouver ici sur Amazon: [Fille, Garçon](https://amzn.to/46lGhC2).
+Vous pouvez le retrouver ici sur la Fnac: [Fille, Garçon](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa16119112%2FHelene-Druvert-Fille-Garcon).

@@ -35,7 +35,4 @@ Date de parution : 20 août 2025.
 - Elle rêve d'être funambule, avançant pas à pas sur son fil invisible, en équilibre entre ses deux univers, avec l’espoir qu’un jour ses parents puissent se parler normalement… pourquoi pas autour d’un café partagé.
 - Son sac, qu’elle transporte partout, devient alors une protection pour elle : elle y glisse ce qu'elle pense être essentiel ce qui l’aide à garder son équilibre :  livres, doudous, robe préférée, veilleuse...
 
-Vous pouvez le retrouver ici sur Amazon: [Entre mes deux maisons](https://amzn.to/41Nu2wP).
-
-
-
+Vous pouvez le retrouver ici sur la Fnac: [Entre mes deux maisons](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa21460073%2FSeverine-Vidal-Entre-mes-deux-maisons).

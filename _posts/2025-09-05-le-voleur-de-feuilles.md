@@ -31,6 +31,4 @@ Date de parution : 7 septembre 2022.
 - A la fin du livre, on nous explique qui est le voleur de feuilles et quel est son rôle.
 - L’album explique aussi, de manière simple et claire, ce qu’est l’automne : les feuilles qui changent de couleur rouge, orange, doré  avant de se détacher des arbres, les différences selon les espèces ou même selon les hémisphères. On y découvre également comment les animaux s’adaptent, comme les oiseaux qui migrent vers des régions plus chaudes.
 
-
-
-
+Vous pouvez le retrouver ici sur la Fnac: [Le voleur de feuille](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa16991340%2FAlice-Hemming-Le-voleur-de-feuilles).

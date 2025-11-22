@@ -32,6 +32,6 @@ Date de parution : 4 septembre 2025.
 - C’est le premier automne de Petit Hibou, et il se demande comment affronter le vent frais. Heureusement, il observe et reçoit l’aide de ses amis : l’écureuil, les oiseaux, les renards... Certains bougent sans cesse, d’autres se réfugient dans un nid ou un terrier, certains comptent sur leur fourrure ou préfèrent se blottir les uns contre les autres. Petit Hibou apprend que chacun s’adapte à sa manière.
 - Grâce à ses découpes à toucher, ce livre incite à la découverte, à l’observation.
 
-
+Vous pouvez le retrouver ici sur la Fnac: [Petit hibou découvre l'automne](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa21586349%2FJohnny-Barr-Petit-hibou-decouvre-l-automne).
 
 

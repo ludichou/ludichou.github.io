@@ -33,6 +33,4 @@ Date de parution : 3 septembre 2025.
 
 Un bel album qui met en avant le partage, l’entraide, l’amour, l’observation de la nature et la confiance en soi.
 
-
-
-
+Vous pouvez le retrouver ici sur la Fnac: [Le Renard et les souris des bois](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa21580647%2FZanna-Goldhawk-Le-Renard-et-les-souris-des-bois).

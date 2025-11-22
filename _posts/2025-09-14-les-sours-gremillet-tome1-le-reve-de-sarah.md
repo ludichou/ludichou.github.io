@@ -36,6 +36,4 @@ J’ai eu un véritable coup de cœur pour cette série : l’histoire est passi
 
 Merci aux éditions Rageot jeunesse pour ce service presse.
 
-
-
-
+Vous pouvez le retrouver ici sur la Fnac: [Les soeurs Grémillet Tome 1 le rêve de Sarah](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa14041818%2FLes-soeurs-Gremillet-Tome-1-Les-soeurs-Gremillet-Le-reve-de-Sarah-Giovanni-Di-Gregorio).
