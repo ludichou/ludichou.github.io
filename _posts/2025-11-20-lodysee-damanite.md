@@ -15,7 +15,7 @@ toc: true
 Langue : Français.  
 Auteur/ Illustrations : Peggy Nille.                   
 Editeur : Kaléidoscope.               
-Age :  Dès 4 ans.                           
+Age : Dès 4 ans.                           
 Date de parution : 10 septembre 2025.         
 
 ## Résumé
