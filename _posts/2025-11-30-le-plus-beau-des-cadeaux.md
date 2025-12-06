@@ -6,7 +6,7 @@ date: 2025-11-30 20:00:00 +0300
 author: Armelle
 image: 'images/le-plus-beau-des-cadeaux-cover.jpg'
 tags: ["Noel","Valeurs","Amitie"]
-featured: true
+featured: false
 toc: true
 ---
 
