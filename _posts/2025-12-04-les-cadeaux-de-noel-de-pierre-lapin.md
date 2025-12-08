@@ -27,7 +27,7 @@ Date de parution : 20 octobre 2022.
 
 ![Des illustrations magnifiques](images/les-cadeaux-de-noel-de-pierre-lapin-int.jpg)
 *Des illustrations magnifiques*
-- On suit la famille Lapin en plein préparatifs de Noël : ils cuisinent des tartelettes, répètent les chants et décorent le sapin. Pierre Lapin, lui, a soigneusement caché les cadeaux destinés à sa maman et à ses sœurs… mais voilà qu’ils ont disparu ! Où ont-ils bien pu passer ? Parviendra-t-il à les retrouver ?
+- On suit la famille Lapin en plein préparatifs de Noël : ils cuisinent des tartelettes, répètent les chants et décorent le sapin. Pierre Lapin, lui, a soigneusement caché les cadeaux destinés à sa maman et à ses sœurs... mais voilà qu’ils ont disparu ! Où ont-ils bien pu passer ? Parviendra-t-il à les retrouver ?
 - En chemin, Pierre rencontre son cousin Jeannot, qui lui explique ce qu’il s’est passé et lui propose de l’aider. Ensemble, réussiront-ils à remettre la patte sur les cadeaux perdus ?
 - Mon fils a adoré soulever les flaps pour découvrir ce qui s’y cachait. Il se demandait souvent où pouvaient bien être les cadeaux : "Peut-être là... ou là ! " "c'est embêtant s'il ne retrouve pas les cadeaux".
 - Une histoire qui met en avant des valeurs essentielles : l’écoute, l’entraide et l’attention portée aux autres.
