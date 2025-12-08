@@ -26,7 +26,7 @@ Date de parution : 13 octobre 2023.
 
 " Un album aux magnifiques illustrations hivernales qui enchantera petits et grands".
 
-## Pourquoi on aime C'est quoi la neige? ?
+## Pourquoi on aime C'est quoi la neige?
 
 ![Des illustrations magnifiques](images/cest-quoi-la-neige-int.jpg)
 *Des illustrations magnifiques*
