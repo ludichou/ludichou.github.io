@@ -23,7 +23,7 @@ Date de parution : 17 octobre 2024
 
 " Un violoniste à Sydney, trois enfants chanteurs de rue à Valparaiso, une flûtiste charmeuse de serpent à Bombay, des joueurs de banjo dans le bayou, une harpiste à Buckingham... reçoivent une invitation à un rendez-vous. Quel est ce rendez-vous si important qu'ils cessent leurs activités pour s'y rendre ? Se retrouveront-ils ?
 
-24 histoires d'Hubert Ben Kemoun à lire avant Noel illustrées par Sébastien Pelon, Judith Gueyfier et Nicolas Duffau.  
+24 histoires d'Hubert Ben Kemoun à lire avant Noël illustrées par Sébastien Pelon, Judith Gueyfier et Nicolas Duffau.  
 
 Racontées par Louise Grinberg et Emmanuel Lemire.
 
