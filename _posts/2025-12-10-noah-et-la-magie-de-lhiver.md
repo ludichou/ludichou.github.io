@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Noah et la magie de l'hiver de Julia Rawlinson et Tiphanie Beeke.
-description: Après NOah fête l'été puis Noah et les feuilles de l'automne, nous avons eu envie de découvrir celui-ci.
+description: Après Noah fête l'été puis Noah et les feuilles de l'automne, nous avons eu envie de découvrir celui-ci.
 date: 2025-12-10 20:00:00 +0300
 author: Armelle
 image: 'images/noah-et-la-magie-de-lhiver-cover.jpg'
