@@ -26,7 +26,7 @@ Date de parution : 17 octobre 2025.
 
 ![Des illustrations magnifiques](images/histoires-au-hasard-pour-sendormir-int.jpg)
 *Des illustrations magnifiques*
-- Mes garçons ont adoré tourner la flèche pour choisir l’histoire. Mon aîné s’exclamait : " Ah, c’est le 4 ! On va voir laquelle c’est ! ". Le côté interactif et ludique les plonge immédiatement dans l’histoire et rend le moment encore plus vivant.
+- Mes garçons ont adoré tourner la flèche pour choisir l’histoire. Mon aîné s’exclamait : " Ah, c’est le 4 ! On va voir laquelle c’est ! ". Le côté interactif et ludique les plonge immédiatement dans l’histoire.
 - Le livre propose 12 histoires, mêlant amitié, espoir et humour, parfaites pour accompagner les enfants vers un doux moment de lecture.
 
 Vous pouvez le retrouver ici sur la Fnac: [Histoires au hasard pour s'endormir](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa21822098%2FCollectif-Histoires-au-hasard-pour-s-endormir).
