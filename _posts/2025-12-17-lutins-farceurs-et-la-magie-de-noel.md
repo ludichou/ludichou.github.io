@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Les lutins farceurs et la magie de Noël de Carole Bourset et Anastasia Zababashkina.
-description: 
+description: Un album plein de malice où des lutins farceurs débarquent dans une famille pour animer les jours précédant Noël.
 date: 2025-12-17 20:00:00 +0300
 author: Armelle
 image: 'images/lutins-farceurs-et-la-magie-de-noel-cover.jpg'
