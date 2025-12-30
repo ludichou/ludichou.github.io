@@ -6,7 +6,7 @@ date: 2025-11-24 20:00:00 +0300
 author: Armelle
 image: 'images/un-toit-pour-noel-cover.jpg'
 tags: ["Noel","Amitie","Valeurs"]
-featured: true
+featured: false
 toc: true
 ---
 

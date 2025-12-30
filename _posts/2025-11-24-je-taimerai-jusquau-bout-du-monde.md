@@ -6,7 +6,7 @@ date: 2025-11-24 20:00:00 +0300
 author: Armelle
 image: 'images/je-taimerai-jusquau-bout-du-monde-cover.jpg'
 tags: ["Valeurs"]
-featured: true
+featured: false
 toc: true
 ---
 
