@@ -6,7 +6,7 @@ date: 2025-12-17 20:00:00 +0300
 author: Armelle
 image: 'images/lutins-farceurs-et-la-magie-de-noel-cover.jpg'
 tags: ["Noel"]
-featured: true
+featured: false
 toc: true
 ---
 

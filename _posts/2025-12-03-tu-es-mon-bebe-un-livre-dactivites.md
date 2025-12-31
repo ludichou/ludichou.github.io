@@ -6,7 +6,7 @@ date: 2025-12-03 20:00:00 +0300
 author: Armelle
 image: 'images/tu-es-mon-bebe-un-livre-dactivites-cover.jpg'
 tags: ["Eveil"]
-featured: true
+featured: false
 toc: true
 ---
 

@@ -6,7 +6,7 @@ date: 2025-12-02 20:00:00 +0300
 author: Armelle
 image: 'images/mon-chat-autour-du-monde-cover.jpg'
 tags: ["Noel"]
-featured: true
+featured: false
 toc: true
 ---
 

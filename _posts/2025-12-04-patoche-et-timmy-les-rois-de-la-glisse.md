@@ -6,7 +6,7 @@ date: 2025-12-01 20:00:00 +0300
 author: Armelle
 image: 'images/patoche-timmy-les-rois-de-la-glisse-cover.jpg'
 tags: ["Hiver","Amitie"]
-featured: true
+featured: false
 toc: true
 ---
 

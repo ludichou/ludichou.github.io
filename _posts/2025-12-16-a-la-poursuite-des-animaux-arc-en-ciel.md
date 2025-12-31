@@ -6,7 +6,7 @@ date: 2025-12-16 20:00:00 +0300
 author: Armelle
 image: 'images/a-la-pousuite-des-animaux-arc-en-ciel-cover.jpg'
 tags: ["Roman","Emotion","Amitie","Depression"]
-featured: true
+featured: false
 toc: true
 ---
 

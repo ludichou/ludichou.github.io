@@ -6,7 +6,7 @@ date: 2025-12-02 20:00:00 +0300
 author: Armelle
 image: 'images/cest-quoi-la-neige-cover.jpg'
 tags: ["Hiver","Saison"]
-featured: true
+featured: false
 toc: true
 ---
 

@@ -6,7 +6,7 @@ date: 2025-12-12 20:00:00 +0300
 author: Armelle
 image: 'images/noel-dans-le-grand-arbre-cover.jpg'
 tags: ["Noel"]
-featured: true
+featured: false
 toc: true
 ---
 

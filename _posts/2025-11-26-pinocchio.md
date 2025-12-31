@@ -6,7 +6,7 @@ date: 2025-11-26 20:00:00 +0300
 author: Armelle
 image: 'images/pinocchio-cover.jpg'
 tags: ["Conte","Livre audio"]
-featured: true
+featured: false
 toc: true
 ---
 

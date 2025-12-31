@@ -6,7 +6,7 @@ date: 2025-12-05 20:00:00 +0300
 author: Armelle
 image: 'images/le-plus-fabuleux-concert-de-tous-les-temps-cover.jpg'
 tags: ["Noel"]
-featured: true
+featured: false
 toc: true
 ---
 

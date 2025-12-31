@@ -6,7 +6,7 @@ date: 2025-11-27 20:00:00 +0300
 author: Armelle
 image: 'images/vivement-noel-cover.jpg'
 tags: ["Noel"]
-featured: true
+featured: false
 toc: true
 ---
 

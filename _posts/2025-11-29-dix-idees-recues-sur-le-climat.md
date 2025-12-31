@@ -6,7 +6,7 @@ date: 2025-11-29 20:00:00 +0300
 author: Armelle
 image: 'images/10-idees-recues-sur-le-climat-cover.jpg'
 tags: ["Réchauffement climatique","Documentaire"]
-featured: true
+featured: false
 toc: true
 ---
 

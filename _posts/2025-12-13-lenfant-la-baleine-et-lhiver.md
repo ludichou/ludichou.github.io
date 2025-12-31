@@ -6,7 +6,7 @@ date: 2025-12-13 20:00:00 +0300
 author: Armelle
 image: 'images/lenfant-la-baleine-et-lhiver-cover.jpg'
 tags: ["Hiver","Saison","Amitie"]
-featured: true
+featured: false
 toc: true
 ---
 

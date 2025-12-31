@@ -6,7 +6,7 @@ date: 2025-12-06 20:00:00 +0300
 author: Armelle
 image: 'images/le-joyeux-noel-des-animaux-cover.jpg'
 tags: ["Noel","Valeurs"]
-featured: true
+featured: false
 toc: true
 ---
 

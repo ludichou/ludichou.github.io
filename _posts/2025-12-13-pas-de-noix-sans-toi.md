@@ -6,7 +6,7 @@ date: 2025-12-13 20:00:00 +0300
 author: Armelle
 image: 'images/pas-de-noix-sans-toi-cover.jpg'
 tags: ["Automne","Valeurs"]
-featured: true
+featured: false
 toc: true
 ---
 

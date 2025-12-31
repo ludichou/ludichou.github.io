@@ -6,7 +6,7 @@ date: 2025-12-06 20:00:00 +0300
 author: Armelle
 image: 'images/les-creatures-fantastiques-cover.jpg'
 tags: ["Stickers"]
-featured: true
+featured: false
 toc: true
 ---
 
