@@ -6,7 +6,7 @@ date: 2025-11-04 20:00:00 +0300
 author: Armelle
 image: 'images/le-petit-fantome-en-edredon-decouvre-noel-cover.jpg'
 tags: ["Noel","Fantôme"]
-featured: true
+featured: false
 toc: true
 ---
 

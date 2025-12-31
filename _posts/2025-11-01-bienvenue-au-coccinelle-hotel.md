@@ -6,7 +6,7 @@ date: 2025-11-01 20:00:00 +0300
 author: Armelle
 image: 'images/bienvenue-au-coccinelle-hotel-cover.jpg'
 tags: ["Forêt","Insectes","Hiver","Documentaire"]
-featured: true
+featured: false
 toc: true
 ---
 

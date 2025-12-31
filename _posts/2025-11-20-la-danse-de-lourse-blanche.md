@@ -6,7 +6,7 @@ date: 2025-11-20 20:00:00 +0300
 author: Armelle
 image: 'images/la-danse-de-lourse-blanche-cover.jpg'
 tags: ["Ours","Hiver"]
-featured: true
+featured: false
 toc: true
 ---
 

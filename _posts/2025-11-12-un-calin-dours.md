@@ -6,7 +6,7 @@ date: 2025-11-12 20:00:00 +0300
 author: Armelle
 image: 'images/un-calin-dours-cover.jpg'
 tags: ["Ours","Amitie","Tolerance","Hiver"]
-featured: true
+featured: false
 toc: true
 ---
 

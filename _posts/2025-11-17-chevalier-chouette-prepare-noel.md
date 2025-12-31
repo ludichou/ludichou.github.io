@@ -6,7 +6,7 @@ date: 2025-11-17 20:00:00 +0300
 author: Armelle
 image: 'images/chevalier-chouette-prepare-noel-cover.jpg'
 tags: ["Noel","Amitie"]
-featured: true
+featured: false
 toc: true
 ---
 

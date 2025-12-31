@@ -6,7 +6,7 @@ date: 2025-11-10 20:00:00 +0300
 author: Armelle
 image: 'images/mon-grand-livre-a-toucher-cover.jpg'
 tags: ["Eveil"]
-featured: true
+featured: false
 toc: true
 ---
 

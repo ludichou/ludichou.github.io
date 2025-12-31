@@ -6,7 +6,7 @@ date: 2025-10-26 20:00:00 +0300
 author: Armelle
 image: 'images/falling-like-leaves-cover.jpg'
 tags: ["Automne","Roman","Amour","Romance"]
-featured: true
+featured: false
 toc: true
 ---
 

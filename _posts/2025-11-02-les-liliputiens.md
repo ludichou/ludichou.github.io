@@ -6,7 +6,7 @@ date: 2025-11-02 20:00:00 +0300
 author: Armelle
 image: 'images/baby-boom-cover.jpg'
 tags: ["Livre d'activités","Eveil"]
-featured: true
+featured: false
 toc: true
 ---
 

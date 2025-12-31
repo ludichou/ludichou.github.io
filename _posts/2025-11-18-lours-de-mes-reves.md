@@ -6,7 +6,7 @@ date: 2025-11-18 20:00:00 +0300
 author: Armelle
 image: 'images/lours-de-mes-reves-cover.jpg'
 tags: ["Ours","Amitié","Aventure","Anniversaire"]
-featured: true
+featured: false
 toc: true
 ---
 

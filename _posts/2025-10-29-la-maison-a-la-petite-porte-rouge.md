@@ -6,7 +6,7 @@ date: 2025-10-29 20:00:00 +0300
 author: Armelle
 image: 'images/la-maison-a-la-petite-porte-rouge-cover.jpg'
 tags: ["Amitié","Flaps","Aventure"]
-featured: true
+featured: false
 toc: true
 ---
 

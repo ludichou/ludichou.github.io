@@ -6,7 +6,7 @@ date: 2025-10-28 20:00:00 +0300
 author: Armelle
 image: 'images/collection-les-ptits-potes-cover.jpg'
 tags: ["BD","Documentaire","Déménagement","Piscine","Bébé","Amitié"]
-featured: true
+featured: false
 toc: true
 ---
 

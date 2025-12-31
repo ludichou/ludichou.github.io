@@ -6,7 +6,7 @@ date: 2025-11-08 20:00:00 +0300
 author: Armelle
 image: 'images/bou-et-la-fete-dhiver-cover.jpg'
 tags: ["Hiver","Saison","Sorcière","Humour"]
-featured: true
+featured: false
 toc: true
 ---
 

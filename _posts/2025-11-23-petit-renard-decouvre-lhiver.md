@@ -6,7 +6,7 @@ date: 2025-11-23 20:00:00 +0300
 author: Armelle
 image: 'images/petit-renard-decouvre-lhiver-cover.jpg'
 tags: ["Hiver","Saison"]
-featured: true
+featured: false
 toc: true
 ---
 

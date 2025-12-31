@@ -6,7 +6,7 @@ date: 2025-11-10 20:00:00 +0300
 author: Armelle
 image: 'images/comment-je-suis-devenue-lapprentie-du-pere-noel-cover.jpg'
 tags: ["Noel","Humour"]
-featured: true
+featured: false
 toc: true
 ---
 

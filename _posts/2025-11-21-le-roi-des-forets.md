@@ -6,7 +6,7 @@ date: 2025-11-21 20:00:00 +0300
 author: Armelle
 image: 'images/le-roi-des-forets-cover.jpg'
 tags: ["Amitie","Difference","Hiver","Noel"]
-featured: true
+featured: false
 toc: true
 ---
 

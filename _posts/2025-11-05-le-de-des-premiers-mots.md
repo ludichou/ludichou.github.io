@@ -6,7 +6,7 @@ date: 2025-11-05 20:00:00 +0300
 author: Armelle
 image: 'images/le-de-des-premiers-mots-cover.jpg'
 tags: ["Jeu éducatif","Langage"]
-featured: true
+featured: false
 toc: true
 ---
 

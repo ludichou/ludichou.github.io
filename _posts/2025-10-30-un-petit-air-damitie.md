@@ -6,7 +6,7 @@ date: 2025-10-30 20:00:00 +0300
 author: Armelle
 image: 'images/un-petit-air-damitie-cover.jpg'
 tags: ["Amitié","Emotions"]
-featured: true
+featured: false
 toc: true
 ---
 

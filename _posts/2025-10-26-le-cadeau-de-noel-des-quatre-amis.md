@@ -6,7 +6,7 @@ date: 2025-10-26 20:00:00 +0300
 author: Armelle
 image: 'images/le-cadeau-de-noel-des-quatre-amis-cover.jpg'
 tags: ["Noel","Amitié"]
-featured: true
+featured: false
 toc: true
 ---
 

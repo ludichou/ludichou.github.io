@@ -6,7 +6,7 @@ date: 2025-11-06 20:00:00 +0300
 author: Armelle
 image: 'images/foxy-et-meg-trouvent-un-mais-mais-cover.jpg'
 tags: ["Aventure","Humour","Amitié"]
-featured: true
+featured: false
 toc: true
 ---
 

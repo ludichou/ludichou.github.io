@@ -6,7 +6,7 @@ date: 2025-11-19 20:00:00 +0300
 author: Armelle
 image: 'images/je-deteste-lhiver-cover.jpg'
 tags: ["Hiver","Amitie"]
-featured: true
+featured: false
 toc: true
 ---
 

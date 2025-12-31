@@ -6,7 +6,7 @@ date: 2025-11-09 20:00:00 +0300
 author: Armelle
 image: 'images/le-guide-du-royaume-des-neiges-cover.jpg'
 tags: ["Chateau","Aventure","Magie"]
-featured: true
+featured: false
 toc: true
 ---
 

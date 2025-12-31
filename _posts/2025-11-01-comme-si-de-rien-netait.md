@@ -6,7 +6,7 @@ date: 2025-11-01 20:00:00 +0300
 author: Armelle
 image: 'images/comme-si-de-rien-netait-cover.jpg'
 tags: ["Roman"]
-featured: true
+featured: false
 toc: true
 ---
 

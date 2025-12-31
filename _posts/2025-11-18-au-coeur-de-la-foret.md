@@ -6,7 +6,7 @@ date: 2025-11-18 20:00:00 +0300
 author: Armelle
 image: 'images/au-coeur-de-la-foret-cover.jpg'
 tags: ["Ours","Amitié","Hiver"]
-featured: true
+featured: false
 toc: true
 ---
 

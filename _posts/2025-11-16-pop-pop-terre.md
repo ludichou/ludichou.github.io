@@ -6,7 +6,7 @@ date: 2025-11-16 20:00:00 +0300
 author: Armelle
 image: 'images/pop-up-terre-cover.jpg'
 tags: ["Terre","Documentaire","Pop-up"]
-featured: true
+featured: false
 toc: true
 ---
 

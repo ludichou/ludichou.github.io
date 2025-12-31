@@ -6,7 +6,7 @@ date: 2025-11-11 20:00:00 +0300
 author: Armelle
 image: 'images/7-histoires-pour-bien-grandir-cover.jpg'
 tags: ["Emotions","Confiance en soi","Aventure"]
-featured: true
+featured: false
 toc: true
 ---
 

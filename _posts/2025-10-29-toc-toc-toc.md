@@ -6,7 +6,7 @@ date: 2025-10-29 20:00:00 +0300
 author: Armelle
 image: 'images/toc-toc-toc-cover.jpg'
 tags: ["Aventure","Amitié"]
-featured: true
+featured: false
 toc: true
 ---
 

@@ -6,7 +6,7 @@ date: 2025-11-03 20:00:00 +0300
 author: Armelle
 image: 'images/le-premier-hiver-de-renardeau-cover.jpg'
 tags: ["Hiver","Saison"]
-featured: true
+featured: false
 toc: true
 ---
 

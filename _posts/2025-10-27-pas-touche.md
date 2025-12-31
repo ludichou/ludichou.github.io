@@ -6,7 +6,7 @@ date: 2025-10-27 21:00:00 +0300
 author: Armelle
 image: 'images/pas-touche-cover.jpg'
 tags: ["Automne","Emotions"]
-featured: true"
+featured: false
 toc: true
 ---
 

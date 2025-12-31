@@ -6,7 +6,7 @@ date: 2025-10-31 20:00:00 +0300
 author: Armelle
 image: 'images/un-renard-sous-les-etoiles-cover.jpg'
 tags: ["Hiver","Saison","Magie","Amitié","Valeurs"]
-featured: true
+featured: false
 toc: true
 ---
 

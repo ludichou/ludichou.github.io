@@ -6,7 +6,7 @@ date: 2025-11-11 20:00:00 +0300
 author: Armelle
 image: 'images/enquete-a-londres-cover.webp'
 tags: ["Livre-jeu"]
-featured: true
+featured: false
 toc: true
 ---
 

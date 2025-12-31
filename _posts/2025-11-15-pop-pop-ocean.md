@@ -6,7 +6,7 @@ date: 2025-11-15 20:00:00 +0300
 author: Armelle
 image: 'images/pop-pop-ocean-cover.jpg'
 tags: ["Ocean","Documentaire","Pop-up"]
-featured: true
+featured: false
 toc: true
 ---
 

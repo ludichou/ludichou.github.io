@@ -6,7 +6,7 @@ date: 2025-11-14 20:00:00 +0300
 author: Armelle
 image: 'images/un-noel-tous-ensemble-cover.jpg'
 tags: ["Noel","Animaux"]
-featured: true
+featured: false
 toc: true
 ---
 
