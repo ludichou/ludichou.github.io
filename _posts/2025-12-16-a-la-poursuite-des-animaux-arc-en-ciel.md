@@ -21,11 +21,11 @@ Date de parution :  8 mars 2024.
 
 ## Résumé
 
-" Ça va très bien. Nora se le répète souvent. Alors pourquoi tout lr monde lui tend la main pour lui proposer de l'aide".
+" Ça va très bien. Nora se le répète souvent. Alors pourquoi tout le monde lui tend la main pour lui proposer de l'aide".
 
 " Face à la dépression de sa maman, Nora fait son maximum pour que les choses redeviennent comme avant. Surtout, elle veut se débrouiller seule. Tout bascule le jour où elle reçoit la visite d’animaux arc-en-ciel qui semblent la guider vers de nouveaux amis. Parfois, il faut la magie de l’amitié pour apprendre à gérer ses émotions, demander de l’aide et, le plus important, accepter d’en recevoir.
 
-" En fin d'ouvrage, des conseils pour apprendre à gérer ses émotions et son stress. Des bonus réalisés en collaboration avec Sarah Marquant, enseignante spécialisée, rattrachée au service de pédiatrie du CHU d'Amiens".
+" En fin d'ouvrage, des conseils pour apprendre à gérer ses émotions et son stress. Des bonus réalisés en collaboration avec Sarah Marquant, enseignante spécialisée, rattachée au service de pédiatrie du CHU d'Amiens".
 
 ## Pourquoi j'aime À la poursuite des animaux arc-en-ciel ?
 
