@@ -6,7 +6,7 @@ date: 2025-12-18 20:00:00 +0300
 author: Armelle
 image: 'images/lhiver-de-petit-renard-cover.jpg'
 tags: ["Hiver","Saison","Amitie"]
-featured: true
+featured: false
 toc: true
 ---
 
