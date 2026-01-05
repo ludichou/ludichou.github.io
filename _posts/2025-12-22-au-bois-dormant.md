@@ -28,7 +28,7 @@ Date de parution : 21 octobre 2020
 
 ![Des illustrations magnifiques](images/au-bois-dormant-int.jpg)
 *Des illustrations magnifiques*
-- On suit une petite fille et son chien qui se promènent dans la forêt et découvrent les animaux en pleine hibernation : un ours, un élan, un faon, un renard, un lièvre, une tortue… et bien d’autres encore.
+- On suit une petite fille et son chien qui se promènent dans la forêt et découvrent les animaux en pleine hibernation : un ours, un élan, un faon, un renard, un lièvre, une tortue... et bien d’autres encore.
 - Chaque rencontre est racontée avec beaucoup de poésie, en mettant en valeur les particularités de chaque animal.
 - C’est une belle invitation à observer la nature, à ralentir, à prendre le temps de regarder et d’écouter ce qui nous entoure.
 

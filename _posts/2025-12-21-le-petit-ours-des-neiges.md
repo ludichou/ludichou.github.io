@@ -6,7 +6,7 @@ date: 2025-12-20 20:00:00 +0300
 author: Armelle
 image: 'images/le-petit-ours-des-neiges-cover.jpg'
 tags: ["Hiver","Ours","Amitie"]
-featured: true
+featured: false
 toc: true
 ---
 

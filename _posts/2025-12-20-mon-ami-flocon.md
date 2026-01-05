@@ -6,7 +6,7 @@ date: 2025-12-20 20:00:00 +0300
 author: Armelle
 image: 'images/mon-ami-flocon-cover.jpg'
 tags: ["Noel","Amitie","Ours"]
-featured: true
+featured: false
 toc: true
 ---
 
