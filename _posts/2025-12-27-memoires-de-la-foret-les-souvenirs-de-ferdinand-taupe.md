@@ -31,7 +31,7 @@ Date de parution : 5 novembre 2025
 
 ## Pourquoi on aime Mémoires De La Forêt - Les souvenirs de Ferdinand Taupe - Édition prestige : Mémoires de la forêt - Tome 1 ?
 
-![Résumé des deux versions](images/memoires-de-la-foret-les-souvenirs-de-ferdinand-taupe-cover.jpg)
+![Résumé des deux versions](images/memoires-de-la-foret-les-souvenirs-de-ferdinand-taupe-int.jpg)
 *Résumé*
 - Les illustrations sont magnifiques et on y découvre l’univers de la forêt.
 - J’ai adoré découvrir la librairie de Bellécorce et rencontrer ses habitants : Archibald, Ferdinand Taupe, Maude, Élisabeth la poule... Les personnages sont touchants.
