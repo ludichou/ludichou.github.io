@@ -6,7 +6,7 @@ date: 2025-12-22 20:00:00 +0300
 author: Armelle
 image: 'images/au-bois-dormant-cover.jpg'
 tags: ["Hiver","Saison"]
-featured: true
+featured: false
 toc: true
 ---
 

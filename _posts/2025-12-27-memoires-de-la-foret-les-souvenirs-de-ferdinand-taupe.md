@@ -25,7 +25,7 @@ Date de parution : 5 novembre 2025
 
 " - Si, si... C'est juste que... Ça a le goût de...".
 
-" - Le gût de quoi, être compère?".
+" - Le goût de quoi, être compère?".
 
 " - Le goût du souvenir".
 
