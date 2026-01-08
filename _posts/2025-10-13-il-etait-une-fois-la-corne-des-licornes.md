@@ -5,7 +5,7 @@ description: On a adoré suivre Jeanne et le petit poney, une rencontre inattend
 date: 2025-10-13 20:00:00 +0300
 author: Armelle
 image: 'images/il-etait-une-fois-la-corne-des-licornes-cover.jpg'
-tags: ["Magie","Amitié","Confiance en soi"]
+tags: ["Magie","Amitié","Confiance"]
 featured: false
 toc: true
 ---

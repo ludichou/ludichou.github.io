@@ -5,7 +5,7 @@ description: Un livre magnifique, qui valorise l’enfant, lui montre qu’il es
 date: 2025-07-12 20:00:00 +0300
 author: Armelle
 image: 'images/ce-tresor-cest-toi-cover.jpg'
-tags: ["Valeurs", "Confiance en soi","Rêves"]
+tags: ["Valeurs", "Confiance","Rêves"]
 featured: false
 toc: true
 ---

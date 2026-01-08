@@ -5,7 +5,7 @@ description: Une nouvelle voisine un peu étrange, des enfants curieux et une en
 date: 2025-10-01 20:00:00 +0300
 author: Armelle
 image: 'images/ma-voisine-est-une-sorciere-cover.jpg'
-tags: ["Sorcière","Roman"]
+tags: ["Sorcière","Halloween"]
 featured: true
 toc: true
 ---

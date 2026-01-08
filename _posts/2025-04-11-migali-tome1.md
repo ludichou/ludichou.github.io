@@ -14,7 +14,7 @@ toc: true
 Langue : Français.                 
 Editeur : Auzou.  
 Auteur : Alexandre Arlène et Fabien Öckto Lambert.  
-Age: 9 - 12 ans.  
+Age: 9-12 ans.  
 Date de Publication : 4 mars 2021.  
 
 Mon fils de 4 ans et demi a découvert avec plaisir le format BD. Après lui avoir expliqué comment la lire, il a beaucoup ri en suivant les aventures de Migali et de son chat, surtout lors de la scène du bain !

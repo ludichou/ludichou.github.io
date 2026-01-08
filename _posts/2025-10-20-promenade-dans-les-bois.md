@@ -5,7 +5,7 @@ description: Un album qui invite à s’émerveiller de la nature en automne et 
 date: 2025-10-20 20:00:00 +0300
 author: Armelle
 image: 'images/promenade-dans-les-bois-cover.jpg'
-tags: ["Eveil","Foret","Automne"]
+tags: ["Eveil","Forêt","Automne"]
 featured: true
 toc: true
 ---

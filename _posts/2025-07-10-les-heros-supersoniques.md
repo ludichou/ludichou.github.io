@@ -5,7 +5,7 @@ description: Après l'école des monstres, que mon fils a beaucoup apprécié, n
 date: 2025-07-10 20:00:00 +0300
 author: Armelle
 image: 'images/les-heros-supersoniques-cover.jpg'
-tags: ["Jeu éducatif", "Prononciation"]
+tags: ["Jeux éducatif", "Prononciation"]
 featured: false
 toc: true
 ---

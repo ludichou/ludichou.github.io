@@ -5,7 +5,7 @@ description: Avec le retour des beaux jours, j’avais envie de proposer à mon 
 date: 2025-03-27 21:00:00 +0300
 author: Armelle
 image: 'images/kit-explorateur-cover.jpg'
-tags: ["Activités", "Nature"]
+tags: ["Nature"]
 featured: false
 toc: true
 ---

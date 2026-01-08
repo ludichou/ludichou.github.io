@@ -5,7 +5,7 @@ description: "Mon fils adore les pop-up, les licornes et les carrousels : un én
 date: 2025-11-25 20:00:00 +0300
 author: Armelle
 image: 'images/la-legende-des-licornes-cover.jpg'
-tags: ["Licornes","Pop-up"]
+tags: ["Licorne","Pop-up"]
 featured: false
 toc: true
 ---

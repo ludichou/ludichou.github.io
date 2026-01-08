@@ -5,7 +5,7 @@ description: Un livre qui permet d’aborder les émotions à travers des situat
 date: 2025-11-11 20:00:00 +0300
 author: Armelle
 image: 'images/7-histoires-pour-bien-grandir-cover.jpg'
-tags: ["Emotions","Confiance en soi","Aventure"]
+tags: ["Emotions","Confiance","Aventure"]
 featured: false
 toc: true
 ---

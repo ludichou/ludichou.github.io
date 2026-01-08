@@ -5,7 +5,7 @@ description: Je dis souvent à mon fils qu’il est important d’être soi-mêm
 date: 2025-04-15 21:00:00 +0300
 author: Armelle
 image: 'images/sois-toi-meme-petite-abeille-cover.jpg'
-tags: ["Abeilles","Confiance en soi","Eté", "Valeurs"]
+tags: ["Abeilles","Confiance","Eté", "Valeurs"]
 featured: false
 toc: true
 ---

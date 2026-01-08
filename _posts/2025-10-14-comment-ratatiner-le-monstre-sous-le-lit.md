@@ -5,7 +5,7 @@ description: Mon fils a adoré ce livre plein d’astuces pour ratatiner les mon
 date: 2025-10-14 20:00:00 +0300
 author: Armelle
 image: 'images/comment-ratatiner-un-monstre-sous-le-lit-cover.jpg'
-tags: ["Monstres","Peur","Emotions","Sommeil",]
+tags: ["Monstres","Peur","Emotions","Sommeil"]
 featured: true
 toc: true
 ---

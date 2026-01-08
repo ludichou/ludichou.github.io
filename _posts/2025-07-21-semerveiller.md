@@ -5,7 +5,7 @@ description: Un livre inspirant qui nous invite à ralentir, à observer ce qui 
 date: 2025-07-21 20:00:00 +0300
 author: Armelle
 image: 'images/semerveiller-cover.jpg'
-tags: ["Bonheurs","Valeurs"]
+tags: ["Bonheur","Valeurs"]
 featured: false
 toc: true
 ---

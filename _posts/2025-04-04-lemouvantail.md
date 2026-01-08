@@ -5,7 +5,7 @@ description: Une BD originale et de l'humour qui invite à suivre un épouvantai
 date: 2025-04-04 15:01:35 +0300
 author: Armelle
 image: 'images/lemouvantail-cover.jpg'
-tags: ["BD",Humour"]
+tags: ["BD","Humour"]
 featured: false
 toc: true
 ---

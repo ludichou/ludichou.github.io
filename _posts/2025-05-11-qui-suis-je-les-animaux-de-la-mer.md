@@ -5,7 +5,7 @@ description: Un livre éducatif et ludique pour en apprendre plus sur les animau
 date: 2025-05-11 22:00:00 +0300
 author: Armelle
 image: 'images/qui-suis-je-les-animaux-de-la-mer-cover.jpg'
-tags: ["Livre-jeu éducatif"]
+tags: ["Cherche et trouve"]
 featured: false
 toc: true
 ---

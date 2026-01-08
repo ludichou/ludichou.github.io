@@ -5,7 +5,7 @@ description: "Mon fils adore inventer et raconter des histoires : un vrai coup d
 date: 2025-11-06 20:00:00 +0300
 author: Armelle
 image: 'images/histoire-de-raconter-cover.jpg'
-tags: ["Jeu éducatif"]
+tags: ["Jeux éducatifs"]
 featured: false
 toc: true
 ---

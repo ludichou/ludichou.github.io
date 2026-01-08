@@ -5,7 +5,7 @@ description: Un récit touchant qui montre que, même après le deuil d’un pro
 date: 2025-10-19 20:00:00 +0300
 author: Armelle
 image: 'images/julie-capable-cover.jpg'
-tags: ["Deuil","Confiance en soi"]
+tags: ["Deuil","Confiance"]
 featured: false
 toc: true
 ---

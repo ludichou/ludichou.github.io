@@ -15,7 +15,7 @@ toc: true
 Langue : Français.  
 Auteur : Séverine Vidal.  
 Illustrations : Louis Thomas.                     
-Editeur :  Milan.              
+Editeur : Milan.              
 Age : Dès 3 ans.                            
 Date de parution : 20 août 2025.         
 
