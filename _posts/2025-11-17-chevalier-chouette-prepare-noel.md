@@ -5,7 +5,7 @@ description: Chevalier Chouette et Petite Oiselle nous entraînent dans une douc
 date: 2025-11-17 20:00:00 +0300
 author: Armelle
 image: 'images/chevalier-chouette-prepare-noel-cover.jpg'
-tags: ["Noel","Amitie"]
+tags: ["Noel","Amitié"]
 featured: false
 toc: true
 ---

@@ -5,7 +5,7 @@ description: Une histoire qui fait grandir, qui renforce la confiance et qui met
 date: 2025-11-20 20:00:00 +0300
 author: Armelle
 image: 'images/lodysee-damanite-cover.jpg'
-tags: ["Documentaire","Champignons","Amitie"]
+tags: ["Documentaire","Champignons","Amitié"]
 featured: false
 toc: true
 ---

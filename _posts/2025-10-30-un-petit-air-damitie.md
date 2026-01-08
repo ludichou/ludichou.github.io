@@ -4,7 +4,7 @@ title: Un petit air d'amitié de Corinne Averiss et Fiona Woodcock
 description: Une belle histoire d’amitié, d’entraide et de partage, où Chi un panda apprends à vaincre sa timidité et à aider les autres et reçoit en retour un magnifique cadeau d’amitié.
 date: 2025-10-30 20:00:00 +0300
 author: Armelle
-image: 'images/un-petit-air-damitie-cover.jpg'
+image: 'images/un-petit-air-damitié-cover.jpg'
 tags: ["Amitié","Emotions"]
 featured: false
 toc: true
@@ -27,12 +27,12 @@ Date de parution : 27 janvier 2023.
 
 ## Pourquoi on aime Un petit air d'amitié ?
 
-![Des illustrations magnifiques](images/un-petit-air-damitie-int.jpg)
+![Des illustrations magnifiques](images/un-petit-air-damitié-int.jpg)
 *Des illustrations magnifiques*
 - Chi est un panda timide qui aime observer la nature et écouter les bruits de la forêt. 
 Un jour, il entend une mélodie qui attire son attention. Intrigué, il s’approche et découvre un garçon jouant de la flûte. Surpris et un peu effrayé, Chi s’enfuit et retourne se réfugier dans son arbre. 
 - Mais bientôt, le garçon égare sa flûte et se perd dans la forêt. Inquiet, il appelle son grand-père... Chi va-t-il oser sortir de sa cachette pour l’aider ? Parviendra-t-il à le guider vers son chemin ?
 
-Vous pouvez le retrouver ici sur la Fnac: [Un petit air d'amitié](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa17465526%2FCorinne-Averiss-Un-petit-air-d-amitie%3Foref%3De7ff4562-a3df-4d78-a2fe-5fbb38a1e7f0).
+Vous pouvez le retrouver ici sur la Fnac: [Un petit air d'amitié](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa17465526%2FCorinne-Averiss-Un-petit-air-d-amitié%3Foref%3De7ff4562-a3df-4d78-a2fe-5fbb38a1e7f0).
 
 

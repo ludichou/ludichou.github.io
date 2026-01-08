@@ -5,7 +5,7 @@ description: Après un toit pour Noël, nous avons eu envie de découvrir cet al
 date: 2025-11-27 20:00:00 +0300
 author: Armelle
 image: 'images/le-merveilleux-noel-de-plume-cover.jpg'
-tags: ["Noel","Amitie"]
+tags: ["Noel","Amitié"]
 featured: false
 toc: true
 ---

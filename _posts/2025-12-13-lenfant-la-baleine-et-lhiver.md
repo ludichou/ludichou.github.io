@@ -5,7 +5,7 @@ description: On retrouve Noé et la baleine dans une nouvelle histoire d’hiver
 date: 2025-12-13 20:00:00 +0300
 author: Armelle
 image: 'images/lenfant-la-baleine-et-lhiver-cover.jpg'
-tags: ["Hiver","Saison","Amitie"]
+tags: ["Hiver","Saison","Amitié"]
 featured: false
 toc: true
 ---

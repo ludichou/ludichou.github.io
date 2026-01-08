@@ -5,7 +5,7 @@ description: Les histoires d’ours ont toujours une place spéciale chez nous, 
 date: 2025-12-20 20:00:00 +0300
 author: Armelle
 image: 'images/mon-ami-flocon-cover.jpg'
-tags: ["Noel","Amitie","Ours"]
+tags: ["Noel","Amitié","Ours"]
 featured: false
 toc: true
 ---

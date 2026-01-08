@@ -5,7 +5,7 @@ description: "Ici, on adore les histoires d’ours, et celle-ci en particulier :
 date: 2025-11-12 20:00:00 +0300
 author: Armelle
 image: 'images/un-calin-dours-cover.jpg'
-tags: ["Ours","Amitie","Tolerance","Hiver"]
+tags: ["Ours","Amitié","Tolerance","Hiver"]
 featured: false
 toc: true
 ---

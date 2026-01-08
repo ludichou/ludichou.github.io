@@ -5,7 +5,7 @@ description: Une histoire pleine d’humour portée par Pøl et Norr, une fille 
 date: 2025-12-23 20:00:00 +0300
 author: Armelle
 image: 'images/pol-et-norr-cover.jpg'
-tags: ["Amitie","Ours"]
+tags: ["Amitié","Ours"]
 featured: false
 toc: true
 ---

@@ -5,7 +5,7 @@ description: Dans cette aventure, on suit Souricette en quête d’un abri pour 
 date: 2025-11-24 20:00:00 +0300
 author: Armelle
 image: 'images/un-toit-pour-noel-cover.jpg'
-tags: ["Noel","Amitie","Valeurs"]
+tags: ["Noel","Amitié","Valeurs"]
 featured: false
 toc: true
 ---

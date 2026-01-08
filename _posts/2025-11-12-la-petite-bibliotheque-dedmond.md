@@ -5,7 +5,7 @@ description: Nous adorons les histoires d’ours, et comme Édouard est aussi le
 date: 2025-11-12 20:00:00 +0300
 author: Armelle
 image: 'images/la-petite-bibliotheque-dedmond-cover.jpg'
-tags: ["Anniversaire","Neige","Ours","Amitie","Humour"]
+tags: ["Anniversaire","Neige","Ours","Amitié","Humour"]
 featured: false
 toc: true
 ---

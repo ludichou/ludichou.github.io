@@ -5,7 +5,7 @@ description: Un livre qui mêle la magie de Noël, l’anniversaire De Camille n
 date: 2025-11-28 20:00:00 +0300
 author: Armelle
 image: 'images/le-noel-de-la-grande-famille-cover.jpg'
-tags: ["Noel","Amitie","Anniversaire"]
+tags: ["Noel","Amitié","Anniversaire"]
 featured: false
 toc: true
 ---

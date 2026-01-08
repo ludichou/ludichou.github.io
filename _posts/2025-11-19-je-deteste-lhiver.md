@@ -5,7 +5,7 @@ description: Une belle histoire d’amitié, qui montre comment trouver un terra
 date: 2025-11-19 20:00:00 +0300
 author: Armelle
 image: 'images/je-deteste-lhiver-cover.jpg'
-tags: ["Hiver","Amitie"]
+tags: ["Hiver","Amitié"]
 featured: false
 toc: true
 ---

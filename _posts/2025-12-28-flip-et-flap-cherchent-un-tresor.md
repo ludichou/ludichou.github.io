@@ -5,7 +5,7 @@ description: Flip et Flap partent sur les traces d’un trésor… et on a ador�
 date: 2025-12-27 20:00:00 +0300
 author: Armelle
 image: 'images/flip-et-flap-cherchent-un-tresor-cover.jpg'
-tags: ["Amitie","Aventure"]
+tags: ["Amitié","Aventure"]
 featured: true
 toc: true
 ---

@@ -5,7 +5,7 @@ description: "Un livre qui parle de Noël, mais surtout du véritable sens des c
 date: 2025-11-30 20:00:00 +0300
 author: Armelle
 image: 'images/le-plus-beau-des-cadeaux-cover.jpg'
-tags: ["Noel","Valeurs","Amitie"]
+tags: ["Noel","Valeurs","Amitié"]
 featured: false
 toc: true
 ---

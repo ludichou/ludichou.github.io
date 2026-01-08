@@ -5,7 +5,7 @@ description: On suit les aventures du petit renard pour découvrir l'hiver et se
 date: 2025-12-18 20:00:00 +0300
 author: Armelle
 image: 'images/lhiver-de-petit-renard-cover.jpg'
-tags: ["Hiver","Saison","Amitie"]
+tags: ["Hiver","Saison","Amitié"]
 featured: false
 toc: true
 ---

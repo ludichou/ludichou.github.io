@@ -5,7 +5,7 @@ description: Quand l’hiver et la neige qui s’installe, Miss Lapin et ses ami
 date: 2025-12-14 20:00:00 +0300
 author: Armelle
 image: 'images/lhiver-de-miss-lapin-cover.jpg'
-tags: ["Hiver","Saison","Amitie"]
+tags: ["Hiver","Saison","Amitié"]
 featured: true
 toc: true
 ---
