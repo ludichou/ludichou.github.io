@@ -6,7 +6,7 @@ date: 2025-12-24 20:00:00 +0300
 author: Armelle
 image: 'images/une-vie-de-reve-cover.jpg'
 tags: ["Ours","Valeurs","Argent"]
-featured: true
+featured: false
 toc: true
 ---
 

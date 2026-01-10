@@ -6,7 +6,7 @@ date: 2025-12-26 20:00:00 +0300
 author: Armelle
 image: 'images/le-grand-reve-cover.jpg'
 tags: ["Hiver","Saison","Ours"]
-featured: true
+featured: false
 toc: true
 ---
 
