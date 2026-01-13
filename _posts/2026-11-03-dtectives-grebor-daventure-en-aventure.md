@@ -25,8 +25,7 @@ Date de parution : 29 août 2025.
 
 ## Pourquoi j'aime Détectives Grébor d'aventure en aventure ?
 
-![Des illustrations magnifiques](images/detectives-grebor-daventures-en-aventures-cover.jpg)
-*Des illustrations magnifiques*
+- De très belles illustrations.
 - On découvre la famille Grébor avec des personnages attachants : Ombeline, ses parents Anne, Tatave, Jojo et même Henri Pottier !
 - L’enquête est drôle, rythmée et pleine de rebondissements : je me suis beaucoup identifiée à Ombeline et j’essayais de deviner la suite à chaque page.
 - On suit aussi une mission complètement décalée : la disparition de la cassette de Madonna. Est ce qu'ils vont la retrouver? 
