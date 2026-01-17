@@ -6,7 +6,7 @@ date: 2025-12-27 20:00:00 +0300
 author: Armelle
 image: 'images/memoires-de-la-foret-les-souvenirs-de-ferdinand-taupe-cover.jpg'
 tags: ["Roman"]
-featured: true
+featured: false
 toc: true
 ---
 

@@ -6,7 +6,7 @@ date: 2026-01-03 20:00:00 +0300
 author: Armelle
 image: 'images/detectives-grebor-daventures-en-aventures-cover.jpg'
 tags: ["Roman","Enquete","Humour"]
-featured: true
+featured: false
 toc: true
 ---
 

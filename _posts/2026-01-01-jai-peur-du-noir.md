@@ -6,7 +6,7 @@ date: 2026-01-01 20:00:00 +0300
 author: Armelle
 image: 'images/jai-peur-du-noir-cover.jpg'
 tags: ["Amitié","Valeurs","Emotions"]
-featured: true
+featured: false
 toc: true
 ---
 
