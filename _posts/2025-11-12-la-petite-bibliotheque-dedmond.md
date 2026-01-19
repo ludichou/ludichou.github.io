@@ -23,7 +23,7 @@ Date de parution : 16 octobre 2025
 
 Le belle journée : " C'est une belle journée qui commence. L'ours Edouard et Edmond l'écureuil partent à la plage. Mais il se met soudain à pleuvoir".
 
-La soupe à tout : " EDmond a retrouvé le livre de cuisine de sa grand-mère avec la recette de la soupe à tout. Il décide de la refaire avec ses amis : chacun doit apporter un ingrédient, mais ce qui rend cette soupe vraiment extraordinaire, c'est l'ingrédient mystère...".
+La soupe à tout : " Edmond a retrouvé le livre de cuisine de sa grand-mère avec la recette de la soupe à tout. Il décide de la refaire avec ses amis : chacun doit apporter un ingrédient, mais ce qui rend cette soupe vraiment extraordinaire, c'est l'ingrédient mystère...".
 
 L'anniversaire d'Edmond : " Aujourd'hui, c'est l'anniversaire d'Edmond. Devant le miroir, il se sent un peu plus grand qu'hier. Il enfile sa toque de pompons, une cape et sort retrouver ses amis pour ce grand jour...".
 

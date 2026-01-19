@@ -26,8 +26,8 @@ Date de parution : 8 janvier 2026.
 
 ![De belles illustrations](images/mon-grand-imagier-des-animaux-int.jpg)
 *De belles illustrations*
-- Avec cet imagier, les enfants découvrent une multitude d’animaux : ceux du jardin, de la ferme , de la forêt , de la montagne , de la savane , de la jungle, mais aussi les animaux marins et ceux des pays chauds ou froids.
-- On peut nommer les animaux,  observer leurs couleurs, apprendre le nom du mâle, de la femelle et du bébé, enrichir le vocabulaire en douceur
+- Avec cet imagier, les enfants découvrent une multitude d’animaux : ceux du jardin, de la ferme , de la forêt , de la montagne , de la savane , de la jungle, mais aussi les animaux marins et ceux des pays chauds ou froid.
+- On peut nommer les animaux,  observer leurs couleurs, apprendre le nom du mâle, de la femelle et du bébé, enrichir le vocabulaire en douceur.
 - Un super support pour développer le langage tout en s’amusant !
 - Et en plus, son format solide et épais est parfait pour les petites mains : on feuillette, on pointe, on nomme... et on recommence ! 
 
