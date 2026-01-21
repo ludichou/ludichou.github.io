@@ -30,6 +30,3 @@ Date de parution : 19 juin 2024.
 - Sa maman lui propose alors un pot, sur lequel il s’installe confortablement… avec un bon livre pour imiter son papa.
 
 Vous pouvez le retrouver ici sur Amazon: [Toublou en a ras-la-couche](https://amzn.to/4l2iOuS).
-
-
-

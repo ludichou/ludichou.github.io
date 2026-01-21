@@ -2,7 +2,7 @@
 layout: post
 title: Tant que fleuriront les citronniers de Zoulfa Katouh.
 description: Ce roman raconte des destins bouleversés par la guerre, l’exil et la perte, mais aussi traversés par l’espoir. 
-date: 2026-01-10 20:00:00 +0300
+date: 2026-01-11 20:00:00 +0300
 author: Armelle
 image: 'images/tant-que-fleuriront-les-citronniers-cover.jpg'
 tags: ["Roman"]
@@ -14,7 +14,7 @@ toc: true
 
 Langue : Français.    
 Auteur : Zoulfa Katouh.  
-Traduxtion : Anne Guitton.                 
+Traduction : Anne Guitton.                 
 Editeur : Nathan.            
 Age : Dès 14 ans.                            
 Date de parution :  7 septembre 2023.       
