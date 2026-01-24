@@ -1,11 +1,11 @@
 ---
 layout: post
 title: De l'autre côté de l'arc-en-ciel de Blue Beatrice 
-description: 
+description: Une histoire poétique et plein de tendresse pour accompagner les enfants quand le changement les inquiète.
 date: 2026-01-15 20:00:00 +0300
 author: Armelle
 image: 'images/de-lautre-cote-de-larc-en-ciel-cover.jpg'
-tags: ["Magie"]
+tags: ["Magie","Amitié","Différence"]
 featured: true
 toc: true
 ---
@@ -28,6 +28,10 @@ Date de parution : 23 janvier 2026
 
 ![Des illustrations magnifiques](images/de-lautre-cote-de-larc-en-ciel-int.jpg)
 *Des illustrations magnifiques*
+- Mon fils a pu s’identifier au personnage d’Elio, qui a parfois peur du changement : se faire de nouveaux amis, découvrir de nouvelles choses.
+Un jour d’orage, Elio fait la rencontre de Séraphine, une petite flamma lumineuse, qui va lui faire vivre de nouvelles aventures. Ensemble, ils rencontrent de nouveaux amis, Séraphine le rassure, lui apprend la danse des saisons et lui transmet des messages apaisants :
+"La pluie laisse toujours place au soleil " et " le jour s’en va pour laisser briller les étoiles".
+- Un album à lire quand le changement fait peur... et qui permet de se rassurer.
 
 
 
