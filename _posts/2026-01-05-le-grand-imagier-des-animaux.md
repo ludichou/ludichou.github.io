@@ -6,7 +6,7 @@ date: 2026-01-06 20:00:00 +0300
 author: Armelle
 image: 'images/mon-grand-imagier-des-animaux-cover.jpg'
 tags: ["Animaux","Imagier"]
-featured: true
+featured: false
 toc: true
 ---
 

@@ -6,7 +6,7 @@ date: 2026-01-04 20:00:00 +0300
 author: Armelle
 image: 'images/courage-petit-ours-cover.jpg'
 tags: ["Ours","Emotion","Valeurs"]
-featured: true
+featured: false
 toc: true
 ---
 

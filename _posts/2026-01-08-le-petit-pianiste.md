@@ -6,7 +6,7 @@ date: 2026-01-08 20:00:00 +0300
 author: Armelle
 image: 'images/le-petit-pianiste-cover.jpg'
 tags: ["Harcelement","Ecole"]
-featured: true
+featured: false
 toc: true
 ---
 

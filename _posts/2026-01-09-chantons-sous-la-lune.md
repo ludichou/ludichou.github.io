@@ -6,7 +6,7 @@ date: 2026-01-09 20:00:00 +0300
 author: Armelle
 image: 'images/chantons-sous-la-lune-cover.jpg'
 tags: ["Livre musical","Ours","Amitié"]
-featured: true
+featured: false
 toc: true
 ---
 

@@ -6,7 +6,7 @@ date: 2026-01-11 20:00:00 +0300
 author: Armelle
 image: 'images/cest-comme-ca-que-je-taime-cover.jpg'
 tags: ["Amour","Valeurs"]
-featured: true
+featured: false
 toc: true
 ---
 

@@ -6,7 +6,7 @@ date: 2026-01-04 20:00:00 +0300
 author: Armelle
 image: 'images/lenfant-et-la-baleine-cover.jpg'
 tags: ["Amitie"]
-featured: true
+featured: false
 toc: true
 ---
 
