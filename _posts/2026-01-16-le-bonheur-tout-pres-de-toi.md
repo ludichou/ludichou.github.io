@@ -6,7 +6,7 @@ date: 2026-01-16 20:00:00 +0300
 author: Armelle
 image: 'images/le-bonheur-tout-pres-de-toi-cover.jpg'
 tags: ["Valeurs","Bonheur","Amitié"]
-featured: true
+featured: false
 toc: true
 ---
 

@@ -6,7 +6,7 @@ date: 2026-01-15 20:00:00 +0300
 author: Armelle
 image: 'images/de-lautre-cote-de-larc-en-ciel-cover.jpg'
 tags: ["Magie","Amitié","Différence"]
-featured: true
+featured: false
 toc: true
 ---
 
