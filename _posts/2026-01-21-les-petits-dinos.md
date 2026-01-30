@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bébés calins - les petits dinos de Rebecca Weerasekera (Auteur), Wendy Kendall (Illustrations)
+title: Bébés calins - les petits dinos de Rebecca Weerasekera et Wendy Kendall.
 description: On apprécie beaucoup cette collection, et nous avions très envie de découvrir cet album.
 date: 2026-01-20 20:00:00 +0300
 author: Armelle
