@@ -6,7 +6,7 @@ date: 2026-01-19 20:00:00 +0300
 author: Armelle
 image: 'images/je-taime-de-tout-mon-coeur-cover.jpg'
 tags: ["Amour","Fratrie"]
-featured: true
+featured: false
 toc: true
 ---
 
@@ -20,7 +20,7 @@ Date de parution : 18 février 2016.
 
 ## Résumé
 
-" A travers les aventures d'adorables animaux, ce bel album célèbre l'amour de jeunes enfants à légard de la famille... un amour inconditionnel qui réchauffe, rassure et fait grandir".
+" A travers les aventures d'adorables animaux, ce bel album célèbre l'amour de jeunes enfants à l'égard de la famille... un amour inconditionnel qui réchauffe, rassure et fait grandir".
 
 " Un moment de tendre complicité à partager avec votre enfant".
 
