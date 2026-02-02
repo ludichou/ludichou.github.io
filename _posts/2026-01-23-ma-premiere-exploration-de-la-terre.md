@@ -21,7 +21,7 @@ Date de parution :  13 janvier 2026
 
 ## Résumé
 
-" Comment s'appelle notre planète? La Terre, bien sûr ! Mais à quoi ressemble t-elle? ET comment focntionne-t-elle? Viens l'zxplorer avec nous depuis le ciel ! Au fil de ces pages, tu découvriras les océans et les continents, les différents climats, et nos voisins dans l'espace. découvre la Terre comme si tu regardais dans le hublot d'une navette spatiale!".
+" Comment s'appelle notre planète? La Terre, bien sûr ! Mais à quoi ressemble t-elle? Et comment fonctionne-t-elle? Viens l'explorer avec nous depuis le ciel ! Au fil de ces pages, tu découvriras les océans et les continents, les différents climats, et nos voisins dans l'espace. découvre la Terre comme si tu regardais dans le hublot d'une navette spatiale!".
 
 ## Pourquoi on aime Ma première exploration de la Terre?
 

@@ -6,7 +6,7 @@ date: 2026-01-20 20:00:00 +0300
 author: Armelle
 image: 'images/les-petits-dinos-cover.jpg'
 tags: ["Animaux","Eveil"]
-featured: true
+featured: false
 toc: true
 ---
 
