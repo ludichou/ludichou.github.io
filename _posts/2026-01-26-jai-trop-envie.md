@@ -6,7 +6,7 @@ date: 2026-01-26 20:00:00 +0300
 author: Armelle
 image: 'images/jai-trop-envie-cover.jpg'
 tags: ["Propreté","Humour"]
-featured: true
+featured: false
 toc: true
 ---
 

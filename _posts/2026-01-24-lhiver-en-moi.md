@@ -6,7 +6,7 @@ date: 2026-01-24 20:00:00 +0300
 author: Armelle
 image: 'images/lhiver-en-moi-cover.jpg'
 tags: ["Hiver","Saison"]
-featured: true
+featured: false
 toc: true
 ---
 

@@ -6,7 +6,7 @@ date: 2026-01-23 20:00:00 +0300
 author: Armelle
 image: 'images/ma-premiere-exploration-de-la-terre-cover.jpg'
 tags: ["Documentaire","Nature","Environnement"]
-featured: true
+featured: false
 toc: true
 ---
 

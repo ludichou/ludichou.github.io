@@ -6,7 +6,7 @@ date: 2026-01-25 20:00:00 +0300
 author: Armelle
 image: 'images/et-toi-jules-le-droit-des-enfants-malades-cover.jpg'
 tags: ["BD","Droit enfant","Cancer","Santé"]
-featured: true
+featured: false
 toc: true
 ---
 
