@@ -6,7 +6,7 @@ date: 2026-02-02 20:00:00 +0300
 author: Armelle
 image: 'images/mes-premieres-explorations-spatiales-cover.jpg'
 tags: ["Documentaire","Espace","Astronomie"]
-featured: true
+featured: false
 toc: true
 ---
 

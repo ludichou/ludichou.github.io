@@ -6,7 +6,7 @@ date: 2026-02-04 20:00:00 +0300
 author: Armelle
 image: 'images/mon-imagier-tout-doux-a-la-ferme-cover.jpg'
 tags: ["Ferme","Saison","Imagier","Eveil"]
-featured: true
+featured: false
 toc: true
 ---
 
