@@ -6,7 +6,7 @@ date: 2026-01-27 20:00:00 +0300
 author: Armelle
 image: 'images/vivement-ce-soir-cover.jpg'
 tags: ["Hiver","Saison","Eveil"]
-featured: true
+featured: false
 toc: true
 ---
 

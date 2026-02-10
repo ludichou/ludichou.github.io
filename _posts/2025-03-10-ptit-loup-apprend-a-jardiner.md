@@ -31,6 +31,6 @@ Passionnée de jardinage, j’avais hâte de partager cette activité avec mon f
 - De **belles illustrations colorées** qui rendent le **jardinage attractif**.
 - Un excellent moyen d’**aborder la patience et l’observation à travers le cycle des plantes**. Comme il est en moyenne section, ce thème est justement au programme cette année.
 
-Envie de jardiner avec votre enfant ? Retrouvez sur amazon [P'tit loup apprend à jardiner](https://amzn.to/4bQYUjJ).
+Vous pouvez le retrouver ici sur la Fnac: [P'tit Loup apprend à jardiner](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa11191484%2FP-tit-Loup-P-tit-loup-apprend-a-jardiner-ne-Orianne-Lallemand).
 
 Vous pouvez aussi explorer d'autres albums sur ce thème dans la rubrique Ressources > Sujets  > P'tit loup.

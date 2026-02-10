@@ -28,6 +28,6 @@ Age : 0-2 ans .
 -  Des phrases simples et poétiques : "Au printemps, la nature fleurit, "Le printemps fait pousser les fleurs", "Moi le printemps me fait sauter de joie", "Des fleurs? Des sauts? Des bébés".
 - Une jolie rencontre avec ses amis  : libellule, grenouille, coccinelle qui lui partagent chacun leur vision du printemps, autour de l’étang.
 
-Si vous souhaitez faire découvrir le printemps à votre tout-petit, ce livre est plein de douceur. Retrouvez sur Amazon [Petit caneton découvre le printemps](https://amzn.to/4j5EZ3m)
+Vous pouvez le retrouver ici sur la Fnac: [Petit caneton découvre le printemps](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa21154034%2FMarijke-Buurlage-Petit-caneton-decouvre-le-printemps).
 
 Vous pouvez aussi explorer d'autres albums sur ce thème dans la rubrique Ressources > Sujets > Saison > Printemps.

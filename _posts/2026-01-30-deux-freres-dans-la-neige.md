@@ -6,7 +6,7 @@ date: 2026-01-30 20:00:00 +0300
 author: Armelle
 image: 'images/deux-freres-dans-la-neige-cover.jpg'
 tags: ["Fratrie","Aventure","Hiver"]
-featured: true
+featured: false
 toc: true
 ---
 

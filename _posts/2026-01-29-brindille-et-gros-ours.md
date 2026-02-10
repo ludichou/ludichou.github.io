@@ -6,7 +6,7 @@ date: 2026-01-29 20:00:00 +0300
 author: Armelle
 image: 'images/brindille-et-gros-ours-cover.jpg'
 tags: ["Ours","Amitié","Hiver"]
-featured: true
+featured: false
 toc: true
 ---
 

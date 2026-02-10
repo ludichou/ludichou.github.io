@@ -45,4 +45,6 @@ Disposant d’un petit jardin et d’un balcon, j’ai eu envie de les aménager
 - Un **guide saisonnier** pour jardiner toute l’année et adapter les activités au rythme de la nature. 
 - Des **activités claires et bien expliquées** avec un pas-à-pas détaillé, une liste du matériel et des images illustratives.
 
-Ce livre est une belle façon de partager un moment de complicité avec votre enfant tout en éveillant sa curiosité pour la nature. Alors, prêts à enfiler vos gants de jardinage ? Découvrez sur Amazon [J’apprends à jardiner avec Marion Botanical](https://amzn.to/4iHUhLD) et semez les premières graines d’une belle aventure verte en famille !  
+Ce livre est une belle façon de partager un moment de complicité avec votre enfant tout en éveillant sa curiosité pour la nature. Alors, prêts à enfiler vos gants de jardinage ?
+
+Vous pouvez le retrouver ici sur la Fnac: [J'apprends à jardiner avec Marion Botanical](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa19358888%2FMarion-Erlick-J-apprends-a-jardiner-avec-Marion-Botanical).
