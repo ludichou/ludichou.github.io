@@ -25,7 +25,7 @@ Date de parution : 5 février 2025 .
 
 " Lotta a quatre ans. Elle a un frère, Jonas, une sœur, Mia-Maria, et deux parents très patients. Et puis il y a Nounours, le cochon en peluche dont elle ne se sépare jamais, et sa charmante voisine, madame Berg".
 
-" Mais la petite Lotta a beaucoup d'idées farbelues. Jamais à court d'espiègleries, elle dit des "presque gros mots", aime les gaufres et la limonade, mais surtout les escapades et les câlins".
+" Mais la petite Lotta a beaucoup d'idées farfelues. Jamais à court d'espiègleries, elle dit des "presque gros mots", aime les gaufres et la limonade, mais surtout les escapades et les câlins".
 
 " Sorti de la plume de l’impertinente Astrid Lindgren, un petit hymne à la liberté de l’enfance dans 15 aventures quotidiennes enjouées, tendres et fantaisistes. Des récits illuminés par les irrésistibles illustrations de Beatrice Alemagna".
 

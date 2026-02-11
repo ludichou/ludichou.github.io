@@ -5,7 +5,7 @@ description: C’est grâce à un concours que j’ai découvert ce livre inspir
 date: 2025-10-12 20:00:00 +0300
 author: Armelle
 image: 'images/ces-filles-qui-se-battent-pour-leurs-droits-cover.jpg'
-tags: ["Droits","E"]
+tags: ["Droits"]
 featured: false
 toc: true
 ---

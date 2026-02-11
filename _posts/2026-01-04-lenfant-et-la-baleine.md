@@ -5,7 +5,7 @@ description: La rencontre entre un garçon bienveillant et une baleine échouée
 date: 2026-01-04 20:00:00 +0300
 author: Armelle
 image: 'images/lenfant-et-la-baleine-cover.jpg'
-tags: ["Amitie"]
+tags: ["Amitié"]
 featured: false
 toc: true
 ---
