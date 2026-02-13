@@ -12,8 +12,8 @@ toc: true
 
 {: .q-left }
 
-Langue : Français.    
-Auteur : Raphaële Frier.    
+Langue : Français.      
+Auteur : Raphaële Frier.      
 Illustrations : Nathalie Choux.                  
 Editeur : Sarbacane.             
 Age : Dès 3 ans.                               

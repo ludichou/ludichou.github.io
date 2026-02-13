@@ -6,7 +6,7 @@ date: 2026-01-31 20:00:00 +0300
 author: Armelle
 image: 'images/arthur-leloup-cover.jpg'
 tags: ["Loup","Emotions"]
-featured: true
+featured: false
 toc: true
 ---
 

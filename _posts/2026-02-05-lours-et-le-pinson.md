@@ -6,7 +6,7 @@ date: 2026-02-05 20:00:00 +0300
 author: Armelle
 image: 'images/lours-et-le-pinson-cover.jpg'
 tags: ["Ours"]
-featured: true
+featured: false
 toc: true
 ---
 

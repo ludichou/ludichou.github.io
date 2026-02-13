@@ -6,7 +6,7 @@ date: 2026-02-03 20:00:00 +0300
 author: Armelle
 image: 'images/lotta-la-filoute-cover.jpg'
 tags: ["Fratrie","Aventure"]
-featured: true
+featured: false
 toc: true
 ---
 
