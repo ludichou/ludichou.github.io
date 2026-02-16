@@ -6,7 +6,7 @@ date: 2026-02-08 20:00:00 +0300
 author: Armelle
 image: 'images/louis-decouvre-le-calme-cover.jpg'
 tags: ["Emotions"]
-featured: true
+featured: false
 toc: true
 ---
 

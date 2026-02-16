@@ -6,7 +6,7 @@ date: 2026-02-07 20:00:00 +0300
 author: Armelle
 image: 'images/notre-amour-a-linfini-cover.jpg'
 tags: ["Amour","Valeurs"]
-featured: true
+featured: false
 toc: true
 ---
 
