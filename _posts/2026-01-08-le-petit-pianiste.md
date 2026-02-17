@@ -5,7 +5,7 @@ description: Un album fort et touchant, qui aborde le harcèlement scolaire avec
 date: 2026-01-08 20:00:00 +0300
 author: Armelle
 image: 'images/le-petit-pianiste-cover.jpg'
-tags: ["Harcelement","Ecole"]
+tags: ["Harcèlement","Ecole","Livre audio"]
 featured: false
 toc: true
 ---

@@ -5,7 +5,7 @@ description: "J’avais envie d’initier mon fils au dessin, et ce jeu m’a se
 date: 2025-05-04 21:00:00 +0300
 author: Armelle
 image: 'images/Djeco-step-by-step-Arthur-et-Co-cover.jpg'
-tags: ["Jeux éducatif"]
+tags: ["Jeux éducatifs"]
 featured: famse
 toc: true
 ---

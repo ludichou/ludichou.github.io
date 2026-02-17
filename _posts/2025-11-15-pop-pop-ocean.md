@@ -5,7 +5,7 @@ description: Mon fils est passionné par l'océan, et ce pop-up l’a tout simpl
 date: 2025-11-15 20:00:00 +0300
 author: Armelle
 image: 'images/pop-pop-ocean-cover.jpg'
-tags: ["Ocean","Documentaire","Pop-up"]
+tags: ["Océan","Documentaire","Pop-up"]
 featured: false
 toc: true
 ---

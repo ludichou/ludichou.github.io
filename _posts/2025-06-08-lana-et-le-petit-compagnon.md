@@ -5,7 +5,7 @@ description: J’ai découvert ce livre avec mon fils grâce à un concours. Int
 date: 2025-06-08 20:00:00 +0300
 author: Armelle
 image: 'images/lana_et_le_petit_dragon_site_cover.jpg'
-tags: ["Aventure", "Dragon","Amitié"]
+tags: ["Aventure", "Dragons","Amitié"]
 featured: false
 toc: true
 ---

@@ -5,7 +5,7 @@ description: "Ce livre m’a touchée car il reflète des valeurs que je souhait
 date: 2025-09-16 20:00:00 +0300
 author: Armelle
 image: 'images/bienvenue-un-livre-sur-la-tolerance-et-la-bienveillance-cover.jpg'
-tags: ["Valeurs","Bienveilllance","Tolérance","Différence"]
+tags: ["Valeurs","Bienveillance","Tolérance","Différence"]
 featured: true
 toc: true
 ---

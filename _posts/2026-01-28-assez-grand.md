@@ -5,7 +5,7 @@ description: Un album avec beaucoup de tendresse qui aborde la confiance en soi,
 date: 2026-01-28 20:00:00 +0300
 author: Armelle
 image: 'images/assez-grand-cover.jpg'
-tags: ["Confiance en soi","Peur","Valeurs"]
+tags: ["Confiance","Peur","Valeurs"]
 featured: false
 toc: true
 ---

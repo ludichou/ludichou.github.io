@@ -6,7 +6,7 @@ date: 2026-02-09 20:00:00 +0300
 author: Armelle
 image: 'images/les-ptits-heros-de-lolympe-athena-la-guerriere-cover.jpg'
 tags: ["Livre-jeu","Aventure"]
-featured: true
+featured: false
 toc: true
 ---
 

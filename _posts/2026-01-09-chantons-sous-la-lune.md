@@ -5,7 +5,7 @@ description : Après nos coups de cœur pour La petite bibliothèque d’Edmond 
 date: 2026-01-09 20:00:00 +0300
 author: Armelle
 image: 'images/chantons-sous-la-lune-cover.jpg'
-tags: ["Livre musical","Ours","Amitié"]
+tags: ["Livre audio","Ours","Amitié"]
 featured: false
 toc: true
 ---
