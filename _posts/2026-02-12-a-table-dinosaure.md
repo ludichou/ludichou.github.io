@@ -23,14 +23,14 @@ Date de parution : 29 juillet 2026.
 
 ## Résumé
 
-" Peux-tu t'occuper de ce dinosaure? Il a très faim, alors nourris-le bien ! Qu'aiment manger les dinosaures? Tourne la rour pour le savoir... Bonne chance".
+" Peux-tu t'occuper de ce dinosaure? Il a très faim, alors nourris-le bien ! Qu'aiment manger les dinosaures? Tourne la roue pour le savoir... Bonne chance".
 
 ## Pourquoi on aime À table, dinosaure ! - Tourne la roue?
 
 ![Des illustrations magnifiques](images/a-table-dinosaure-int.jpg)
 *Des illustrations magnifiques*
 - Mon fils aîné a adoré "donner à manger" au dinosaure. Il commentait tout ce qu’il lui proposait, décidant ce qui était bon ou pas bon, et riait en disant : " Mais pas des cactus ! Ah beurk, des limaces ! "...
-- Mon garçon d’un an, lui, aime surtout tourner les roues. Il éclate de rire  ou est surpis en observant les réactions et les expressions de son grand frère face au dinosaure.
+- Mon garçon d’un an, lui, aime surtout tourner les roues. Il éclate de rire ou est surpis en observant les réactions et les expressions de son grand frère face au dinosaure.
 - Un livre interactf tout en s'amusant en famille. Le format est solide pour les plus petits.
 
 Vous pouvez le retrouver ici sur la Fnac: [À table, dinosaure ! - Tourne la roue](https://www.fnac.com/a22190853/Anna-Milbourne-A-table-dinosaure-Tourne-la-roue-des-2-ans).

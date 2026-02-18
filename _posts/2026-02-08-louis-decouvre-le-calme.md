@@ -25,7 +25,6 @@ Date de parution : 11 février 2026
 
 " À petit pas, cet ouvrage propose une toute première initiation à la méditation à travers des exercices simples de respiration et d’attention à ce qui nous entoure. L’histoire de Louis accompagne les petits - et les grands - sur le chemin de la sérénité".
 
-
 ## Pourquoi on aime Louis découvre le calme ?
 
 ![Des illustrations magnifiques](images/louis-decouvre-le-calme-int.jpg)

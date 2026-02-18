@@ -14,7 +14,7 @@ toc: true
 
 Langue : Français.      
 Auteur : Rob Lloyd Jones.       
-Illustrations :  Benedetta Giaufret, Enrica Rusina.  
+Illustrations : Benedetta Giaufret, Enrica Rusina.  
 Maquette : Suzie Harrison.    
 Traduction : Claire Lefebvre.                  
 Editeur : Usborne.               
