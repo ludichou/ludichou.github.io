@@ -18,7 +18,7 @@ toc: true
 
 ***Pouvez-vous vous présenter en quelques mots ?***
 
-Quelques mots, je suis Julie Rae, je suis autrice, je suis également musicienne et compositrice et je partage ma vie entre l'écriture qui est quand même mon activité la plus importante et également la musique, la composition. 
+Quelques mots, je suis Julie Rey, je suis autrice, je suis également musicienne et compositrice et je partage ma vie entre l'écriture qui est quand même mon activité la plus importante et également la musique, la composition. 
 
 ***Quel est votre parcours ?***
 
