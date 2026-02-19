@@ -6,7 +6,7 @@ date: 2026-02-11 20:00:00 +0300
 author: Armelle
 image: 'images/gare-a-la-toile-cover.jpg'
 tags: ["Réseaux sociaux","Conte","Amitié"]
-featured: true
+featured: false
 toc: true
 ---
 

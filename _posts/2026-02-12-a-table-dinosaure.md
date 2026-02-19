@@ -6,7 +6,7 @@ date: 2026-02-12 20:00:00 +0300
 author: Armelle
 image: 'images/a-table-dinosaure-cover.jpg'
 tags: ["Humour","Dinosaures"]
-featured: true
+featured: false
 toc: true
 ---
 
