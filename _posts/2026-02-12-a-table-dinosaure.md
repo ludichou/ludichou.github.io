@@ -1,7 +1,7 @@
 ---
 layout: post
 title: À table, dinosaure ! - Tourne la roue de Anna Milbourne et Anna Süßbauer.
-description: Un format amusant et interactif,  en tournant les roues pour donner à manger au dinosaure.
+description: Un format amusant et interactif, en tournant les roues pour donner à manger au dinosaure.
 date: 2026-02-12 20:00:00 +0300
 author: Armelle
 image: 'images/a-table-dinosaure-cover.jpg'
