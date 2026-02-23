@@ -6,7 +6,7 @@ date: 2026-02-16 20:00:00 +0300
 author: Armelle
 image: 'images/quelque-chose-de-beau-cover.jpg'
 tags: ["Romance","Adolescents"]
-featured: true
+featured: false
 toc: true
 ---
 

@@ -7,7 +7,7 @@ date: 2026-02-16 20:00:00 +0300
 author: Armelle
 image: 'images/interview-quelque-chose-de-beau-cover.jpg'
 tags: ["Interwiew"]
-featured: true
+featured: false
 toc: true
 ---
 
