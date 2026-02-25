@@ -6,7 +6,7 @@ date: 2026-02-18 20:00:00 +0300
 author: Armelle
 image: 'images/un-monde-merveilleux-cover.jpg'
 tags: ["Amitié","Valeurs"]
-featured: true
+featured: false
 toc: true
 ---
 
