@@ -6,7 +6,7 @@ date: 2026-02-25 20:00:00 +0300
 author: Armelle
 image: 'images/la-tapisserie-du-dragon-the-cover.jpg'
 tags: ["BD","Amitié","Magie","Fantasy"]
-featured: true
+featured: false
 toc: true
 ---
 
