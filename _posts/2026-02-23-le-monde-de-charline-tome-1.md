@@ -6,7 +6,7 @@ date: 2026-02-23 20:00:00 +0300
 author: Armelle
 image: 'images/le-monde-de-charline-cover.jpg'
 tags: ["BD","Humour"]
-featured: true
+featured: false
 toc: true
 ---
 
