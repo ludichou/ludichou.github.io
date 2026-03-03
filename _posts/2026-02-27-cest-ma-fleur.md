@@ -2,7 +2,7 @@
 layout: post
 title: C'est ma fleur ! de Alice Hemming et Nicola Slater.
 description: Après avoir suivi Oiseau et Écureuil au fil des saisons, nous avions très envie de découvrir celui-ci.
-date: 2026-02-25 20:00:00 +0300
+date: 2026-02-27 20:00:00 +0300
 author: Armelle
 image: 'images/cest-ma-fleur-cover.jpg'
 tags: ["Printemps","Saison","Humour"]
