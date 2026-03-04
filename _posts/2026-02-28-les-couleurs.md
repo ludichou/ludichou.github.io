@@ -23,7 +23,7 @@ Date de parution : 22 janvier 2026
 
 " Une collection d'imagiers à toucher pour éveiller mes compétences sensorielles des tout-petits".
 
-" Grimpe avec les coccinelles rouges, descends la cascade d'eau blueu, monte au sommet d'un sapin vert, glisse avec le requin argenté...".
+" Grimpe avec les coccinelles rouges, descends la cascade d'eau bleu, monte au sommet d'un sapin vert, glisse avec le requin argenté...".
 
 ## Pourquoi on aime Les couleurs ?
 
