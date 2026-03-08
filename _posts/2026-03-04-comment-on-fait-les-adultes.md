@@ -6,7 +6,7 @@ date: 2026-03-04 20:00:00 +0300
 author: Armelle
 image: 'images/comment-on-fait-les-adultes-cover.jpg'
 tags: ["Humour"]
-featured: true
+featured: false
 toc: true
 ---
 
