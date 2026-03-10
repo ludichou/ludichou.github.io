@@ -6,7 +6,7 @@ date: 2026-03-03 20:00:00 +0300
 author: Armelle
 image: 'images/snow-globe-cover.jpg'
 tags: ["Roman","Dystopie"]
-featured: true
+featured: false
 toc: true
 ---
 

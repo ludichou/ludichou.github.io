@@ -6,7 +6,7 @@ date: 2026-03-07 20:00:00 +0300
 author: Armelle
 image: 'images/mon-hochet-malin-cover.jpg'
 tags: ["Ferme","Hochet"]
-featured: true
+featured: false
 toc: true
 ---
 
