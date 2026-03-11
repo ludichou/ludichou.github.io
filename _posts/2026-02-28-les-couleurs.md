@@ -6,7 +6,7 @@ date: 2026-02-28 20:00:00 +0300
 author: Armelle
 image: 'images/les-couleurs-cover.jpg'
 tags: ["Eveil","Imagier"]
-featured: true
+featured: false
 toc: true
 ---
 

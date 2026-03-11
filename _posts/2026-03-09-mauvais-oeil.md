@@ -6,7 +6,7 @@ date: 2026-03-09 20:00:00 +0300
 author: Armelle
 image: 'images/mauvais-oeil-cover.jpg'
 tags: ["BD"]
-featured: true
+featured: false
 toc: true
 ---
 
