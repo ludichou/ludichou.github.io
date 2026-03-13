@@ -6,7 +6,7 @@ date: 2026-03-11 20:00:00 +0300
 author: Armelle
 image: 'images/les-animaux-etonnants-cover.jpg'
 tags: ["Animaux","Documentaire"]
-featured: true
+featured: false
 toc: true
 ---
 

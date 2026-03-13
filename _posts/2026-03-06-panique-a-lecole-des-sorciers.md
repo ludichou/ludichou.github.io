@@ -6,7 +6,7 @@ date: 2026-03-06 20:00:00 +0300
 author: Armelle
 image: 'images/panique-a-lecole-des-sorciers-cover.jpg'
 tags: ["Ecole","Sorcier","Humour"]
-featured: true
+featured: false
 toc: true
 ---
 

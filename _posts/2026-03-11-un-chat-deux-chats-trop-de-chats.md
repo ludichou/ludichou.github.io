@@ -2,7 +2,7 @@
 layout: post
 title: Un chat, deux chats, trop de chats... de Jonathan Emmet et Rob Hodgson.
 description: "Mon fils adore compter et ce pop-up lui a beaucoup plu : il s’est amusé à découvrir et compter les chats qui apparaissent au fil des pages."
-date: 2026-03-12 20:00:00 +0300
+date: 2026-03-11 20:00:00 +0300
 author: Armelle
 image: 'images/un-chat-deux-chats-trop-de-chats-cover.jpg'
 tags: ["Pop-up","Animaux"]
