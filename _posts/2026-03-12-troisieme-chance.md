@@ -6,7 +6,7 @@ date: 2026-03-12 20:00:00 +0300
 author: Armelle
 image: 'images/troisieme-chance-cover.jpg'
 tags: ["Roman","Adolescence"]
-featured: true
+featured: false
 toc: true
 ---
 

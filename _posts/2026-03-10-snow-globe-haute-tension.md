@@ -6,7 +6,7 @@ date: 2026-03-10 20:00:00 +0300
 author: Armelle
 image: 'images/snow-globe-tome-2-haute-tension-cover.jpg'
 tags: ["Roman","Dystopie"]
-featured: true
+featured: false
 toc: true
 ---
 
