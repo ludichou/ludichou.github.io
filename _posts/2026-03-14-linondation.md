@@ -6,7 +6,7 @@ date: 2026-03-14 20:00:00 +0300
 author: Armelle
 image: 'images/linondation-cover.jpg'
 tags: ["Amitié","Différence","Valeurs","Catastrophe naturelle"]
-featured: true
+featured: false
 toc: true
 ---
 

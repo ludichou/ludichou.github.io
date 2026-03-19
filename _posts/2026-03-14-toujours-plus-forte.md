@@ -6,7 +6,7 @@ date: 2026-03-14 20:00:00 +0300
 author: Armelle
 image: 'images/toujours-plus-haute-cover.jpg'
 tags: ["Documentaire","Alpinisme"]
-featured: true
+featured: false
 toc: true
 ---
 
