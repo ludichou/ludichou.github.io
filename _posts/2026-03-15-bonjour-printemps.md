@@ -15,7 +15,7 @@ toc: true
 Langue : Français.    
 Auteur : Louison Nielman.  
 Illustrations : Darshika Varma.                 
-Editeur : Auzou éveil.             
+Editeur : Auzou éveil.            
 Age :  Dès la naissance.                           
 Date de parution : 12 mars 2026.       
 

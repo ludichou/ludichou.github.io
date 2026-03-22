@@ -6,7 +6,7 @@ date: 2026-03-16 20:00:00 +0300
 author: Armelle
 image: 'images/dina-la-depanneuse-cover.jpg'
 tags: ["Aventure"]
-featured: true
+featured: false
 toc: true
 ---
 
