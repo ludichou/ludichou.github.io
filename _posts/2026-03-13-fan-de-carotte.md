@@ -6,7 +6,7 @@ date: 2026-03-13 20:00:00 +0300
 author: Armelle
 image: 'images/fan-de-carotte-cover.jpg'
 tags: ["Humour","Amitié","Jardin"]
-featured: true
+featured: false
 toc: true
 ---
 
