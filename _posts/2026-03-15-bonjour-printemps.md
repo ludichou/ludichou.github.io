@@ -6,7 +6,7 @@ date: 2026-03-15 20:00:00 +0300
 author: Armelle
 image: 'images/bonjour-printemps-cover.jpg'
 tags: ["Printemps","Saison","Animaux","Eveil","Valeurs","Amour"]
-featured: true
+featured: false
 toc: true
 ---
 
