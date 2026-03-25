@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Le grand hôtel des émotions de Lidia Brankovic
-description: Grâce à un partenariat avec Obriart, nous avons découvert un album ludique et précieux pour parler des émotions avec Louis.
+description: Grâce à un partenariat avec Obriart, nous avons découvert un album ludique et précieux pour parler des émotions avec Louis."
 date: 2026-03-20 20:00:00 +0300
 author: Armelle
 image: 'images/le-grand-hotel-des-emotions-cover.jpg'
