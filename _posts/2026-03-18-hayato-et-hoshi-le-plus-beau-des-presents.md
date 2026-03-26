@@ -6,7 +6,7 @@ date: 2026-03-18 20:00:00 +0300
 author: Armelle
 image: 'images/hayato-et-hoshi-cover.jpg'
 tags: ["Conte","Amitié","Valeur"]
-featured: true
+featured: false
 toc: true
 ---
 

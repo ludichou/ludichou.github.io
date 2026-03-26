@@ -6,7 +6,7 @@ date: 2026-03-20 20:00:00 +0300
 author: Armelle
 image: 'images/la-cite-magique-cover.jpg'
 tags: ["Roman","Magie","Fantasy","Aventure"]
-featured: true
+featured: false
 toc: true
 ---
 
