@@ -6,7 +6,7 @@ date: 2026-03-21 20:00:00 +0300
 author: Armelle
 image: 'images/les-enfants-boxcar-le-cabanon-mysterieux.jpg'
 tags: ["Aventure","Fratrie","Roman"]
-featured: true
+featured: false
 toc: true
 ---
 
