@@ -6,7 +6,7 @@ date: 2026-03-23 20:00:00 +0300
 author: Armelle
 image: 'images/super-carotte-2-cover.jpg'
 tags: ["Humour","Tolérance"]
-featured: true
+featured: false
 toc: true
 ---
 
