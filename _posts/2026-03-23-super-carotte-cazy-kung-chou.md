@@ -21,7 +21,7 @@ Date de parution : 28 mai 2021.
 
 ## Résumé
 
-" Le docteur Patate et sob armée ont décidé de conquérir les potagers. Super Carotte pourra t-elle les arrêter?".
+" Le docteur Patate et son armée ont décidé de conquérir les potagers. Super Carotte pourra t-elle les arrêter?".
 
 ## Pourquoi on aime Super Carotte 2 -Crazy kung-Chou?
 
