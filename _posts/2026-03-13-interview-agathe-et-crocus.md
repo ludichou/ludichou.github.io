@@ -7,7 +7,7 @@ date: 2026-03-13 20:00:00 +0300
 author: Armelle
 image: 'images/interview-agathe-crocus-cover.jpg'
 tags: ["Interview","Dinosaures","Printemps","Saison","Humour"]
-featured: true
+featured: false
 toc: true
 ---
 

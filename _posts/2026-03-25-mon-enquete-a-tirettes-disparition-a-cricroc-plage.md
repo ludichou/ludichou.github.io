@@ -6,7 +6,7 @@ date: 2026-03-25 20:00:00 +0300
 author: Armelle
 image: 'images/mon-enquete-a-tirettes-disparition-a-cricroc-plage-cover.jpg'
 tags: ["Enquête","livre-jeu"]
-featured: true
+featured: false
 toc: true
 ---
 

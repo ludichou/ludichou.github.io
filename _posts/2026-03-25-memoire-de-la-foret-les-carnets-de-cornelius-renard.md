@@ -6,7 +6,7 @@ date: 2026-03-25 20:00:00 +0300
 author: Armelle
 image: 'images/memoire-de-la-foret-tome-2.jpg'
 tags: ["Roman"]
-featured: true
+featured: false
 toc: true
 ---
 
