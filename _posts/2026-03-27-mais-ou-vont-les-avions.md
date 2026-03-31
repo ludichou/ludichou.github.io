@@ -27,7 +27,7 @@ Date de parution :  3 avril 2026
 ## Pourquoi on aime  Mais où vont les avions ?
 
 ![Des illustrations très colorées](images/mais-ou-vont-les-avions-int.jpg)
-*Des illustrations très colorées *
+*Des illustrations très colorées*
 - Le format cartonné a beaucoup plu à mon fils Édouard : il est facile à manipuler et parfait pour les plud petits.
 - On suit différents avions... mais pas comme les autres : certains transportent de l’eau, d’autres sont remplis de graines, de confettis, de ballons ou encore de fleurs de toutes les couleurs.
 Mais alors...où vont ces avions ? Et surtout, que vont-ils faire ?
