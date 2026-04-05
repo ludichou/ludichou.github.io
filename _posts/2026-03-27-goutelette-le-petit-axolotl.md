@@ -6,7 +6,7 @@ date: 2026-03-27 20:00:00 +0300
 author: Armelle
 image: 'images/goutelette-le-petit-axolotl-cover.jpg'
 tags: ["Valeurs","Confiance en soi", "Amitié","Environnement"]
-featured: true
+featured: false
 toc: true
 ---
 
