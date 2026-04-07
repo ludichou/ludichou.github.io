@@ -5,7 +5,7 @@ description: Louis adore observer les papillons dans le jardin... Après notre d
 date: 2026-03-31 20:00:00 +0300
 author: Armelle
 image: 'images/juliette-et-la-maman-papillon-cover.jpg'
-tags: ["Nature"]
+tags: ["Nature","Valeurs","Amitié"]
 featured: true
 toc: true
 ---

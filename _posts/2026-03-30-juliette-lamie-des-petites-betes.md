@@ -5,7 +5,7 @@ description: "Louis est un peu comme Juliette : toujours curieux, il adore obser
 date: 2026-03-30 20:00:00 +0300
 author: Armelle
 image: 'images/juliette-lamie-des-petites-betes-cover.jpg'
-tags: ["Nature"]
+tags: ["Nature","Valeurs","Amitié"]
 featured: true
 toc: true
 ---
