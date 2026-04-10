@@ -6,7 +6,7 @@ date: 2026-03-26 20:00:00 +0300
 author: Armelle
 image: 'images/dissidentes-livre-1-cover.jpg'
 tags: ["Roman"]
-featured: true
+featured: false
 toc: true
 ---
 

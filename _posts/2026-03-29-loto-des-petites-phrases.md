@@ -6,7 +6,7 @@ date: 2026-03-29 20:00:00 +0300
 author: Armelle
 image: 'images/loto-des-petites-phrases-cover.jpg'
 tags: ["Jeux éducatifs", "Langage"]
-featured: true
+featured: false
 toc: true
 ---
 
