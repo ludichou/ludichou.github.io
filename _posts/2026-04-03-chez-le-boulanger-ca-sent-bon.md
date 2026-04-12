@@ -6,7 +6,7 @@ date: 2026-04-03 20:00:00 +0300
 author: Armelle
 image: 'images/chez-le-boulanger-ca-sent-bon-cover.jpg'
 tags: ["Livre à odeurs"]
-featured: true
+featured: false
 toc: true
 ---
 
