@@ -6,7 +6,7 @@ date: 2026-04-04 20:00:00 +0300
 author: Armelle
 image: 'images/lenfant-et-grand-mere-cover.jpg'
 tags: ["Amour","Valeurs","Aventure"]
-featured: true
+featured: false
 toc: true
 ---
 

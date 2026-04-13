@@ -6,7 +6,7 @@ date: 2026-04-03 20:00:00 +0300
 author: Armelle
 image: 'images/ma-premiere-peinture-magique-chiens-mignons-cover.jpg'
 tags: ["Peinture magique"]
-featured: true
+featured: false
 toc: true
 ---
 
