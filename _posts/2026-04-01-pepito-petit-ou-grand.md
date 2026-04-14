@@ -5,8 +5,8 @@ description: Grand ou petit... à la maison, Louis, mon ainé, me demande souven
 date: 2026-04-02 20:00:00 +0300
 author: Armelle
 image: 'images/pepito-petit-ou-grand-cover.jpg'
-tags: [""]
-featured: true
+tags: ["Grandir"]
+featured: false
 toc: true
 ---
 

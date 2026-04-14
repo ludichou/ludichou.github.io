@@ -6,7 +6,7 @@ date: 2026-04-06 20:00:00 +0300
 author: Armelle
 image: 'images/larche-de-neo-cover.jpg'
 tags: ["Fable","Amitié","Valeurs","Réchauffement climatique"]
-featured: true
+featured: false
 toc: true
 ---
 

@@ -6,7 +6,7 @@ date: 2026-04-02 20:00:00 +0300
 author: Armelle
 image: 'images/pepito-mignon-ou-grognon-cover.jpg'
 tags: ["Emotions","Humour"]
-featured: true
+featured: false
 toc: true
 ---
 
