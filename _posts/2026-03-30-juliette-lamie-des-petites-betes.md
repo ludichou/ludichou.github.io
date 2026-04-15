@@ -6,7 +6,7 @@ date: 2026-03-30 20:00:00 +0300
 author: Armelle
 image: 'images/juliette-lamie-des-petites-betes-cover.jpg'
 tags: ["Nature","Valeurs","Amitié"]
-featured: true
+featured: false
 toc: true
 ---
 
