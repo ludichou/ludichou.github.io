@@ -6,7 +6,7 @@ date: 2026-04-11 20:00:00 +0300
 author: Armelle
 image: 'images/super-carotte-la-kiwid-cover.jpg'
 tags: ["Humour","Tolérance"]
-featured: true
+featured: false
 toc: true
 ---
 

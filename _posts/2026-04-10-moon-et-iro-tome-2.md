@@ -6,7 +6,7 @@ date: 2026-04-10 20:00:00 +0300
 author: Armelle
 image: 'images/moon-et-iro-tome-2-cover.jpg'
 tags: ["Amitié"]
-featured: true
+featured: false
 toc: true
 ---
 
