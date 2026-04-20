@@ -6,7 +6,7 @@ date: 2026-04-07 20:00:00 +0300
 author: Armelle
 image: 'images/nola-cest-lheure-du-bain-cover.jpg'
 tags: ["Eveil","Bain"]
-featured: true
+featured: false
 toc: true
 ---
 

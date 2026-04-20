@@ -6,7 +6,7 @@ date: 2026-04-13 20:00:00 +0300
 author: Armelle
 image: 'images/chut-chut-chut-cover.jpg'
 tags: ["Amitié"]
-featured: true
+featured: false
 toc: true
 ---
 
@@ -23,7 +23,6 @@ Date de parution :  24 février 2021
 "Il était une fois une petite renarde très calme, qui aimait observer la forêt et imaginer de belles histoires. Tout l'inverse de ses amis qui  aimaient  courir, jouer, crier. Mais lorsqu'un danger les guette, elle est la seule à s'en apercevoir... ".
 
 " Une histoire qui donne envie d'être attentif aux autres et d'apprécier les temps calmes".
-
 
 ## Pourquoi on aime Chut, chut, chut !
 

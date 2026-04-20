@@ -23,7 +23,6 @@ Date de parution : 23 avril 2026.
 
 " Ouvre les dépliants de ce livre et découvre quelques-uns des plus gros et des plus étonnants tracteurs du monde. Certains sont des géants qui servent aux travaux agricoles, d'autres, plus énormes encore, sont utilisés aux pôles iu oiur relorquer des engins spéciaux.
 
-
 ## Pourquoi on aime Mon grand livre des tracteurs ?
 
 ![De très belles illustrations](images/mon-grand-livre-des-tracteurs-int.jpg)

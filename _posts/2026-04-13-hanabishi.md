@@ -6,7 +6,7 @@ date: 2026-04-12 20:00:00 +0300
 author: Armelle
 image: 'images/hanabishi-cover.jpg'
 tags: ["Partage"]
-featured: true
+featured: false
 toc: true
 ---
 
