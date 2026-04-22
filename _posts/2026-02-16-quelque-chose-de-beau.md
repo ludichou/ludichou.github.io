@@ -5,7 +5,7 @@ description: Un roman qui parle de découverte de la sexualité, réseaux sociau
 date: 2026-02-16 20:00:00 +0300
 author: Armelle
 image: 'images/quelque-chose-de-beau-cover.jpg'
-tags: ["Romance","Adolescents"]
+tags: ["Romance","Adolescence"]
 featured: false
 toc: true
 ---
