@@ -6,7 +6,7 @@ date: 2026-04-04 20:00:00 +0300
 author: Armelle
 image: 'images/les-pas-si-bonne-manieres-cover.jpg'
 tags: ["Documentaire","Humour"]
-featured: fa  lse
+featured: false
 toc: true
 ---
 

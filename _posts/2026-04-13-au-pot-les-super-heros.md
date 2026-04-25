@@ -6,7 +6,7 @@ date: 2026-04-12 20:00:00 +0300
 author: Armelle
 image: 'images/au-pot-les-super-heros-cover.jpg'
 tags: ["Propreté"]
-featured: true
+featured: false
 toc: true
 ---
 

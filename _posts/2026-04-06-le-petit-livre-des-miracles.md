@@ -6,7 +6,7 @@ date: 2026-04-06 20:00:00 +0300
 author: Armelle
 image: 'images/le-petit-livre-des-miracles-cover.jpg'
 tags: ["Valeurs"]
-featured: true
+featured: false
 toc: true
 ---
 

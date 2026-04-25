@@ -6,7 +6,7 @@ date: 2026-04-08 20:00:00 +0300
 author: Armelle
 image: 'images/roule-copain-cover.jpg'
 tags: ["Amitié"]
-featured: true
+featured: false
 toc: true
 ---
 

@@ -6,7 +6,7 @@ date: 2026-04-08 20:00:00 +0300
 author: Armelle
 image: 'images/la-folle-journee-dun-escargot-cover.jpg'
 tags: ["Fratrie","Aventure"]
-featured: true
+featured: false
 toc: true
 ---
 

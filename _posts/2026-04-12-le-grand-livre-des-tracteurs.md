@@ -6,7 +6,7 @@ date: 2026-04-11 20:00:00 +0300
 author: Armelle
 image: 'images/mon-grand-livre-des-tracteurs-cover.jpg'
 tags: ["Tracteurs","Documentaire"]
-featured: true
+featured: false
 toc: true
 ---
 
