@@ -6,7 +6,7 @@ date: 2026-04-12 20:00:00 +0300
 author: Armelle
 image: 'images/petiote-au-jardin-cover.jpg'
 tags: ["Jardin","BD","Printemps","Amitié","Nature"]
-featured: true
+featured: false
 toc: true
 ---
 

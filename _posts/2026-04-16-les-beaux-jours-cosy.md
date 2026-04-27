@@ -24,7 +24,7 @@ Date de parution : 25 février 2026
 
 " Feutres à alcool, peinture, crayons de couleur... choisis ta technique préférée pour mettre en couleur des personnages irrésistibles, des intérieurs cosy et de jolies scènes festives, printannières et estivales".
 
-" Laissse libre-court à ta créativité et profite d'une expérience de coloriage calme et relaxante".
+" Laisse libre-court à ta créativité et profite d'une expérience de coloriage calme et relaxante".
 
 ## Pourquoi j'aime Les beaux jours cosy coloriages?
 
