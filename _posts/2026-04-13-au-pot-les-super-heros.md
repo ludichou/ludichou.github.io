@@ -5,7 +5,7 @@ description: Avec Édouard, qui va bientôt avoir 16 mois, j’ai eu envie de co
 date: 2026-04-12 20:00:00 +0300
 author: Armelle
 image: 'images/au-pot-les-super-heros-cover.jpg'
-tags: ["Propreté"]
+tags: ["Propreté","Apprentissage"]
 featured: false
 toc: true
 ---

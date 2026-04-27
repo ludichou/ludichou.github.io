@@ -5,7 +5,7 @@ description: "Après avoir beaucoup aimé Premier jour d’école, nous étions 
 date: 2026-04-14 20:00:00 +0300
 author: Armelle
 image: 'images/premier-jour-de-piscine-cover.jpg'
-tags: ["Piscine"]
+tags: ["Piscine","Apprentissage"]
 featured: true
 toc: true
 ---
