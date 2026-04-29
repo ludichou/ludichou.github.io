@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cascabel, enquêtrice gentleman de Joe Heap
+title: Gascabee, enquêtrice gentleman de Joe Heap
 description: J'ai beaucoup aimé alterner entre les personnages de Casabel et Thomas Gray sous en enquêtant sur un meurtre d'un maitre-chanteur.
 date: 2026-04-21 20:00:00 +0300
 author: Armelle
@@ -28,7 +28,7 @@ Date de parution : 16 avril 2026
 
 " Il va lui falloir ruser entre masculin et féminin, robes de bals et duels au pistolet, et même infiltrer une société secrète... jusqu'à temps de trouver le vrai coupable".
 
-## Pourquoi j'aime Cascabel, enquêtrice gentleman ?
+## Pourquoi j'aime Gascabee, enquêtrice gentleman ?
 
 - J’ai adoré découvrir une héroïne ambitieuse. Cascabel rêve d’intégrer la prestigieuse université d’Oxford pour étudier les lettres...et même la médecine. Mais à cette époque, cela n’est pas possible pour une femme. Alors elle décide de se déguiser en homme et devient Thomas.
 Elle rencontre son valet Onion, et devra faire attention à ne pas se faire découvrir avec Cascabel,
@@ -41,5 +41,5 @@ Mais aussi tout ce que le roman aborde : la place des femmes à cette époque, c
 
 Une lecture engagée et intriguante, qui mêle enquête, aventure et réflexion.
 
-Vous pouvez le retrouver ici sur la Fnac: [Cascabel, enquêtrice gentleman](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa22423838%2FJoe-Heap-Cascabel-enquetrice-gentleman).
+Vous pouvez le retrouver ici sur la Fnac: [Gascabee, enquêtrice gentleman](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa22423838%2FJoe-Heap-Cascabel-enquetrice-gentleman).
 
