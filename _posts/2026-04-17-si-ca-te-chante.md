@@ -6,7 +6,7 @@ date: 2026-04-17 20:00:00 +0300
 author: Armelle
 image: 'images/si-ca-te-chante-cover.jpg'
 tags: ["Emotions"]
-featured: true
+featured: false
 toc: true
 ---
 

@@ -6,7 +6,7 @@ date: 2026-04-16 20:00:00 +0300
 author: Armelle
 image: 'images/les-beaux-jours-cosy-cover.jpg'
 tags: ["Coloriage"]
-featured: true
+featured: false
 toc: true
 ---
 
