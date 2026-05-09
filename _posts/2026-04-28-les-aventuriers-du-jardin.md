@@ -28,7 +28,7 @@ Date de parution : 5 avril 2023
 
 ![De très belles illustrations](images/les-aventuriers-du-jardin-int.jpg)
 *De très belles illustrations*
-- on suit Lucie, Timothée et leur cousine Rose, toujours curieux et pleins de questions pour leur papy :
+- On suit Lucie, Timothée et leur cousine Rose, toujours curieux et pleins de questions pour leur papy :
 “C’est quoi la rosée ?”, “Et l’engrais ?”, “Ça existe vraiment les mauvaises herbes ?”
 - Plutôt que de leur répondre directement, leur papy leur propose une expérience étonnante... aller poser leurs questions aux insectes eux-mêmes ! Et là, surprise : ils deviennent à leur taille et plongent dans un monde fascinant.
 - Au fil de leur aventure, ils découvrent : les graines, les plantes, les fruits et légumes
