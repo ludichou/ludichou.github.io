@@ -34,5 +34,7 @@ Date de parution : 12 mai 2026
 
 Un livre interactif, ludique et solide, parfaitement adapté même aux plus petits.
 
+Vous pouvez retrouvez dans la même collection [les pirates](https://ludichou.com/les-pirates).
+
 Vous pouvez le retrouver ici sur la Fnac: [Fantômes et monstres ](https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2658998&ued=https%3A%2F%2Fwww.fnac.com%2Fa22663814%2FOndrej-Navratil-Fantomes-et-monstres).
 
