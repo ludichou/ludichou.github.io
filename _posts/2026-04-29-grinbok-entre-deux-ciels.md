@@ -6,7 +6,7 @@ date: 2026-04-29 20:00:00 +0300
 author: Armelle
 image: 'images/grinbok-entre-deux-ciels-cover.jpg'
 tags: ["Fantasy"]
-featured: true
+featured: false
 toc: true
 ---
 

@@ -6,7 +6,7 @@ date: 2026-04-26 20:00:00 +0300
 author: Armelle
 image: 'images/charlie-et-wouf-cover.jpg'
 tags: ["Aventure","Animaux","Humour","Amitié"]
-featured: true
+featured: false
 toc: true
 ---
 

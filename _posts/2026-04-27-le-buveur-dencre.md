@@ -6,7 +6,7 @@ date: 2026-04-27 20:00:00 +0300
 author: Armelle
 image: 'images/le-buveur-dencre-cover.jpg'
 tags: ["BD","Humour","Fantastique"]
-featured: true
+featured: false
 toc: true
 ---
 

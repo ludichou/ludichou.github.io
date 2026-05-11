@@ -6,7 +6,7 @@ date: 2026-04-28 20:00:00 +0300
 author: Armelle
 image: 'images/les-aventuriers-du-jardin-cover.jpg'
 tags: ["Jardin","Aventure"]
-featured: true
+featured: false
 toc: true
 ---
 

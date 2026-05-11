@@ -6,7 +6,7 @@ date: 2026-04-27 20:00:00 +0300
 author: Armelle
 image: 'images/lamour-fait-fleurir-les-jardins-cover.jpg'
 tags: ["Jardin","Amour","Transmission"]
-featured: true
+featured: false
 toc: true
 ---
 
