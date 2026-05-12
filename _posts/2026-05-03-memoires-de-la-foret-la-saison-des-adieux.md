@@ -6,7 +6,7 @@ date: 2026-05-02 20:00:00 +0300
 author: Armelle
 image: 'images/memoire-de-la-foret-la-saison-des-adieux-cover.jpg'
 tags: ["Roman","Transmission","Deuil"]
-featured: true
+featured: false
 toc: true
 ---
 

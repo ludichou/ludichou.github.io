@@ -6,7 +6,7 @@ date: 2026-05-01 20:00:00 +0300
 author: Armelle
 image: 'images/les-pirates-cover.jpg'
 tags: ["Pirates","Aventure"]
-featured: true
+featured: false
 toc: true
 ---
 

@@ -6,7 +6,7 @@ date: 2026-04-30 20:00:00 +0300
 author: Armelle
 image: 'images/fantome-et-monstres-cover.jpg'
 tags: ["Fantôme","Monstre","Aventure"]
-featured: true
+featured: false
 toc: true
 ---
 
