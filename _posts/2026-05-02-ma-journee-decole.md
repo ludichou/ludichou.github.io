@@ -6,7 +6,7 @@ date: 2026-05-02 20:00:00 +0300
 author: Armelle
 image: 'images/ma-journee-decole-cover.jpg'
 tags: ["Ecole","Humour"]
-featured: true
+featured: false
 toc: true
 ---
 
