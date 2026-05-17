@@ -6,7 +6,7 @@ date: 2026-05-04 20:00:00 +0300
 author: Armelle
 image: 'images/le-scorpion-et-la-fleur-dans-la-nuit-tome-1-cover.jpg'
 tags: ["Roman","Romantasy","Romance","Fantasy"]
-featured: true
+featured: false
 toc: true
 ---
 

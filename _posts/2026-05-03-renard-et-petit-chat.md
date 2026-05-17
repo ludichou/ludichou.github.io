@@ -6,7 +6,7 @@ date: 2026-05-03 20:00:00 +0300
 author: Armelle
 image: 'images/renard-et-petit-chat-cover.jpg'
 tags: ["Humour","Animaux","Aventure","Amitié"]
-featured: true
+featured: false
 toc: true
 ---
 
