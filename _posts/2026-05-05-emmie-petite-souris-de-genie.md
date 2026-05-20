@@ -6,7 +6,7 @@ date: 2026-05-05 20:00:00 +0300
 author: Armelle
 image: 'images/emmie-petite-souris-de-genie-cover.jpg'
 tags: ["Aventure","Amitié","Différence","Animaux"]
-featured: true
+featured: false
 toc: true
 ---
 

@@ -6,7 +6,7 @@ date: 2026-05-04 20:00:00 +0300
 author: Armelle
 image: 'images/bien-a-labri-cover.jpg'
 tags: ["Valeurs","Amitié","Saison"]
-featured: true
+featured: false
 toc: true
 ---
 

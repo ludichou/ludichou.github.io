@@ -6,7 +6,7 @@ date: 2026-05-11 20:00:00 +0300
 author: Armelle
 image: 'images/poussin-tout-rouge-cover.jpg'
 tags: ["Emotions","Fratrie"]
-featured: true
+featured: false
 toc: true
 ---
 

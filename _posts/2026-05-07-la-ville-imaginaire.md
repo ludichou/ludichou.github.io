@@ -6,7 +6,7 @@ date: 2026-05-07 20:00:00 +0300
 author: Armelle
 image: 'images/la-ville-imaginaire-cover.jpg'
 tags: ["Imagination","Aventure"]
-featured: true
+featured: false
 toc: true
 ---
 
