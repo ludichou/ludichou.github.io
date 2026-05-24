@@ -6,7 +6,7 @@ date: 2026-05-09 20:00:00 +0300
 author: Armelle
 image: 'images/laventure-du-doudou-perdu-cover.jpg'
 tags: ["Aventure","Doudou","Emotions"]
-featured: true
+featured: false
 toc: true
 ---
 

@@ -6,7 +6,7 @@ date: 2026-05-06 20:00:00 +0300
 author: Armelle
 image: 'images/magie-sous-haute-tension-cover.jpg'
 tags: ["Roman-jeu","Aventure","Magie","Cirque","Jeux"]
-featured: true
+featured: false
 toc: true
 ---
 

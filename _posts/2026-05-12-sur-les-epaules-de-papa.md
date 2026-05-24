@@ -6,7 +6,7 @@ date: 2026-05-12 20:00:00 +0300
 author: Armelle
 image: 'images/sur-les-epaules-de-papa-cover.jpg'
 tags: ["Amour","Ours"]
-featured: true
+featured: false
 toc: true
 ---
 
