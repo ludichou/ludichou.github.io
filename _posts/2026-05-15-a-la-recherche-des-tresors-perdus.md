@@ -6,7 +6,7 @@ date: 2026-05-15 20:00:00 +0300
 author: Armelle
 image: 'images/a-la-poursuit-des-tresors-perdus-cover.jpg'
 tags: ["Cherche et trouve","Loupe magique"]
-featured: true
+featured: false
 toc: true
 ---
 

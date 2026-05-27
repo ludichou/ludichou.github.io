@@ -6,7 +6,7 @@ date: 2026-05-10 20:00:00 +0300
 author: Armelle
 image: 'images/pipouette-deborde-demotion-la-rencontre-cover.jpg'
 tags: ["Emotions"]
-featured: true
+featured: false
 toc: true
 ---
 
