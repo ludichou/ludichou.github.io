@@ -6,7 +6,7 @@ date: 2026-05-13 20:00:00 +0300
 author: Armelle
 image: 'images/un-petit-tour-cover.jpg'
 tags: ["Nature","Partage","Valeurs"]
-featured: true
+featured: false
 toc: true
 ---
 
