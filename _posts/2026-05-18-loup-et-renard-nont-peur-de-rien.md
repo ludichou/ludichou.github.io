@@ -6,7 +6,7 @@ date: 2026-05-17 20:00:00 +0300
 author: Armelle
 image: 'images/loup-et-renard-nont-peur-de-rien-cover.jpg'
 tags: ["Amitié","Peur","Fantôme","Aventure"]
-featured: true
+featured: false
 toc: true
 ---
 
