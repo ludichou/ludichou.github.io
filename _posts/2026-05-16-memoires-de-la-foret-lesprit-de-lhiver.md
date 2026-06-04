@@ -6,7 +6,7 @@ date: 2026-05-16 20:00:00 +0300
 author: Armelle
 image: 'images/memoire-de-la-foret-lesprit-de-lhiver-cover.jpg'
 tags: ["Roman","Deuil","Amitié"]
-featured: true
+featured: false
 toc: true
 ---
 

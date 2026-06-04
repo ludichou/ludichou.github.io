@@ -6,7 +6,7 @@ date: 2026-05-17 20:00:00 +0300
 author: Armelle
 image: 'images/suivre-la-lune-cover.jpg'
 tags: ["Valeurs","Amour","Changement","Voyage"]
-featured: true
+featured: false
 toc: true
 ---
 

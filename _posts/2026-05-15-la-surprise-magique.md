@@ -6,7 +6,7 @@ date: 2026-05-15 20:00:00 +0300
 author: Armelle
 image: 'images/la-surprise-magique-cover.jpg'
 tags: ["Magie","Différence","Amitié"]
-featured: true
+featured: false
 toc: true
 ---
 
