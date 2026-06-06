@@ -6,7 +6,7 @@ date: 2026-05-23 20:00:00 +0300
 author: Armelle
 image: 'images/foudroyant-tome-2-cover.jpg'
 tags: ["BD","Magie","Aventure"]
-featured: true
+featured: false
 toc: true
 ---
 

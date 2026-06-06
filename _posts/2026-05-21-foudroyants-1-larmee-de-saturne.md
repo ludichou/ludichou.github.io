@@ -6,7 +6,7 @@ date: 2026-05-21 20:00:00 +0300
 author: Armelle
 image: 'images/foudroyants-larmee-de-neptume-1-cover.jpg'
 tags: ["BD","Magie"]
-featured: true
+featured: false
 toc: true
 ---
 

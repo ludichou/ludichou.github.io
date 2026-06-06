@@ -6,7 +6,7 @@ date: 2026-05-25 20:00:00 +0300
 author: Armelle
 image: 'images/foudroyant-le-labyrinthe-des-brumes-cover.jpg'
 tags: ["BD","Magie","Aventure"]
-featured: true
+featured: false
 toc: true
 ---
 
