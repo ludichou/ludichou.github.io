@@ -6,7 +6,7 @@ date: 2026-05-24 20:00:00 +0300
 author: Armelle
 image: 'images/prends-soin-de-toi-cover.jpg'
 tags: ["Voyage","Valeurs"]
-featured: true
+featured: false
 toc: true
 ---
 
