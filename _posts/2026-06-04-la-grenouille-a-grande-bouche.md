@@ -5,7 +5,7 @@ description: Un véritable coup de cœur à la maison ! Cet album nous a fait ri
 date: 2026-06-04 20:00:00 +0300
 author: Armelle
 image: 'images/la-grenouille-a-grande-bouche-cover.jpg'
-tags: ["Humour","Aventure"]
+tags: ["Humour","Aventure","Animaux"]
 featured: true
 toc: true
 ---
