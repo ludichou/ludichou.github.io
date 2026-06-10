@@ -6,7 +6,7 @@ date: 2026-06-01 20:00:00 +0300
 author: Armelle
 image: 'images/les-jolies-choses-cover.jpg'
 tags: ["Nature","Partage"]
-featured: true
+featured: false
 toc: true
 ---
 
