@@ -6,7 +6,7 @@ date: 2026-05-26 20:00:00 +0300
 author: Armelle
 image: 'images/parce-que-tu-es-la-cover.jpg'
 tags: ["Valeurs","Amitié"]
-featured: true
+featured: false
 toc: true
 ---
 

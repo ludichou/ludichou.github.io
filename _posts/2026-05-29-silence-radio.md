@@ -6,7 +6,7 @@ date: 2026-05-29 20:00:00 +0300
 author: Armelle
 image: 'images/silence-radio-cover.jpg'
 tags: ["Roman","Réalisme contemporain"]
-featured: true
+featured: false
 toc: true
 ---
 
