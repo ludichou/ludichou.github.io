@@ -6,7 +6,7 @@ date: 2026-06-02 20:00:00 +0300
 author: Armelle
 image: 'images/sunny-et-ses-amis-la-journee-plage-et-la-fete-cocoplage-cover.jpg'
 tags: ["Eté","Plage","Amitié","Vacances","Partage","Stickers"]
-featured: true
+featured: false
 toc: true
 ---
 
