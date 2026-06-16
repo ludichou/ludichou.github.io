@@ -6,7 +6,7 @@ date: 2026-06-03 20:00:00 +0300
 author: Armelle
 image: 'images/trois-histoires-de-souris-cover.jpg'
 tags: ["Souris","Plage","Ecole",]
-featured: true
+featured: false
 toc: true
 ---
 

@@ -6,15 +6,15 @@ date: 2026-06-02 20:00:00 +0300
 author: Armelle
 image: 'images/le-tigre-de-val-morin-cover.jpg'
 tags: ["Nature","Animaux","Aventure","Timidité","Différence","Fable"]
-featured: true
+featured: false
 toc: true
 ---
 
 {: .q-left }
 
-Langue : Français.  
-Auteur/Illustrations: Agathe Bray-Bourret.              
-Editeur : Les 400 coups.           
+Langue : Français.    
+Auteur/Illustrations: Agathe Bray-Bourret.                        
+Editeur : Les 400 coups.                 
 Age : Dès 5 ans.                            
 Date de parution : 11 juin 2026.       
 
