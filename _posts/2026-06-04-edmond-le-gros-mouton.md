@@ -6,7 +6,7 @@ date: 2026-06-04 20:00:00 +0300
 author: Armelle
 image: 'images/edmond-gros-mouton-cover.jpg'
 tags: ["Humour","Amitié","Animaux"]
-featured: true
+featured: false
 toc: true
 ---
 
