@@ -6,7 +6,7 @@ date: 2026-06-09 20:00:00 +0300
 author: Armelle
 image: 'images/quand-tu-seras-grand-cover.jpg'
 tags: ["Amour","Bienveillance","Grandir","Naissance","Affirmation de soi"]
-featured: true
+featured: false
 toc: true
 ---
 

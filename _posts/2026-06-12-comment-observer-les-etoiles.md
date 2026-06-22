@@ -6,7 +6,7 @@ date: 2026-06-12 20:00:00 +0300
 author: Armelle
 image: 'images/mon-guide-pour-observer-les-etoiles-cover.jpg'
 tags: ["Astronomie","Documentaire"]
-featured: true
+featured: false
 toc: true
 ---
 
