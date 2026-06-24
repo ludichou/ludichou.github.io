@@ -2,11 +2,11 @@
 layout: post
 title: Bou et la baguette magique de Julie Jaumot et Windy.
 description: Nous avions beaucoup aimé les précédents albums de Bou, alors nous avions hâte de la retrouver dans cette nouvelle aventure à la mer. Nous partirons au bord de la mer cette année !
-date: 2026-06-15 20:00:00 +0300
+date: 2026-06-16 20:00:00 +0300
 author: Armelle
 image: 'images/bou-et-la-baguette-magique-cover.jpg'
 tags: ["Eté","Confiance","Magie"]
-featured: true
+featured: false
 toc: true
 ---
 
