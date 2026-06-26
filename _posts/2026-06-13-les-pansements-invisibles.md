@@ -23,7 +23,7 @@ Date de parution : 2 octobre 2025.
 
 " Un livre pour soigner toutes les blessures, tapies sous nos pansements invisibles".
 
-" Baptiste Beauliet est médecin généraliste et écrivain, auteur de bests-sellers Les gens sont beaux, On a deux yeux pour voir, je suis moi et personne d'autre, vendus à plus de 300 000 exemplaires".
+" Baptiste Beaulieu est médecin généraliste et écrivain, auteur de best-sellers Les gens sont beaux, On a deux yeux pour voir, je suis moi et personne d'autre, vendus à plus de 300 000 exemplaires".
 
 ## Pourquoi on aime Les pansements invisibles?
 
