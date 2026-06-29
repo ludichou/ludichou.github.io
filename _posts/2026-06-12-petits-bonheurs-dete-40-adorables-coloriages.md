@@ -2,7 +2,7 @@
 layout: post
 title: Petits bonheurs d'été 40 adorables coloriages de Beckycas et Axel Mahé.
 description: Le coloriage fait partie des activités que nous aimons beaucoup avec Louis. Nous le faisons parfois chacun de notre côté, parfois ensemble, et ces moments sont toujours l'occasion de ralentir et de partager un agréable instant de complicité.
-date: 2026-06-12 20:00:00 +0300
+date: 2026-06-20 20:00:00 +0300
 author: Armelle
 image: 'images/petits-bonheurs-dete-40-adorables-coloriages-cover.jpg'
 tags: ["Eté","Coloriage"]

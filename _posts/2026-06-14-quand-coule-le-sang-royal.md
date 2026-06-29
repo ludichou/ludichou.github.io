@@ -6,7 +6,7 @@ date: 2026-06-14 20:00:00 +0300
 author: Armelle
 image: 'images/quand-coule-le-sang-royal-cover.jpg'
 tags: ["Roman","Thriller","Roman"]
-featured: true
+featured: false
 toc: true
 ---
 

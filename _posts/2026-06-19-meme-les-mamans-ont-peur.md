@@ -14,7 +14,7 @@ toc: true
 
 Langue : Français.    
 Auteur : Chiara Ravizza.      
-Illustrations : Susanna Covelli.  
+Illustrations : Susanna Covelli.
 Traduction : Sarah Negrel.                
 Editeur : Sassi.            
 Age : Dès 3 ans                            
