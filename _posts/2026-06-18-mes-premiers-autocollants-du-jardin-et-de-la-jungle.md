@@ -6,7 +6,7 @@ date: 2026-06-18 20:00:00 +0300
 author: Armelle
 image: 'images/mes-premiers-autocollants-des-animaux-cover.jpg'
 tags: ["Jardin","Animaux","Autocollants"]
-featured: true
+featured: false 
 toc: true
 ---
 

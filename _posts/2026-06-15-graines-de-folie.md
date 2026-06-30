@@ -6,7 +6,7 @@ date: 2026-06-15 20:00:00 +0300
 author: Armelle
 image: 'images/graines-de-folie-cover.jpg'
 tags: ["Fratrie","Grand-mère","Valeurs","Graines"]
-featured: true
+featured: false
 toc: true
 ---
 
