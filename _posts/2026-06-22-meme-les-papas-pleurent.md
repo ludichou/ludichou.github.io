@@ -6,7 +6,7 @@ date: 2026-06-22 20:00:00 +0300
 author: Armelle
 image: 'images/meme-les-papas-pleurent-cover.jpg'
 tags: ["Papa","Emotions"]
-featured: true
+featured: false
 toc: true
 ---
 

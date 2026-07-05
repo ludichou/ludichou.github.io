@@ -6,7 +6,7 @@ date: 2026-06-20 20:00:00 +0300
 author: Armelle
 image: 'images/patoche-&-timmy-vive-les-vacances-cover.jpg'
 tags: ["Vacances","Amitié","Eté","Mer"]
-featured: true
+featured: false
 toc: true
 ---
 
