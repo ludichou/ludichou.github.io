@@ -6,7 +6,7 @@ date: 2026-06-24 20:00:00 +0300
 author: Armelle
 image: 'images/la-lignee-des-maudits-cover.jpg'
 tags: ["Roman","Fantôme","Enquête"]
-featured: true
+featured: false
 toc: true
 ---
 
