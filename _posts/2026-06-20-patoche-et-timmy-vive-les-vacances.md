@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Patoche & Timmy : Vive les vacances"
+title: " Patoche & Timmy : Vive les vacances"
 description: Nous avions beaucoup aimé les précédentes aventures de Patoche et Timmy. Les retrouver à la mer nous a fait encore plus plaisir, d'autant que nous aussi avons prévu de passer nos vacances à le mer cette année.
 date: 2026-06-20 20:00:00 +0300
 author: Armelle
