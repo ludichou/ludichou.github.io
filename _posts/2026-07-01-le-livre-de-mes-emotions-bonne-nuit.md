@@ -17,7 +17,7 @@ Auteur : Stéphanie Couturier.
 Illustrations : Maurèen Poignonec.               
 Editeur : Grund.            
 Age : Dès 4 ans.                            
-Date de parution :        
+Date de parution : 14 novembre 2024.        
 
 ## Résumé
 

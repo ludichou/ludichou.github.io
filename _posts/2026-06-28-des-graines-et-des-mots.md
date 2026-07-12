@@ -6,7 +6,7 @@ date: 2026-06-28 20:00:00 +0300
 author: Armelle
 image: 'images/des-graines-et-des-mots-cover.jpg'
 tags: ["Graines","Valeurs"]
-featured: true
+featured: false
 toc: true
 ---
 

@@ -6,8 +6,7 @@ date: 2026-06-27 20:00:00 +0300
 author: Armelle
 image: 'images/les-mecs-parfaits-se-trouvent-en-altitude-cover.jpg'
 tags: ["Roman","Romance","Adolescence"]
-featured: true
-toc: true
+featured: false
 ---
 
 {: .q-left }
