@@ -6,7 +6,7 @@ date: 2026-06-25 20:00:00 +0300
 author: Armelle
 image: 'images/trop-classe-cover.jpg'
 tags: ["Animaux","Ecole"]
-featured: true
+featured: false
 toc: true
 ---
 
