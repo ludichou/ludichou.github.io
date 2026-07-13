@@ -6,7 +6,7 @@ date: 2026-06-29 20:00:00 +0300
 author: Armelle
 image: 'images/patoche-&-timmy-tous-sur-le-podium-cover.jpg'
 tags: ["Amitié","Aventure","Sport"]
-featured: true
+featured: false
 toc: true
 ---
 

@@ -6,7 +6,7 @@ date: 2026-06-26 20:00:00 +0300
 author: Armelle
 image: 'images/ma-petite-ville-et-mes-petites-douceurs-cover.jpg'
 tags: ["Coloriages"]
-featured: true
+featured: false
 toc: true
 ---
 

@@ -16,7 +16,7 @@ Langue : Français.
 Auteur/Illustrations : Fiona Powers.               
 Editeur : Glénat Jeunesse.            
 Age : Dès un an.                             
-Date de parution :        
+Date de parution : 4 mars 2026        
 
 ## Résumé
 

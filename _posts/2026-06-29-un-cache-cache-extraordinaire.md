@@ -5,7 +5,7 @@ description: Un cache-cache original, sans texte, qui invite à observer, dédui
 date: 2026-06-29 20:00:00 +0300
 author: Armelle
 image: 'images/un-cache-cache-extraordinaire-cover.jpg'
-tags: ["Cherche et trouve","Animaux"]
+tags: ["Cherche et trouve","Animaux","Différence"]
 featured: true
 toc: true
 ---
@@ -13,7 +13,7 @@ toc: true
 {: .q-left }
 
 Langue : Français.  
-Auteur/Illustrations : de Philip Waechter.               
+Auteur/Illustrations : Philip Waechter.               
 Editeur : Didier Jeunesse           
 Age : Dès 3 ans.                            
 Date de parution :11 février 2026.       
