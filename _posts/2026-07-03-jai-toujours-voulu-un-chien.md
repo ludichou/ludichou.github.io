@@ -6,7 +6,7 @@ date: 2026-07-03 20:00:00 +0300
 author: Armelle
 image: 'images/jai-toujours-voulu-un-chien-cover.jpg'
 tags: ["Humour","Animaux"]
-featured: true
+featured: false
 toc: true
 ---
 

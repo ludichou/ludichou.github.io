@@ -6,7 +6,7 @@ date: 2026-06-30 20:00:00 +0300
 author: Armelle
 image: 'images/petite-girage-curieuse-cover.jpg'
 tags: ["Eveil","Aventure","Animaux"]
-featured: true
+featured: false
 toc: true
 ---
 

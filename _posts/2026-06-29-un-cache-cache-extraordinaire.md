@@ -6,7 +6,7 @@ date: 2026-06-29 20:00:00 +0300
 author: Armelle
 image: 'images/un-cache-cache-extraordinaire-cover.jpg'
 tags: ["Cherche et trouve","Animaux","Différence"]
-featured: true
+featured: famse
 toc: true
 ---
 
