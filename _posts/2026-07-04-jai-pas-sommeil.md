@@ -2,12 +2,11 @@
 layout: post
 title: J'ai pas sommeil ! Histoires et rituels pour s'endormir paisiblement de Louison Nielman et Thierry Manes.
 description: Un album à la fois ludique et bienveillant, qui propose des outils concrets pour apaiser le coucher et accueillir ses émotions.
-
 date: 2026-07-04 20:00:00 +0300
 author: Armelle
 image: 'images/jai-pas-sommeil-cover.jpg'
 tags: ["Sommeil","Emotions"]
-featured: true
+featured: false
 toc: true
 ---
 
