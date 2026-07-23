@@ -6,7 +6,7 @@ date: 2026-07-02 20:00:00 +0300
 author: Armelle
 image: 'images/non-non-na-plus-rien-a-se-mettre-cover.jpg'
 tags: ["Flaps","Humour","Animaux"]
-featured: true
+featured: false
 toc: true
 ---
 

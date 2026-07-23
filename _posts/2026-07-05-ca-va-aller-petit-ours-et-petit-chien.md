@@ -6,7 +6,7 @@ date: 2026-07-05 20:00:00 +0300
 author: Armelle
 image: 'images/ca-va-aller-petit-ours-et-petit-chien-cover.jpg'
 tags: ["Animaux","Emotions","Blessure"]
-featured: true
+featured: false
 toc: true
 ---
 

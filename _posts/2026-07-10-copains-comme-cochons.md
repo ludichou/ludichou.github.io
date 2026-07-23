@@ -6,7 +6,7 @@ date: 2026-07-10 20:00:00 +0300
 author: Armelle
 image: 'images/copains-comme-cochons-cover.jpg'
 tags: ["Amitié","Harcèlement"]
-featured: true
+featured: false
 toc: true
 ---
 
