@@ -5,7 +5,7 @@ description: En attendant de retrouver la plage cet été, cette histoire nous a
 date: 2026-07-13 20:00:00 +0300
 author: Armelle
 image: 'images/capitaine-papa-cover.jpg'
-tags: ["Papa","Plage","Eté","Vacances"]
+tags: ["Papa","Plage","Eté","Vacances","Mer"]
 featured: true
 toc: true
 ---
