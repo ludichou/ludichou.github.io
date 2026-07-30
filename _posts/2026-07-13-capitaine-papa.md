@@ -6,7 +6,7 @@ date: 2026-07-13 20:00:00 +0300
 author: Armelle
 image: 'images/capitaine-papa-cover.jpg'
 tags: ["Papa","Plage","Eté","Vacances","Mer"]
-featured: true
+featured: false
 toc: true
 ---
 

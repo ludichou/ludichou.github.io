@@ -6,7 +6,7 @@ date: 2026-07-02 20:00:00 +0300
 author: Armelle
 image: 'images/letrange-petite-fleur-cover.jpg'
 tags: ["Conflits","Différence"]
-featured: true
+featured: false
 toc: true
 ---
 
