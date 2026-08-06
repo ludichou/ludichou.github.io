@@ -6,7 +6,7 @@ date: 2026-07-17 20:00:00 +0300
 author: Armelle
 image: 'images/memoires-de-la-foret-prestige-cover.jpg'
 tags: ["Valeurs","Saison","Roman","Aventure"]
-featured: true
+featured: false
 toc: true
 ---
 

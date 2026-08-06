@@ -6,7 +6,7 @@ date: 2026-07-16 20:00:00 +0300
 author: Armelle
 image: 'images/le-club-des-grands-voyageurs-cover.jpg'
 tags: ["Voyage","Animaux","Aventure"]
-featured: true
+featured: false
 toc: true
 ---
 

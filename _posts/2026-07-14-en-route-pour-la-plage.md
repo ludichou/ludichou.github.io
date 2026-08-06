@@ -6,7 +6,7 @@ date: 2026-07-14 20:00:00 +0300
 author: Armelle
 image: 'images/en-route-pour-la-plage-cover.jpg'
 tags: ["Animaux","Plage","Mer"]
-featured: true
+featured: false
 toc: true
 ---
 
