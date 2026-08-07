@@ -6,7 +6,7 @@ date: 2026-07-18 20:00:00 +0300
 author: Armelle
 image: 'images/les-chiens-pirates-et-la-course-au-tresor-cover.jpg'
 tags: ["Aventure","Trésor", "Pirate","Animaux","Humour","Mer","Chiens pirate"]
-featured: true
+featured: false
 toc: true
 ---
 
