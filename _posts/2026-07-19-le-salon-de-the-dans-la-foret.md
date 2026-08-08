@@ -6,7 +6,7 @@ date: 2026-07-19 20:00:00 +0300
 author: Armelle
 image: 'images/le-salon-de-the-dans-la-foret-cover.jpg'
 tags: ["Amitié","Partage","Amitié","Valeurs"]
-featured: true
+featured: false
 toc: true
 ---
 
