@@ -6,7 +6,7 @@ date: 2026-07-26 20:00:00 +0300
 author: Armelle
 image: 'images/jack-et-le-haricot-et-le-chene-et-le-jonc-cover.jpg'
 tags: ["Lecture"]
-featured: true
+featured: false
 toc: true
 ---
 
