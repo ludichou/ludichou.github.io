@@ -6,7 +6,7 @@ date: 2026-07-23 20:00:00 +0300
 author: Armelle
 image: 'images/les-folles-aventures-de-la-famille-bebert-cover.jpg'
 tags: ["Aventure","Animaux","Paris","Spectacle","Rêve"]
-featured: true
+featured: false
 toc: true
 ---
 
