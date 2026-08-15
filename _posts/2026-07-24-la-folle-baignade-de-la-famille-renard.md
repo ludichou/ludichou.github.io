@@ -14,7 +14,7 @@ toc: true
 
 Langue : Français.  
 Auteur : Sylvain Zorzin.  
-Illustrations :  Alice Jago.               
+Illustrations : Alice Jago.               
 Editeur : Fleurus.           
 Age : Dès 3 ans.                            
 Date de parution : 19 juin 2026.       
