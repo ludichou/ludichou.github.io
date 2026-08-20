@@ -6,7 +6,7 @@ date: 2026-07-27 20:00:00 +0300
 author: Armelle
 image: 'images/atlas-du-monde-illustre-cover.jpg'
 tags: ["Atlas","Monde"]
-featured: true
+featured: false
 toc: true
 ---
 

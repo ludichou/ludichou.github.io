@@ -6,7 +6,7 @@ date: 2026-07-22 20:00:00 +0300
 author: Armelle
 image: 'images/toujours-avec-moi-ma-premiere-journee-decole-cover.jpg'
 tags: ["Ecole","Rentree","Emotions"]
-featured: true
+featured: false
 toc: true
 ---
 
