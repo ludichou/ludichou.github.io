@@ -21,7 +21,7 @@ Date de parution : 25 février 2022.
 
 ## Résumé
 
-" Peu importe où tu seras. Je penserai à toi. Je te fais un bisou. Toi-aussi, embrassse-moi".
+" Peu importe où tu seras. Je penserai à toi. Je te fais un bisou. Toi-aussi, embrasse-moi".
 
 ## Pourquoi on aime Où que tu sois?
 

@@ -6,7 +6,7 @@ date: 2026-07-24 20:00:00 +0300
 author: Armelle
 image: 'images/la-folle-baignade-de-la-famille-renard-cover.jpg'
 tags: ["Animaux","Mer","Vacances","Eté","Saison"]
-featured: true
+featured: false
 toc: true
 ---
 
