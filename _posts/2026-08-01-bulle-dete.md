@@ -6,7 +6,7 @@ date: 2026-08-01 20:00:00 +0300
 author: Armelle
 image: 'images/bulle-dete-cover.jpg'
 tags: ["Eté","Saison"]
-featured: true
+featured: false
 toc: true
 ---
 
