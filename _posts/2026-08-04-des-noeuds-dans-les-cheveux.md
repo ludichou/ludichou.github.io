@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Des noeuds dans les cheveux de Camille Osscini et Julien Arnal.
-description: La fin des vacances approche déjà… On les imagine toujours longues, mais finalement, elles passent bien trop vite !
+description: La fin des vacances approche déjà... On les imagine toujours longues, mais finalement, elles passent bien trop vite !
 date: 2026-08-04 20:00:00 +0300
 author: Armelle
 image: 'images/des-noeuds-dans-les-cheveux-cover.jpg'
 tags: ["Eté","Saison","Vacances"]
-featured: true
+featured: false
 toc: true
 ---
 

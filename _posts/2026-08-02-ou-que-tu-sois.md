@@ -6,7 +6,7 @@ date: 2026-08-02 20:00:00 +0300
 author: Armelle
 image: 'images/ou-que-tu-sois-cover.jpg'
 tags: ["Rentrée","Ecole"]
-featured: true
+featured: false
 toc: true
 ---
 
