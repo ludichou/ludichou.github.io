@@ -6,7 +6,7 @@ date: 2026-08-05 20:00:00 +0300
 author: Armelle
 image: 'images/mo-a-plein-didees-cover.jpg'
 tags: ["Imagination","Aventure"]
-featured: true
+featured: false
 toc: true
 ---
 

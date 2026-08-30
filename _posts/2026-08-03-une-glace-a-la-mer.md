@@ -6,7 +6,7 @@ date: 2026-08-02 20:00:00 +0300
 author: Armelle
 image: 'images/une-glace-a-la-mer-cover.jpg'
 tags: ["Mer","Vacances"]
-featured: true
+featured: false
 toc: true
 ---
 
