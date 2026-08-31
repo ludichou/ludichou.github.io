@@ -6,7 +6,7 @@ date: 2026-08-07 20:00:00 +0300
 author: Armelle
 image: 'images/je-suis-la-foret-cover.jpg'
 tags: ["Nature"]
-featured: true
+featured: false
 toc: true
 ---
 
