@@ -6,7 +6,7 @@ date: 2026-08-02 20:00:00 +0300
 author: Armelle
 image: 'images/le-ballon-de-cerise-cover.jpg'
 tags: ["Stéréotype","Différence"]
-featured: true
+featured: false
 toc: true
 ---
 
