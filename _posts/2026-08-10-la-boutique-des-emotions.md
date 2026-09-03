@@ -6,7 +6,7 @@ date: 2026-08-10 20:00:00 +0300
 author: Armelle
 image: 'images/la-boutique-des-emotions-cover.jpg'
 tags: ["Emotions","Valeurs"]
-featured: true
+featured: false
 toc: true
 ---
 
