@@ -6,7 +6,7 @@ date: 2026-08-18 20:00:00 +0300
 author: Armelle
 image: 'images/detective-prout-tome-7-cover.jpg'
 tags: ["Enquête","Humour"]
-featured: true
+featured: false
 toc: true
 ---
 

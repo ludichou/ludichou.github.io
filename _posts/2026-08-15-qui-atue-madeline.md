@@ -6,7 +6,7 @@ date: 2026-08-15 20:00:00 +0300
 author: Armelle
 image: 'images/qui-atue-madeline-cover.jpg'
 tags: ["Thriller","Roman"]
-featured: true
+featured: false
 toc: true
 ---
 

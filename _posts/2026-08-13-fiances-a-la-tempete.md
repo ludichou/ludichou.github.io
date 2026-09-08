@@ -6,7 +6,7 @@ date: 2026-08-13 20:00:00 +0300
 author: Armelle
 image: 'images/fiances-a-la-tempete-cover.jpg'
 tags: ["Romantasy","Roman","Ennemies to lovers"]
-featured: true
+featured: false
 toc: true
 ---
 

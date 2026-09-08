@@ -6,7 +6,7 @@ date: 2026-08-16 20:00:00 +0300
 author: Armelle
 image: 'images/pleure-mon-petit-coeur-cover.jpg'
 tags: ["Emotions","Bébé","Amour","Valeurs"]
-featured: true
+featured: false
 toc: true
 ---
 

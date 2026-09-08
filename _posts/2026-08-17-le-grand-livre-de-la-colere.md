@@ -2,11 +2,11 @@
 layout: post
 title: Le Grand Livre de la colère de Déborah D'Hostingue et Aurore Petit. 
 description: À la maison, nous parlons souvent des émotions avec Louis et nous essayons de lui donner des clés pour l'aider à mieux comprendre et gérer sa colère. Nous l'encourageons aussi à mettre des mots sur ce qu'il ressent et à exprimer ce dont il a besoin.
-date: 2026-08-02 20:00:00 +0300
+date: 2026-08-17 20:00:00 +0300
 author: Armelle
 image: 'images/le-grand-livre-de-la-colere-cover.jpg'
 tags: ["Emotions","Colère"]
-featured: true
+featured: false
 toc: true
 ---
 

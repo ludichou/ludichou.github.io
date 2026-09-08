@@ -2,7 +2,7 @@
 layout: post
 title: Le plus beau des champignons
 description: Et si, au cœur de la forêt, les champignons décidaient d'organiser un concours pour élire le plus beau d'entre eux ? de Louison Nielman et Mona K. 
-date: 2026-08-02 20:00:00 +0300
+date: 2026-08-19 20:00:00 +0300
 author: Armelle
 image: 'images/le-plus-beau-des-champignons-cover.jpg'
 tags: ["Automne","Saison"]

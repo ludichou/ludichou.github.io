@@ -30,7 +30,7 @@ Date de parution : 28 août 2025.
 " Tout bascule lorsqu'un souvenir longtemps refoulé, interdit, remonte à la surface de son esprit : la lumière du jour, le monde d'avant les cataclysmes, son enfance... Une flamme se rallume.
 Et si une autre vie était possible en dehors des murs ?".
 
-## Pourquoi on aime Les visages du feu - Tome 1 : L'institut du nouveau lendemain ?
+## Pourquoi j'aime Les visages du feu - Tome 1 : L'institut du nouveau lendemain ?
 
 - J’ai essayé de comprendre ce qui se cachait derrière cet étrange institut. Pourquoi existe-t-il ? Que s’y passe-t-il réellement ? Entre les différents rangs, les souvenirs et les nombreux secrets, j’ai élaboré plusieurs théories au fil de ma lecture.
 - J’ai aimé découvrir peu à peu les secrets de l’Institut. Chaque révélation amenait de nouvelles questions et me donnait envie d’en savoir toujours plus.
