@@ -6,7 +6,7 @@ date: 2026-08-20 20:00:00 +0300
 author: Armelle
 image: 'images/les-viperes-veneres-cover.jpg'
 tags: ["Roman"]
-featured: true
+featured: false
 toc: true
 ---
 
