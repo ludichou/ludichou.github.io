@@ -6,7 +6,7 @@ date: 2026-08-21 20:00:00 +0300
 author: Armelle
 image: 'images/larbre-et-petit-roux-cover.jpg'
 tags: ["Partage"]
-featured: true
+featured: false
 toc: true
 ---
 
