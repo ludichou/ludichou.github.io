@@ -30,7 +30,7 @@ Date de parution : 2 septembre 2026.
 
 ![Des illustrations magnifiques](images/choupi-champi-cover.jpg)
 *Des illustrations magnifiques*
-- On découvre Choupi et Champi, deux meilleurs amis qui n’ont pas toujours les mêmes envies. Champi adore être entouré et partager des moments avec les autres, tandis que Choupi   f. ft r rfapprécie aussi de pouvoir se retrouver seul. Le lendemain, Champi va essayer de se mettre à la place de son ami et de comprendre ce qu’il peut ressentir. Une jolie façon de montrer que dans une amitié, on peut respecter les besoins et les différences de chacun.
+- On découvre Choupi et Champi, deux meilleurs amis qui n’ont pas toujours les mêmes envies. Champi adore être entouré et partager des moments avec les autres, tandis que Choupi apprécie aussi de pouvoir se retrouver seul. Le lendemain, Champi va essayer de se mettre à la place de son ami et de comprendre ce qu’il peut ressentir. Une jolie façon de montrer que dans une amitié, on peut respecter les besoins et les différences de chacun.
 - Cette histoire a rappelé à Louis Arthur Leloup : Le loup qui était trop gentil. Il m’a expliqué que parfois, on a envie de jouer avec ses amis, mais que l’on peut aussi leur dire non lorsque l’on préfère faire autre chose ou rester seul. Un bel échange pour lui rappeler qu’être amis ne signifie pas devoir toujours tout faire ensemble.
 - Louis a également adoré observer et raconter ce que faisaient Choupi et Champi. La balançoire, le cache-cache... Il me montrait les différentes activités et m’expliquait celles qu’il aimerait faire avec eux. Une lecture qui lui a permis de se projeter facilement dans leur amitié et leurs moments de complicité.
 
