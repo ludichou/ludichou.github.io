@@ -6,7 +6,7 @@ date: 2026-08-25 20:00:00 +0300
 author: Armelle
 image: 'images/la-ville-effrondree-cover.jpg'
 tags: ["Dystopie","Roman"]
-featured: true
+featured: false
 toc: true
 ---
 
