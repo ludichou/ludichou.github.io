@@ -6,7 +6,7 @@ date: 2026-08-23 20:00:00 +0300
 author: Armelle
 image: 'images/cher-automne-cover.jpg'
 tags: ["Imagier","Automne","Saison"]
-featured: true
+featured: false
 toc: true
 ---
 
