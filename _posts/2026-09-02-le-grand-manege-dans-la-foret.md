@@ -21,7 +21,7 @@ Date de parution : 4 septembre 2026.
 
 ## Résumé
 
-" Ce mati, les animaux de la forêt se réveillent en sursaut. Une musique étrange retentit, là-bas dans une clairière. D'étranges petits animaux, montés sur de drôles d'animaux de bois, tournent et tournent en riant aux éclats. Et ce grand cercke avec ce beau chapeau, c'est quoi?...".
+" Ce matin, les animaux de la forêt se réveillent en sursaut. Une musique étrange retentit, là-bas dans une clairière. D'étranges petits animaux, montés sur de drôles d'animaux de bois, tournent et tournent en riant aux éclats. Et ce grand cercle avec ce beau chapeau, c'est quoi?...".
 
 ## Pourquoi on aime Le Grand Manège dans la forêt?
 
