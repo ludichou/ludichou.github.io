@@ -49,7 +49,7 @@ Un jeu de stratégie et de suspense pour toute la famille qui fait désormais pa
 
 - De notre côté, nous avons naturellement mis de côté l’aspect compétitif pour jouer davantage en coopération, avec nos cartes visibles. On réfléchit ensemble au chemin à créer pour atteindre nos différents objectifs. Louis ne pense pas toujours à décaler une tuile au début de son tour lorsqu’il n’en a pas besoin, même s’il sait très bien comment le faire. Et lorsque nos pions se croisent sur le plateau, il a décidé qu’ils devaient se faire un câlin ! 
 
-- Il y a aujourd'hui beaucoups, beaucoups d'éditions du jeu. Des versions Pokémon, Harry Potter ou encore Pat Patrouille. Pour ma part je trouve que l'originale reste la meilleure. Son design reste l'un des plus lisible et aucune édition ne change jamais la formule de base.
+- Il y a aujourd'hui beaucoup d'éditions du jeu. Des versions Pokémon, Harry Potter ou encore Pat Patrouille. Pour ma part je trouve que l'originale reste la meilleure. Son design reste l'un des plus lisible et aucune édition ne change jamais la formule de base.
 
 ![Labyrinthe partie](images/labyrinthe-partie.jpg)
 *Labyrinthe partie*
