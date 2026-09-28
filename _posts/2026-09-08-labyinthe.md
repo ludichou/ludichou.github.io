@@ -17,9 +17,9 @@ Collaboration avec : BCD Jeux.
 Fabriquant : Ravensburger.   
 Age : Dès 7 ans. Ici joué à 5 ans et demi. 
 Durée : 15 à 30 minutes.  
-Date de parution : 20 mai 2026.
+Date de sortie : 20 mai 2026.
 
-## Résumé
+## But du jeu
 
 " Chasse aux trésors dans un labyrinthe en mouvement ! Une palpitante chasse aux trésors dans un labyrinthe en mouvement !
 
