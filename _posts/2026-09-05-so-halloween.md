@@ -6,7 +6,7 @@ date: 2026-09-04 20:00:00 +0300
 author: Armelle
 image: 'images/so-halloween-cover.jpg'
 tags: ["Coloriage","Haloween","Cosy coloriage"]
-featured: true
+featured: false
 toc: true
 ---
 

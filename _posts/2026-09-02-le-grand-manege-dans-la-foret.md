@@ -6,7 +6,7 @@ date: 2026-09-02 20:00:00 +0300
 author: Armelle
 image: 'images/le-grand-manege-de-la-foret-cover.jpg'
 tags: ["Animaux","Forêt","Imagination"]
-featured: true
+featured: false
 toc: true
 ---
 

@@ -6,7 +6,7 @@ date: 2026-09-06 20:00:00 +0300
 author: Armelle
 image: 'images/potiron-et-petite-ourse-la-course-a-larc-en-coel-cover.jpg'
 tags: ["Imagination","Aventure","Ours"]
-featured: true
+featured: false
 toc: true
 ---
 

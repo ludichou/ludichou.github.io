@@ -6,7 +6,7 @@ date: 2026-09-02 20:00:00 +0300
 author: Armelle
 image: 'images/tillo-et-compagnie-lours-da-cote-cover.jpg'
 tags: ["Animaux","Aventure","Courage"]
-featured: true
+featured: false
 toc: true
 ---
 

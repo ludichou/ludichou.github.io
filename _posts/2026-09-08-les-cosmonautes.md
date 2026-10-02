@@ -6,7 +6,7 @@ date: 2026-09-07 20:00:00 +0300
 author: Armelle
 image: 'images/les-cosmonautes-cover.jpg'
 tags: ["Deuil","amitié","Aventure","Espace","Maladie","BD"]
-featured: true
+featured: false
 toc: true
 ---
 
