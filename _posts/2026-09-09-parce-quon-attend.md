@@ -6,7 +6,7 @@ date: 2026-09-09 20:00:00 +0300
 author: Armelle
 image: 'images/pendant-quon-attend-cover.jpg'
 tags: ["Patience"]
-featured: true
+featured: false
 toc: true
 ---
 

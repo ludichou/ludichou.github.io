@@ -6,7 +6,7 @@ date: 2026-09-08 20:00:00 +0300
 author: Armelle
 image: 'images/labyrinthe-cover.jpg'
 tags: ["Halloween","Jeux","Fantastique"]
-featured: true
+featured: false
 toc: true
 ---
 

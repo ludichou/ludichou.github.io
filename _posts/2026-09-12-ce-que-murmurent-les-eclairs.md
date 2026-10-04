@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ce que murmurent les éclairs de Pauline Gallois.
-description: 
+description: Entre contexte historique, secrets et personnages touchants, je me suis rapidement laissée emporter par l’histoire d’Antoine et Mirabelle.
 date: 2026-09-12 20:00:00 +0300
 author: Armelle
 image: 'images/ce-que-murmurent-les-eclairs-cover.jpg'
@@ -28,7 +28,7 @@ Date de parution : 10 septembre 2026.
 
 " De Paris à Londres, de secrets en mensonges, s'engage une course contre la montre qui s'annonce... électrique !".
 
-## Pourquoi on aime Ce que murmurent les éclairs?
+## Pourquoi j'aime Ce que murmurent les éclairs?
 
 ![Des illustrations magnifiques](images/ce-que-murmurent-les-eclairs-int.jpg)
 *Des illustrations magnifiques*
