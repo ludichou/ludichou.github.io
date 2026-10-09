@@ -5,7 +5,7 @@ description: " Louis adore la magie de Noël. Nous avons découvert cet album to
 date: 2026-09-15 20:00:00 +0300
 author: Armelle
 image: 'images/super-traineau-du-pere-noel-cover.jpg'
-tags: ["Noel"]
+tags: ["Noël"]
 featured: true
 toc: true
 ---
