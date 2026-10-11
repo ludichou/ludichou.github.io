@@ -6,7 +6,7 @@ date: 2026-09-16 20:00:00 +0300
 author: Armelle
 image: 'images/coloriage-palmiers-chaussettes-et-buche-glacee-cover.jpg'
 tags: ["Coloriage","Noël"]
-featured: true
+featured: false
 toc: true
 ---
 

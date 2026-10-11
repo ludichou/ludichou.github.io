@@ -6,7 +6,7 @@ date: 2026-09-11 20:00:00 +0300
 author: Armelle
 image: 'images/une-tempete-demotions-cover.jpg'
 tags: ["Emotions","Amitié","Ours"]
-featured: true
+featured: false
 toc: true
 ---
 

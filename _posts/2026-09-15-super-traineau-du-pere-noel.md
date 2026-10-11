@@ -6,7 +6,7 @@ date: 2026-09-15 20:00:00 +0300
 author: Armelle
 image: 'images/super-traineau-du-pere-noel-cover.jpg'
 tags: ["Noël"]
-featured: true
+featured: false
 toc: true
 ---
 
