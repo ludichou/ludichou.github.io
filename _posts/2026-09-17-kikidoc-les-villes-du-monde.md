@@ -6,7 +6,7 @@ date: 2026-09-17 20:00:00 +0300
 author: Armelle
 image: 'images/kikidoc-des-villes-du-monde-cover.jpg'
 tags: ["Documentaire","Kikidoc"]
-featured: true
+featured: false
 toc: true
 ---
 
