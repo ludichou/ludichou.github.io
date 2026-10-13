@@ -6,7 +6,7 @@ date: 2026-09-14 20:00:00 +0300
 author: Armelle
 image: 'images/la-huitieme-sorciere-cover.jpg'
 tags: ["Halloween","Humour"]
-featured: true
+featured: false
 toc: true
 ---
 
