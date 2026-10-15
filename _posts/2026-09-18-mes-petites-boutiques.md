@@ -6,7 +6,7 @@ date: 2026-09-17 20:00:00 +0300
 author: Armelle
 image: 'images/mes-petites-boutiques-cover.jpg'
 tags: ["Coloriages"]
-featured: true
+featured: false
 toc: true
 ---
 

@@ -6,7 +6,7 @@ date: 2026-09-10 20:00:00 +0300
 author: Armelle
 image: 'images/jai-un-message-pour-toi-cover.jpg'
 tags: ["Valeurs","Confiance","Estime de soi","Recommandation"]
-featured: true
+featured: false
 toc: true
 ---
 
