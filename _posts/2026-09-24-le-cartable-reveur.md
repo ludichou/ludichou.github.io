@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Le Cartable rêveur de Carl Norac, Violette Grabski, Delphine Balme et Clémence Monnet. 
+title: Le Cartable rêveur de Carl Norac, Violette Grabski, Delphine Balme, Clémence Monnet et Marie Horrie,
 description: Et si la poésie nous faisait découvrir l'école autrement ? Un recueil de 28 poèmes originaux, pleins de fantaisie et d'humour, qui ont beaucoup amusé Louis depuis son entrée au CP !
 date: 2026-09-24 20:00:00 +0300
 author: Armelle
@@ -13,8 +13,8 @@ toc: true
 {: .q-left }
 
 Langue : Français.  
-Auteur : Carl Norac. 
-Illustrations : Violette Grabski, Delphine Balme et Clémence Monnet.               
+Auteur : Carl Norac.  
+Illustrations : Violette Grabski, Delphine Balme, Clémence Monnet etMarie Horrie.            
 Editeur : Didier Jeunesse.            
 Age : Dè 6 ans.                            
 Date de parution : 26 août 2026.       
@@ -26,7 +26,7 @@ La maîtresse dit toujours qu’un poète est un rêveur de jour".
 
 " Dans ce recueil de 28 poèmes, Carl Norac explore avec tendresse et facétie l’année scolaire, de la rentrée aux vacances d’été".
 
-" Cartable studieux pour le leçons ou crocodiles qui s'amusent dan les flaque d'eau, les seule frontières sont celles de l'imagination quand il s'agit de rêver de quotidien".
+" Cartable studieux pour les leçons ou crocodiles qui s'amusent dans les flaques d'eau, les seules frontières sont celles de l'imagination quand il s'agit de rêver de quotidien".
 
 ## Pourquoi on aime Le Cartable rêveur?
 

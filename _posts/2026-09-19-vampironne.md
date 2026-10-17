@@ -6,7 +6,7 @@ date: 2026-09-19 20:00:00 +0300
 author: Armelle
 image: 'images/vampironne-cover.jpg'
 tags: ["Halloween","Différence"]
-featured: true
+featured: false
 toc: true
 ---
 

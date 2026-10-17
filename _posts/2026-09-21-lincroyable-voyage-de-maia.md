@@ -6,7 +6,7 @@ date: 2026-09-21 20:00:00 +0300
 author: Armelle
 image: 'images/lincroyable-voyage-de-maia-cover.jpg'
 tags: ["Voyage","Confiance en soi","Imaginaire"]
-featured: true
+featured: false
 toc: true
 ---
 
