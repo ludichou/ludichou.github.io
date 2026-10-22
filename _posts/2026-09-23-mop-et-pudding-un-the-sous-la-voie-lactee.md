@@ -6,7 +6,7 @@ date: 2026-09-23 20:00:00 +0300
 author: Armelle
 image: 'images/mop-et-pudding-un-the-sous-la-voie-lactee-cover.jpg'
 tags: ["Manga","Amour"]
-featured: true
+featured: false
 toc: true
 ---
 
