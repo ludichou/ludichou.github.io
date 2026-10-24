@@ -6,7 +6,7 @@ date: 2026-09-26 20:00:00 +0300
 author: Armelle
 image: 'images/en-attendant-noel-cover.jpg'
 tags: ["Noel"]
-featured: true
+featured: false
 toc: true
 ---
 

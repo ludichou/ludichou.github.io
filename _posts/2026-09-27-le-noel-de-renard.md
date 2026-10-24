@@ -2,11 +2,11 @@
 layout: post
 title: Le Noël de Renard
 description: À la maison, on adore suivre les aventures de Renard ! Alors, forcément, nous avions hâte de le retrouver dans une nouvelle histoire autour de Noël.
-date: 2026-09-27 20:00:00 +0300
+date: 2026-10-01 20:00:00 +0300
 author: Armelle
 image: 'images/le-noel-de-renard-cover.jpg'
 tags: ["Noel","Humour"]
-featured: true
+featured: false
 toc: true
 ---
 
