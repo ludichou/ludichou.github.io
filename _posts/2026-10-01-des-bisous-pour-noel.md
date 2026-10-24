@@ -5,7 +5,7 @@ description: Édouard a adoré explorer les découpes de cet album de Noël et d
 date: 2026-10-01 20:00:00 +0300
 author: Armelle
 image: 'images/des-bisous-pour-noel-cover.jpg'
-tags: ["Noel"]
+tags: ["Noel","Animaux","Amour"]
 featured: true
 toc: true
 ---
