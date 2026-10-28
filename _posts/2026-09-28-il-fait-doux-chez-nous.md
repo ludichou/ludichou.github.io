@@ -6,7 +6,7 @@ date: 2026-09-28 20:00:00 +0300
 author: Armelle
 image: 'images/il-fait-doux-chez-nous-cover.jpg'
 tags: ["Flaps","Changement"]
-featured: true
+featured: false
 toc: true
 ---
 

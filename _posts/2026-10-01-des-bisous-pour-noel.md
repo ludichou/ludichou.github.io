@@ -6,7 +6,7 @@ date: 2026-10-01 20:00:00 +0300
 author: Armelle
 image: 'images/des-bisous-pour-noel-cover.jpg'
 tags: ["Noel","Animaux","Amour"]
-featured: true
+featured: false
 toc: true
 ---
 

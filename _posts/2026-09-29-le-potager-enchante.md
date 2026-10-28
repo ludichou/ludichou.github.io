@@ -6,7 +6,7 @@ date: 2026-09-29 20:00:00 +0300
 author: Armelle
 image: 'images/le-potager-enchante-cover.jpg'
 tags: ["Flaps","Nature"]
-featured: true
+featured: false
 toc: true
 ---
 
