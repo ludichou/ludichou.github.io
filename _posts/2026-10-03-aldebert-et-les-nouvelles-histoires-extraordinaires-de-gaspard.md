@@ -13,9 +13,9 @@ toc: true
 {: .q-left }
 
 Langue : Français.  
-Auteur : Aldebert. 
-Illustrations : Florent Bégu.
-Encreur : Maëlys Cantreau et Dayan Dewaele.               
+Auteur : Aldebert.   
+Illustrations : Florent Bégu.  
+Encreur : Maëlys Cantreau et Dayan Dewaele.                 
 Editeur : Glénat Jeunesse.            
 Age : Dès 7 ans.                            
 Date de parution : 28 octobre 2026.        
@@ -26,7 +26,7 @@ Date de parution : 28 octobre 2026.
 
 " Toujours prêt à relever un défi, il a le don de se retrouver au coeur d'enquêtes extraordinaires".
 
-" Au programme : démasquer u chien-garou qui fait trembler toute la colonie, percer le secret de la mystérieuse maison dentée, ou encore sauver les animaux du monde entier grâce à d'incroyables portails magiques".
+" Au programme : démasquer un chien-garou qui fait trembler toute la colonie, percer le secret de la mystérieuse maison dentée, ou encore sauver les animaux du monde entier grâce à d'incroyables portails magiques".
 
 ## Pourquoi j'aime Les nouvelles histoires extraordinaires de Gaspard?
 
