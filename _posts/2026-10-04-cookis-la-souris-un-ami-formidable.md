@@ -6,7 +6,7 @@ date: 2026-10-04 20:00:00 +0300
 author: Armelle
 image: 'images/cookie-la-souris-un-ami-formidable-cover.jpg'
 tags: ["Amitié","Diffférence"]
-featured: true
+featured: false
 toc: true
 ---
 

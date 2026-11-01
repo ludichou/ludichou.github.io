@@ -6,7 +6,7 @@ date: 2026-10-02 20:00:00 +0300
 author: Armelle
 image: 'images/promenade-au-louvre-cover.jpg'
 tags: ["Coloriage","Coloriage mystère"]
-featured: true
+featured: false
 toc: true
 ---
 

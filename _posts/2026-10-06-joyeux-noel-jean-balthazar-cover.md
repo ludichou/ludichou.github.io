@@ -6,7 +6,7 @@ date: 2026-10-02 20:00:00 +0300
 author: Armelle
 image: 'images/joyeux-noel-jean-balthazar-cover.jpg'
 tags: ["Noel","Conte","Amitié","Différence"]
-featured: true
+featured: false
 toc: true
 ---
 
