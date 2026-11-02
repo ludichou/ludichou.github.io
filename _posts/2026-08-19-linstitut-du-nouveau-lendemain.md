@@ -5,7 +5,7 @@ description: Une dystopie intriguante où j’ai tenté de percer les secrets de
 date: 2026-08-19 20:00:00 +0300
 author: Armelle
 image: 'images/linstitut-du-nouveau-lendemain-cover.jpg'
-tags: ["Dsytopie","Roman"]
+tags: ["Dystopie","Roman"]
 featured: false
 toc: true
 ---

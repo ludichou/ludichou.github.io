@@ -6,7 +6,7 @@ date: 2026-10-07 20:00:00 +0300
 author: Armelle
 image: 'images/lile-aux-dinosaures-cover.jpg'
 tags: ["Dinosaures","Jeux","Construction","Aventure"]
-featured: true
+featured: false
 toc: true
 ---
 

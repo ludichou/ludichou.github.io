@@ -22,7 +22,7 @@ Date de parution : 4 juin 2025.
 
 ## Résumé
 
-""Quoi... ? ! Pourquoi fait-il déja TOUT NOIR? Je croyais qu'on était EN ETE. En été, le soleil se couche tard, OIseau l'a dit/ Il doit y avoir un VOLEUR DE SOLEIL!".
+"Quoi... ? ! Pourquoi fait-il déja TOUT NOIR? Je croyais qu'on était EN ETE. En été, le soleil se couche tard, OIseau l'a dit/ Il doit y avoir un VOLEUR DE SOLEIL!".
 
 "Une histoire hilarante d’écureuil et d’oiseau pour comprendre le rythme du jour et de la nuit au fil des saisons".
 

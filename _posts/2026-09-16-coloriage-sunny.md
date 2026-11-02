@@ -5,7 +5,7 @@ description: On adore la collection Sunny et ses amis que ce soit les albums, le
 date: 2026-09-16 20:00:00 +0300
 author: Armelle
 image: 'images/coloriage-palmiers-chaussettes-et-buche-glacee-cover.jpg'
-tags: ["Coloriage","Noël"]
+tags: ["Coloriage","Noel"]
 featured: false
 toc: true
 ---

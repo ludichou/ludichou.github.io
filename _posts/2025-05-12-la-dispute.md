@@ -5,7 +5,7 @@ description: À la maison, les conflits entre frères et sœurs font parfois par
 date: 2025-05-12 22:00:00 +0300
 author: Armelle
 image: 'images/la-dispute-cover.jpg'
-tags: ["Conflit", "Fratrie"]
+tags: ["Conflits", "Fratrie"]
 featured: false
 toc: true
 ---

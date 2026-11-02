@@ -5,7 +5,7 @@ description: On s'est identifié à Ours, on est gourmand, j'adore le thé et pa
 date: 2026-10-10 20:00:00 +0300
 author: Armelle
 image: 'images/un-hiver-chez-bluet-cover.jpg'
-tags: ["Hiver","Ours","Amitié", "Peur"]
+tags: ["Hiver","Ours","Amitié", "Peur","Saison"]
 featured: true
 toc: true
 ---

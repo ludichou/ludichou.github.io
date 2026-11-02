@@ -5,7 +5,7 @@ description: Un album plein d'humour qui questionne notre quotidien souvent ryth
 date: 2026-08-09 20:00:00 +0300
 author: Armelle
 image: 'images/les-pendules-du-palais-cover.jpg'
-tags: [""]
+tags: ["Humour"]
 featured: true
 toc: true
 ---
