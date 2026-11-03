@@ -15,7 +15,7 @@ toc: true
 Langue : Français.  
 Auteur : Angélique Leone. 
 Illustrations : Lorenzo Sangiò.               
-Editeur : 28 octobre 2026.           
+Editeur : Kaléidoscope.           
 Age : Dès 4 ans.                             
 Date de parution : 28 octobre 2026.       
 

@@ -6,7 +6,7 @@ date: 2026-10-10 20:00:00 +0300
 author: Armelle
 image: 'images/un-hiver-chez-bluet-cover.jpg'
 tags: ["Hiver","Ours","Amitié", "Peur","Saison"]
-featured: true
+featured: false
 toc: true
 ---
 

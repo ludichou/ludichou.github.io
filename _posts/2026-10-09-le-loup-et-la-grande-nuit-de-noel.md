@@ -6,7 +6,7 @@ date: 2026-10-09 20:00:00 +0300
 author: Armelle
 image: 'images/le-loup-et-la-grande-nuit-de-noel-cover.jpg'
 tags: ["Loup","Noel","Humour"]
-featured: true
+featured: false
 toc: true
 ---
 
