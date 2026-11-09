@@ -6,7 +6,7 @@ date: 2026-10-15 20:00:00 +0300
 author: Armelle
 image: 'images/lautre-ecureuil-cover.jpg'
 tags: ["Difference","Exclusion","Recherche d'identité"]
-featured: true
+featured: false
 toc: true
 ---
 

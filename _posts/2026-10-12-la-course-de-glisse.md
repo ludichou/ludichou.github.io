@@ -6,7 +6,7 @@ date: 2026-10-12 20:00:00 +0300
 author: Armelle
 image: 'images/la-course-de-glisse-cover.jpg'
 tags: ["Hiver","Saison"]
-featured: true
+featured: false
 toc: true
 ---
 

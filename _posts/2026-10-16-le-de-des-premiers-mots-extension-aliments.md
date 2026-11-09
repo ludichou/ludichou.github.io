@@ -6,7 +6,7 @@ date: 2026-10-16 20:00:00 +0300
 author: Armelle
 image: 'images/de-des-premiers-mots-les-aliments-cover.jpg'
 tags: ["Vocabulaire","Jeux"]
-featured: true
+featured: false
 toc: true
 ---
 

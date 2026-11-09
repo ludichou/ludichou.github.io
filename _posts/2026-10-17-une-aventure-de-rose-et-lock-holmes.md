@@ -6,7 +6,7 @@ date: 2026-10-17 20:00:00 +0300
 author: Armelle
 image: 'images/une-aventure-de-rose-et-lock-holmes-cover.jpg'
 tags: ["Enquete","Livre-jeu","Dinosaures"]
-featured: true
+featured: false
 toc: true
 ---
 

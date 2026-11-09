@@ -6,7 +6,7 @@ date: 2026-10-14 20:00:00 +0300
 author: Armelle
 image: 'images/chevalier-chouette-collector-cover.jpg'
 tags: ["Chevalier","Amitié","Dragon"]
-featured: true
+featured: false
 toc: true
 ---
 

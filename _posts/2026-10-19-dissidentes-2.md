@@ -6,7 +6,7 @@ date: 2026-10-19 20:00:00 +0300
 author: Armelle
 image: 'images/dissidentes-tome-2-cover.jpg'
 tags: ["Roman","Dystopie"]
-featured: true
+featured: false
 toc: true
 ---
 
