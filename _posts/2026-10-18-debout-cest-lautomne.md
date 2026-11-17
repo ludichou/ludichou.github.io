@@ -6,7 +6,7 @@ date: 2026-10-18 20:00:00 +0300
 author: Armelle
 image: 'images/debout-cest-lautomne-cover.jpg'
 tags: ["Automne","Saison","Amitié","Animaux","Ours"]
-featured: true
+featured: false
 toc: true
 ---
 

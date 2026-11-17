@@ -6,7 +6,7 @@ date: 2026-10-20 20:00:00 +0300
 author: Armelle
 image: 'images/super-mamie-tome-1-cover.jpg'
 tags: ["BD","Humour"]
-featured: true
+featured: false
 toc: true
 ---
 

@@ -6,7 +6,7 @@ date: 2026-10-23 20:00:00 +0300
 author: Armelle
 image: 'images/je-suis-en-cp-histoires-pour-toute-lannee-cover.jpg'
 tags: ["Ecole","Lecture","CP"]
-featured: true
+featured: false
 toc: true
 ---
 

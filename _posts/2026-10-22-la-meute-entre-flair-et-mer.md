@@ -6,7 +6,7 @@ date: 2026-10-22 20:00:00 +0300
 author: Armelle
 image: 'images/la-meute-entre-flair-et-mer-cover.jpg'
 tags: ["Amitié","Aventure","Mer","Ecologie"]
-featured: true
+featured: false
 toc: true
 ---
 

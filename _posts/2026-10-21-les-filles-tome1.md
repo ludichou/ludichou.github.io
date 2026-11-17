@@ -6,7 +6,7 @@ date: 2026-10-21 20:00:00 +0300
 author: Armelle
 image: 'images/les-filles-tome-1-cover.jpg'
 tags: ["BD","Humour"]
-featured: true
+featured: false
 toc: true
 ---
 

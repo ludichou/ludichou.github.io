@@ -6,7 +6,7 @@ date: 2026-10-26 20:00:00 +0300
 author: Armelle
 image: 'images/love-at-the-whisper-shop-cover.jpg'
 tags: ["Roman","Romance","Automne","Young adult"]
-featured: true
+featured: false
 toc: true
 ---
 
