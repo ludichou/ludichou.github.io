@@ -5,7 +5,7 @@ description:  Les histoires d'ours ont toujours une place particulière dans nos
 date: 2026-11-01 20:00:00 +0300
 author: Armelle
 image: 'images/au-fil-des-hivers-cover.jpg'
-tags: ["Hiver","Saison","Ours","Amour"]
+tags: ["Hiver","Saison","Ours","Amour","Cycle de la vie"]
 featured: true
 toc: true
 ---
