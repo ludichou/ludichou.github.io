@@ -14,7 +14,7 @@ toc: true
 
 Langue : Français.  
 Auteur : Sylvain Zorzin.  
-Illustrations :  Alice Jago.  
+Illustrations : Alice Jago.  
 Collection : La forêt du BoisJoli.               
 Editeur : Fleurus.           
 Age : Dès 3 ans.                            
