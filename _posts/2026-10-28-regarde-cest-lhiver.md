@@ -6,7 +6,7 @@ date: 2026-10-28 20:00:00 +0300
 author: Armelle
 image: 'images/regarde-cest-lhiver-cover.jpg'
 tags: ["Saison","Hiver","Animaux"]
-featured: true
+featured: false
 toc: true
 ---
 

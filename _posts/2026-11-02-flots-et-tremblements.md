@@ -6,7 +6,7 @@ date: 2026-11-02 20:00:00 +0300
 author: Armelle
 image: 'images/flots-tremblements-cover.jpg'
 tags: ["Univers","Cycle de la vie","Science"]
-featured: true
+featured: false
 toc: true
 ---
 

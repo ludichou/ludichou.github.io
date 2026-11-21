@@ -6,7 +6,7 @@ date: 2026-11-01 20:00:00 +0300
 author: Armelle
 image: 'images/au-fil-des-hivers-cover.jpg'
 tags: ["Hiver","Saison","Ours","Amour","Cycle de la vie"]
-featured: true
+featured: false
 toc: true
 ---
 

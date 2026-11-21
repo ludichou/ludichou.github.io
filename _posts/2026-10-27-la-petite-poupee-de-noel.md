@@ -6,7 +6,7 @@ date: 2026-10-27 20:00:00 +0300
 author: Armelle
 image: 'images/la-petite-poupee-de-noel-cover.jpg'
 tags: ["Noel","Valeurs"]
-featured: true
+featured: false
 toc: true
 ---
 

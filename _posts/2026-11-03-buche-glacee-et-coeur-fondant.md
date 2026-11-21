@@ -6,7 +6,7 @@ date: 2026-11-03 20:00:00 +0300
 author: Armelle
 image: 'images/buche-glacee-et-coeurs-fondants-cover.jpg'
 tags: ["Roman","Romance"]
-featured: true
+featured: false
 toc: true
 ---
 
