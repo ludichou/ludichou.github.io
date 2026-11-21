@@ -4,7 +4,7 @@ title: Mes premiers coloriages. Joyeux Noël ! de Alice Jago.
 description: "Louis avait eu un vrai coup de cœur pour Colle et colorie : c'est l'automne. Il était donc ravi de découvrir ce nouveau titre sur Noël ! Il aime beaucoup le principe qui associe stickers et coloriages, et avait hâte de retrouver cette activité avec l'univers des fêtes de fin d'année."
 date: 2026-11-07 20:00:00 +0300
 author: Armelle
-image: 'images/mes-premiers-coloriages-joyeux-noel-cover.jpg
+image: 'images/mes-premiers-coloriages-joyeux-noel-cover.jpg'
 tags: ["Coloriage","Noel","Stickers"]
 featured: true
 toc: true
