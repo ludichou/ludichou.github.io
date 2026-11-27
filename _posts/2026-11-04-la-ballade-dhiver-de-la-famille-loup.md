@@ -6,7 +6,7 @@ date: 2026-11-02 20:00:00 +0300
 author: Armelle
 image: 'images/la-balade-dhiver-de-la-famille-loup-cover.jpg'
 tags: ["Hiver","Saison","Animaux","Loup"]
-featured: true
+featured: false
 toc: true
 ---
 

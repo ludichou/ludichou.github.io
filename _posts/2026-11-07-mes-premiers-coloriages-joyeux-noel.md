@@ -6,7 +6,7 @@ date: 2026-11-07 20:00:00 +0300
 author: Armelle
 image: 'images/mes-premiers-coloriages-joyeux-noel-cover.jpg'
 tags: ["Coloriage","Noel","Stickers"]
-featured: true
+featured: false
 toc: true
 ---
 

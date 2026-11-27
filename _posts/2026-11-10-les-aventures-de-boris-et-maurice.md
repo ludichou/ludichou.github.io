@@ -6,7 +6,7 @@ date: 2026-11-10 20:00:00 +0300
 author: Armelle
 image: 'images/les-aventures-de-maurice-et-boris-cover.jpg'
 tags: ["Contes","Aventure","Animaux","Valeurs","Emotions"]
-featured: true
+featured: false
 toc: true
 ---
 

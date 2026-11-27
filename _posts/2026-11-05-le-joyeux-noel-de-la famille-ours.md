@@ -6,7 +6,7 @@ date: 2026-11-05 20:00:00 +0300
 author: Armelle
 image: 'images/le-joyeux-noel-de-la-famille-ours-cover.jpg'
 tags: ["Noel","Ours","Flaps"]
-featured: true
+featured: false
 toc: true
 ---
 

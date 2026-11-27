@@ -6,7 +6,7 @@ date: 2026-11-11 20:00:00 +0300
 author: Armelle
 image: 'images/chrismas-is-not-dead-cover.jpg'
 tags: ["Roman avant","Roman","Romance","Noel"]
-featured: true
+featured: false
 toc: true
 ---
 
